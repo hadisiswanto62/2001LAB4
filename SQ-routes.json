@@ -1,0 +1,410 @@
+{
+    "Addis Ababa": [
+        "Bangkok"
+    ],
+    "Adelaide": [
+        "Singapore"
+    ],
+    "Auckland": [
+        "Singapore"
+    ],
+    "Ahmedabad": [
+        "Singapore"
+    ],
+    "Amsterdam": [
+        "Singapore"
+    ],
+    "Barcelona": [
+        "Sao Paulo",
+        "Milano",
+        "Singapore"
+    ],
+    "Bandung": [
+        "Singapore"
+    ],
+    "Kota Kinabalu": [
+        "Singapore"
+    ],
+    "Bangkok": [
+        "Addis Ababa",
+        "Singapore"
+    ],
+    "Bangalore": [
+        "Singapore"
+    ],
+    "Brisbane": [
+        "Christchurch",
+        "Cloncurry",
+        "Singapore"
+    ],
+    "Mumbai": [
+        "Singapore"
+    ],
+    "Balikpapan": [
+        "Singapore"
+    ],
+    "Bandar Seri Begawan": [
+        "Singapore"
+    ],
+    "Cairo": [
+        "Dubai"
+    ],
+    "Guangzhou": [
+        "Singapore"
+    ],
+    "Kolkata": [
+        "Singapore"
+    ],
+    "Paris": [
+        "Singapore"
+    ],
+    "Cebu": [
+        "Davao",
+        "Singapore"
+    ],
+    "Jakarta": [
+        "Singapore"
+    ],
+    "Christchurch": [
+        "Singapore"
+    ],
+    "Coimbatore": [
+        "Singapore"
+    ],
+    "Chongqing": [
+        "Singapore"
+    ],
+    "Colombo": [
+        "Singapore"
+    ],
+    "Cloncurry": [
+        "Brisbane"
+    ],
+    "Chiang Mai": [
+        "Singapore"
+    ],
+    "Kochi": [
+        "Singapore"
+    ],
+    "Copenhagen": [
+        "Singapore"
+    ],
+    "Cape Town": [
+        "Johannesburg"
+    ],
+    "Changcha": [
+        "Singapore"
+    ],
+    "Chengdu": [
+        "Singapore"
+    ],
+    "Dhaka": [
+        "Singapore"
+    ],
+    "Danang": [
+        "Siem-reap",
+        "Singapore"
+    ],
+    "Delhi": [
+        "Singapore"
+    ],
+    "Moscow": [
+        "Houston",
+        "Singapore"
+    ],
+    "Denpasar": [
+        "Singapore"
+    ],
+    "Darwin": [
+        "Singapore"
+    ],
+    "Davao": [
+        "Cebu",
+        "Singapore"
+    ],
+    "Dubai": [
+        "Cairo",
+        "Singapore"
+    ],
+    "Rome": [
+        "Singapore"
+    ],
+    "Frankfurt": [
+        "New York",
+        "Lyon",
+        "Singapore"
+    ],
+    "Fukuoka": [
+        "Singapore"
+    ],
+    "Sao Paulo": [
+        "Barcelona"
+    ],
+    "Hanoi": [
+        "Singapore"
+    ],
+    "Hong Kong": [
+        "San Francisco",
+        "Singapore"
+    ],
+    "Phuket": [
+        "Singapore"
+    ],
+    "Tokyo": [
+        "Singapore",
+        "Los Angeles",
+        "Singapore"
+    ],
+    "Houston": [
+        "Moscow"
+    ],
+    "Seoul": [
+        "San Francisco",
+        "Singapore"
+    ],
+    "Istanbul": [
+        "Singapore"
+    ],
+    "Jeddah": [
+        "Riyadh"
+    ],
+    "New York": [
+        "Frankfurt"
+    ],
+    "Johannesburg": [
+        "Cape Town",
+        "Singapore"
+    ],
+    "Yogyakarta": [
+        "Singapore"
+    ],
+    "Kuching": [
+        "Singapore"
+    ],
+    "Osaka": [
+        "Singapore"
+    ],
+    "Kunming": [
+        "Singapore"
+    ],
+    "Kathmandu": [
+        "Singapore"
+    ],
+    "Kuala Lumpur": [
+        "Singapore"
+    ],
+    "Los Angeles": [
+        "Tokyo",
+        "Chicago"
+    ],
+    "Pulau": [
+        "Singapore"
+    ],
+    "London": [
+        "Singapore"
+    ],
+    "Praya": [
+        "Singapore"
+    ],
+    "Madras": [
+        "Singapore"
+    ],
+    "Manchester": [
+        "Munich"
+    ],
+    "Manado": [
+        "Singapore"
+    ],
+    "Melbourne": [
+        "Christchurch",
+        "Singapore"
+    ],
+    "Male": [
+        "Singapore"
+    ],
+    "Manila": [
+        "Singapore"
+    ],
+    "Munich": [
+        "Manchester",
+        "Singapore"
+    ],
+    "Milano": [
+        "Barcelona",
+        "Singapore"
+    ],
+    "Nagoya": [
+        "Singapore"
+    ],
+    "Beijing": [
+        "Singapore"
+    ],
+    "Penang": [
+        "Singapore"
+    ],
+    "Perth": [
+        "Singapore"
+    ],
+    "Pekanbaru": [
+        "Singapore"
+    ],
+    "Palembang": [
+        "Singapore"
+    ],
+    "Phnom-penh": [
+        "Singapore"
+    ],
+    "Shanghai": [
+        "Singapore"
+    ],
+    "Siem-reap": [
+        "Danang",
+        "Phnom-penh",
+        "Singapore"
+    ],
+    "Yangon": [
+        "Singapore"
+    ],
+    "Riyadh": [
+        "Jeddah",
+        "Singapore"
+    ],
+    "San Francisco": [
+        "Hong Kong",
+        "Seoul"
+    ],
+    "Ho Chi Minh City": [
+        "Singapore"
+    ],
+    "Singapore": [
+        "Adelaide",
+        "Auckland",
+        "Ahmedabad",
+        "Amsterdam",
+        "Barcelona",
+        "Bandung",
+        "Kota Kinabalu",
+        "Bangkok",
+        "Bangalore",
+        "Brisbane",
+        "Mumbai",
+        "Balikpapan",
+        "Bandar Seri Begawan",
+        "Guangzhou",
+        "Kolkata",
+        "Paris",
+        "Cebu",
+        "Jakarta",
+        "Christchurch",
+        "Coimbatore",
+        "Chongqing",
+        "Colombo",
+        "Chiang Mai",
+        "Kochi",
+        "Copenhagen",
+        "Changcha",
+        "Chengdu",
+        "Dhaka",
+        "Danang",
+        "Delhi",
+        "Moscow",
+        "Denpasar",
+        "Darwin",
+        "Davao",
+        "Dubai",
+        "Rome",
+        "Frankfurt",
+        "Fukuoka",
+        "Hanoi",
+        "Hong Kong",
+        "Phuket",
+        "Tokyo",
+        "Seoul",
+        "Istanbul",
+        "Johannesburg",
+        "Yogyakarta",
+        "Kuching",
+        "Osaka",
+        "Kunming",
+        "Kathmandu",
+        "Kuala Lumpur",
+        "Pulau",
+        "London",
+        "Praya",
+        "Madras",
+        "Manado",
+        "Melbourne",
+        "Male",
+        "Manila",
+        "Munich",
+        "Milano",
+        "Nagoya",
+        "Tokyo",
+        "Beijing",
+        "Penang",
+        "Perth",
+        "Pekanbaru",
+        "Palembang",
+        "Phnom-penh",
+        "Shanghai",
+        "Siem-reap",
+        "Yangon",
+        "Riyadh",
+        "Ho Chi Minh City",
+        "Solo City",
+        "Semarang",
+        "Surabaya",
+        "Sydney",
+        "Shenzhen",
+        "Taipei",
+        "Trivandrum",
+        "Ujung Pandang",
+        "Ko Samui",
+        "Vishakhapatnam",
+        "Wuhan",
+        "Xiamen",
+        "Zurich"
+    ],
+    "San Jose": [
+        "Los Angeles"
+    ],
+    "Solo City": [
+        "Singapore"
+    ],
+    "Semarang": [
+        "Singapore"
+    ],
+    "Surabaya": [
+        "Singapore"
+    ],
+    "Sydney": [
+        "Singapore"
+    ],
+    "Shenzhen": [
+        "Singapore"
+    ],
+    "Taipei": [
+        "Singapore"
+    ],
+    "Trivandrum": [
+        "Singapore"
+    ],
+    "Ujung Pandang": [
+        "Singapore"
+    ],
+    "Ko Samui": [
+        "Singapore"
+    ],
+    "Vishakhapatnam": [
+        "Singapore"
+    ],
+    "Wuhan": [
+        "Singapore"
+    ],
+    "Xiamen": [
+        "Singapore"
+    ],
+    "Zurich": [
+        "Singapore"
+    ]
+}
