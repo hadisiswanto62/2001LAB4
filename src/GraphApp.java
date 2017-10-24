@@ -3,10 +3,13 @@ import org.json.*;
 import java.io.*;
 
 public class GraphApp {
-	static JSONArray arrayData;
+	static JSONObject airportsID;
+	static JSONObject planeRoute;
 	public static void main(String args[]){
 		//test json
-		getFile();
+		getFile("airports-name.json", airportsID);
+		getFile("SQ-routes.json", planeRoute);
+		System.out.print(airportsID.getInt("Bangkok"));
 	}
 	public static void main2(String args[]){
 		Scanner sc = new Scanner(System.in);
@@ -20,15 +23,24 @@ public class GraphApp {
 		g.printGraph();
 		g.BFS(1,2);
 	}
-	public static void getFile(){
+	public static void getFile(String filename, JSONObject returnArray){
 		try{
-			FileReader filereader = new FileReader("test1.json");
+			FileReader filereader = new FileReader(filename);
 			BufferedReader bufferedreader = new BufferedReader(filereader);
 			String line = bufferedreader.readLine();
 			bufferedreader.close();
 			//While we have read in a valid line
 			JSONObject obj = new JSONObject(line);
-			arrayData = obj.getJSONArray("data");
+			returnArray = obj;
+		}
+		catch(FileNotFoundException filenotfoundexception)
+		{
+			System.out.println("File not found.");
+		}
+		catch(IOException ioexception)
+		{
+			System.out.println("File input error occured!");
+			ioexception.printStackTrace();
 		}
 	}
 }
