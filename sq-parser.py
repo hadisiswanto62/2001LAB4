@@ -33,8 +33,8 @@ def get_data():
                 # print(from_city, from_country, to_city, to_country)
             # print(json.dumps(routes, indent=4))
             with open('airports-name.json', 'w') as temp:
-                temp.write(json.dumps(countries, indent=4))
+                temp.write(json.dumps(countries))
             with open('SQ-routes.json', 'w') as temp:
-                temp.write(json.dumps(routes, indent=4))
+                temp.write(json.dumps(routes))
 
 get_data()
