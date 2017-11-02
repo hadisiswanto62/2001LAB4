@@ -8,7 +8,7 @@ public class GraphApp {
 	public static JSONObject planeRoute = getFile("SQ-routes.json");
 	
 	public static void main(String args[]){
-		//test();
+//		test();
 		long start,stop;
 		Graph gr = new Graph(size);
 		gr = getGraph();
@@ -32,13 +32,9 @@ public class GraphApp {
 		int graphSize = 5;
 		Graph g = new Graph(graphSize);
 		g.addEdge(0, 1);
-		g.addEdge(1, 0);
 		g.addEdge(0, 2);
-		g.addEdge(2, 0);
 		g.addEdge(1, 3);
-		g.addEdge(3, 1);
 		g.addEdge(3, 4);
-		g.addEdge(4, 3);
 		g.printGraph();
 		g.BFS(1,4);
 	}
