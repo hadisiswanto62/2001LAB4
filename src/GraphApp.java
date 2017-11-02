@@ -9,9 +9,11 @@ public class GraphApp {
 	
 	public static void main(String args[]){
 		//test();
+		long start,stop;
 		Graph gr = new Graph(size);
 		gr = getGraph();
 //		gr.printGraph();
+		start = System.nanoTime();
 		String dep,arr;
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Insert departure city");
@@ -19,6 +21,8 @@ public class GraphApp {
 		System.out.println("Insert arrival city");
 		arr = scan.nextLine();
 		gr.BFS(getAirportID(dep), getAirportID(arr));
+		stop = System.nanoTime();
+		System.out.println("CPU Time = "+(stop-start)+" ns");
 //		gr.BFS(0, 8);
 //		System.out.println(getAirportName(3)+getRoute(3));
 		

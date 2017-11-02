@@ -64,6 +64,7 @@ public class Graph {
 			int x = path.get(i);
 			System.out.print(this.nodeList[x].name + " ");
 		}
+		System.out.println();
 		
 	}
 	
