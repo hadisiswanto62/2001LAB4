@@ -15,9 +15,9 @@ public class Graph {
 	}
 	public void addEdge(int node1, int node2){
 		Edge e1 = new Edge(node1, node2);
-		Edge e2 = new Edge(node2, node1);
+		//Edge e2 = new Edge(node2, node1);
 		nodeList[node1].addEdge(e1);
-		nodeList[node2].addEdge(e2);
+		//nodeList[node2].addEdge(e2);
 	}
 	public void setNodeName(int i, String name){
 		this.nodeList[i].name = name;
@@ -29,12 +29,13 @@ public class Graph {
 		marked[s] = true;
 		boolean found = false;
 		queue.add(s);
-		
+		System.out.print(this.nodeList[s].id+", ");
+		int a=0;
 		while (queue.size() != 0 && !found){
-			s = queue.get(0);
+			a = queue.get(0);
 			queue.remove(0);
-			System.out.print(this.nodeList[s].id+" ");
-			for (Edge i : this.nodeList[s].getEdgeList()){
+			//System.out.print(this.nodeList[s].id+", ");
+			for (Edge i : this.nodeList[a].getEdgeList()){
 				int n = i.getDestination();
 				if(n == target){
 					found = true;

@@ -3,23 +3,40 @@ import org.json.*;
 import java.io.*;
 
 public class GraphApp {
+	private static final int size = 100;
 	public static JSONObject airportsID = getFile("airports-name.json");
 	public static JSONObject planeRoute = getFile("SQ-routes.json");
 	
 	public static void main(String args[]){
-		System.out.println(getRoute(3));
+		//test();
+		Graph gr = new Graph(size);
+		gr = getGraph();
+		gr.printGraph();
+		/*String dep,arr;
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Insert departure city");
+		dep = scan.nextLine();
+		System.out.println("Insert arrival city");
+		arr = scan.nextLine();
+		gr.BFS(getAirportID(dep), getAirportID(arr));*/
+		//gr.BFS(0, 4);
+		//System.out.println(getAirportName(3)+getRoute(3));
+		
 	}
 	
 	public static void test(){
-		Scanner sc = new Scanner(System.in);
 		int graphSize = 5;
 		Graph g = new Graph(graphSize);
 		g.addEdge(0, 1);
+		g.addEdge(1, 0);
 		g.addEdge(0, 2);
+		g.addEdge(2, 0);
 		g.addEdge(1, 3);
-		g.addEdge(1, 4);
+		g.addEdge(3, 1);
+		g.addEdge(3, 4);
+		g.addEdge(4, 3);
 		g.printGraph();
-		g.BFS(1,2);
+		g.BFS(1,4);
 	}
 	
 	public static int getAirportID(String airportName){
@@ -45,6 +62,24 @@ public class GraphApp {
 		}
 		return null;
 	}
+	
+	public static Graph getGraph() {
+		Graph graph = new Graph(size);
+		for(int i=0;i<size;i++)
+		{
+			graph.setNodeName(i,getAirportName(i));
+			JSONArray array = new JSONArray();
+			array = getRoute(i);
+			Integer length = array.length();
+			for(int j=0; j<length;j++)
+			{
+				String name = array.getString(j);
+				graph.addEdge(i, getAirportID(name));
+			}
+		}
+		return graph;
+	}
+	
 	public static JSONObject getFile(String filename){
 		try{
 			FileReader filereader = new FileReader(filename);
