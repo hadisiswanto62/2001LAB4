@@ -11,16 +11,16 @@ public class GraphApp {
 		//test();
 		Graph gr = new Graph(size);
 		gr = getGraph();
-		//gr.printGraph();
-//		String dep,arr;
-//		Scanner scan = new Scanner(System.in);
-//		System.out.println("Insert departure city");
-//		dep = scan.nextLine();
-//		System.out.println("Insert arrival city");
-//		arr = scan.nextLine();
-//		gr.BFS(getAirportID(dep), getAirportID(arr));*/
-		gr.BFS(0, 4);
-		//System.out.println(getAirportName(3)+getRoute(3));
+//		gr.printGraph();
+		String dep,arr;
+		Scanner scan = new Scanner(System.in);
+		System.out.println("Insert departure city");
+		dep = scan.nextLine();
+		System.out.println("Insert arrival city");
+		arr = scan.nextLine();
+		gr.BFS(getAirportID(dep), getAirportID(arr));
+//		gr.BFS(0, 8);
+//		System.out.println(getAirportName(3)+getRoute(3));
 		
 	}
 	

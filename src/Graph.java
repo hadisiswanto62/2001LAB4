@@ -1,5 +1,6 @@
 import java.util.*;
 import java.io.*;
+import java.lang.reflect.Array;
 
 public class Graph {
 	private Node[] nodeList;
@@ -39,10 +40,10 @@ public class Graph {
 			//System.out.print(this.nodeList[s].id+", ");
 			for (Edge i : this.nodeList[s].getEdgeList()){
 				int n = i.getDestination();
-				source.put(n,s);
+				if(source.containsValue(n)==false)
+					source.put(n,s);
 				if(n == target){
 					found = true;
-//					System.out.print(this.nodeList[n].id+" ");
 					break;
 				}
 				if (!marked[n]){
@@ -52,24 +53,25 @@ public class Graph {
 			}
 		}
 		
-		int temp = target;
+		Integer temp = target;
 		path.add(temp);
-		
-		while (temp != init) {
-			path.add(source.get(temp));
-			temp = source.get(temp);
+		while(temp != init){
+			Integer x = source.get(temp);
+			path.add(x);
+			temp = x;
 		}
-		for (int i = path.size() - 1; i >= 0;i--) {
-			System.out.print(path.get(i) + " ");
+		for (int i = (path.size() - 1); i >= 0;i--) {
+			int x = path.get(i);
+			System.out.print(this.nodeList[x].name + " ");
 		}
 		
 	}
 	
 	public void printGraph(){
 		for (int i=0; i<this.totalNode; i++){
-			System.out.print(i+ " = ");
+			System.out.print(this.nodeList[i].name+ " = ");
 			for (Edge edge : this.nodeList[i].getEdgeList()){
-				System.out.print(edge.getDestination() + ", ");
+				System.out.print(this.nodeList[edge.getDestination()].name + ", ");
 			}
 			System.out.println();
 		}
