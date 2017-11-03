@@ -13,13 +13,13 @@ public class GraphApp {
 		Graph gr = new Graph(size);
 		gr = getGraph();
 //		gr.printGraph();
-		start = System.nanoTime();
 		String dep,arr;
 		Scanner scan = new Scanner(System.in);
 		System.out.println("Insert departure city");
 		dep = scan.nextLine();
 		System.out.println("Insert arrival city");
 		arr = scan.nextLine();
+		start = System.nanoTime();
 		gr.BFS(getAirportID(dep), getAirportID(arr));
 		stop = System.nanoTime();
 		System.out.println("CPU Time = "+(stop-start)+" ns");
