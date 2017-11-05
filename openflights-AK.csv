@@ -1,0 +1,181 @@
+﻿Date,From,To,Flight_Number,Airline,Distance,Duration,Seat,Seat_Type,Class,Reason,Plane,Registration,Trip,Note,From_OID,To_OID,Airline_OID,Plane_OID
+- -,AOR,KUL,AirAsia (AK),AirAsia,254,01:00,,,,,320,,,"Direct",3296,3304,576
+- -,BDO,KUL,AirAsia (AK),AirAsia,779,02:03,,,,,320,,,"Direct",3896,3304,576
+- -,BKI,CAN,AirAsia (AK),AirAsia,1219,02:56,,,,,320,,,"Direct",3269,3370,576
+- -,BKI,CGK,AirAsia (AK),AirAsia,1055,02:36,,,,,320,,,"Direct",3269,3275,576
+- -,BKI,HGH,AirAsia (AK),AirAsia,1701,03:54,,,,,320,,,"Direct",3269,3386,576
+- -,BKI,HKG,AirAsia (AK),AirAsia,1139,02:46,,,,,320,,,"Direct",3269,3077,576
+- -,BKI,JHB,AirAsia (AK),AirAsia,902,02:18,,,,,320,,,"Direct",3269,3303,576
+- -,BKI,KBR,AirAsia (AK),AirAsia,944,02:23,,,,,320,,,"Direct",3269,3298,576
+- -,BKI,KCH,AirAsia (AK),AirAsia,498,01:29,,,,,320,,,"Direct",3269,3263,576
+- -,BKI,KUL,AirAsia (AK),AirAsia,1011,02:31,,,,,320,,,"Direct",3269,3304,576
+- -,BKI,MYY,AirAsia (AK),AirAsia,180,00:51,,,,,320,,,"Direct",3269,3266,576
+- -,BKI,PEN,AirAsia (AK),AirAsia,1084,02:40,,,,,320,,,"Direct",3269,3308,576
+- -,BKI,SDK,AirAsia (AK),AirAsia,137,00:46,,,,,320,,,"Direct",3269,4141,576
+- -,BKI,SIN,AirAsia (AK),AirAsia,889,02:16,,,,,320,,,"Direct",3269,3316,576
+- -,BKI,SZX,AirAsia (AK),AirAsia,1162,02:49,,,,,320,,,"Direct",3269,3374,576
+- -,BKI,TPE,AirAsia (AK),AirAsia,1365,03:13,,,,,320,,,"Direct",3269,2276,576
+- -,BKI,TWU,AirAsia (AK),AirAsia,181,00:51,,,,,320,,,"Direct",3269,3271,576
+- -,BLR,KUL,AirAsia (AK),AirAsia,1790,04:04,,,,,320,,,"Direct",3131,3304,576
+- -,BPN,KUL,AirAsia (AK),AirAsia,1084,02:40,,,,,320,,,"Direct",3919,3304,576
+- -,BTJ,KUL,AirAsia (AK),AirAsia,473,01:26,,,,,320,,,"Direct",3294,3304,576
+- -,BTU,KCH,AirAsia (AK),AirAsia,216,00:55,,,,,320,,,"Direct",3262,3263,576
+- -,BTU,KUL,AirAsia (AK),AirAsia,780,02:03,,,,,320,,,"Direct",3262,3304,576
+- -,BWN,KUL,AirAsia (AK),AirAsia,923,02:20,,,,,320,,,"Direct",3272,3304,576
+- -,CAN,BKI,AirAsia (AK),AirAsia,1219,02:56,,,,,320,,,"Direct",3370,3269,576
+- -,CAN,KUL,AirAsia (AK),AirAsia,1622,03:44,,,,,320,,,"Direct",3370,3304,576
+- -,CCU,KUL,AirAsia (AK),AirAsia,1636,03:46,,,,,320,,,"Direct",3043,3304,576
+- -,CGK,BKI,AirAsia (AK),AirAsia,1055,02:36,,,,,320,,,"Direct",3275,3269,576
+- -,CGK,KUL,AirAsia (AK),AirAsia,701,01:54,,,,,320,,,"Direct",3275,3304,576
+- -,CNX,KUL,AirAsia (AK),AirAsia,1121,02:44,,,,,320,,,"Direct",3931,3304,576
+- -,COK,KUL,AirAsia (AK),AirAsia,1808,04:06,,,,,320,,,"Direct",3136,3304,576
+- -,DMK,KUL,AirAsia (AK),AirAsia,774,02:02,,,,,320,,,"Direct",3157,3304,576
+- -,DPS,KUL,AirAsia (AK),AirAsia,1219,02:56,,,,,320,,,"Direct",3940,3304,576
+- -,HAN,KUL,AirAsia (AK),AirAsia,1305,03:06,,,,,320,,,"Direct",3199,3304,576
+- -,HDY,KUL,AirAsia (AK),AirAsia,303,01:06,,,,,320,,,"Direct",3181,3304,576
+- -,HGH,BKI,AirAsia (AK),AirAsia,1701,03:54,,,,,320,,,"Direct",3386,3269,576
+- -,HKG,BKI,AirAsia (AK),AirAsia,1139,02:46,,,,,320,,,"Direct",3077,3269,576
+- -,HKG,KUL,AirAsia (AK),AirAsia,1579,03:39,,,,,320,,,"Direct",3077,3304,576
+- -,HKT,KUL,AirAsia (AK),AirAsia,437,01:22,,,,,320,,,"Direct",3179,3304,576
+- -,JHB,BKI,AirAsia (AK),AirAsia,902,02:18,,,,,320,,,"Direct",3303,3269,576
+- -,JHB,KBR,AirAsia (AK),AirAsia,326,01:09,,,,,320,,,"Direct",3303,3298,576
+- -,JHB,KCH,AirAsia (AK),AirAsia,461,01:25,,,,,320,,,"Direct",3303,3263,576
+- -,JHB,KUL,AirAsia (AK),AirAsia,155,00:48,,,,,320,,,"Direct",3303,3304,576
+- -,JHB,MYY,AirAsia (AK),AirAsia,735,01:58,,,,,320,,,"Direct",3303,3266,576
+- -,JHB,PEN,AirAsia (AK),AirAsia,344,01:11,,,,,320,,,"Direct",3303,3308,576
+- -,JHB,SBW,AirAsia (AK),AirAsia,575,01:39,,,,,320,,,"Direct",3303,3267,576
+- -,JHB,TWU,AirAsia (AK),AirAsia,1013,02:31,,,,,320,,,"Direct",3303,3271,576
+- -,JOG,KUL,AirAsia (AK),AirAsia,943,02:23,,,,,320,,,"Direct",3898,3304,576
+- -,KBR,BKI,AirAsia (AK),AirAsia,944,02:23,,,,,320,,,"Direct",3298,3269,576
+- -,KBR,JHB,AirAsia (AK),AirAsia,326,01:09,,,,,320,,,"Direct",3298,3303,576
+- -,KBR,KCH,AirAsia (AK),AirAsia,642,01:47,,,,,320,,,"Direct",3298,3263,576
+- -,KBR,KUL,AirAsia (AK),AirAsia,239,00:58,,,,,320,,,"Direct",3298,3304,576
+- -,KBR,SIN,AirAsia (AK),AirAsia,352,01:12,,,,,320,,,"Direct",3298,3316,576
+- -,KBV,KUL,AirAsia (AK),AirAsia,414,01:19,,,,,320,,,"Direct",3174,3304,576
+- -,KCH,BKI,AirAsia (AK),AirAsia,498,01:29,,,,,320,,,"Direct",3263,3269,576
+- -,KCH,BTU,AirAsia (AK),AirAsia,216,00:55,,,,,320,,,"Direct",3263,3262,576
+- -,KCH,JHB,AirAsia (AK),AirAsia,461,01:25,,,,,320,,,"Direct",3263,3303,576
+- -,KCH,KBR,AirAsia (AK),AirAsia,642,01:47,,,,,320,,,"Direct",3263,3298,576
+- -,KCH,KUL,AirAsia (AK),AirAsia,602,01:42,,,,,320,,,"Direct",3263,3304,576
+- -,KCH,LGK,AirAsia (AK),AirAsia,804,02:06,,,,,320,,,"Direct",3263,3305,576
+- -,KCH,MYY,AirAsia (AK),AirAsia,318,01:08,,,,,320,,,"Direct",3263,3266,576
+- -,KCH,PEN,AirAsia (AK),AirAsia,742,01:59,,,,,320,,,"Direct",3263,3308,576
+- -,KCH,SBW,AirAsia (AK),AirAsia,125,00:45,,,,,320,,,"Direct",3263,3267,576
+- -,KCH,SIN,AirAsia (AK),AirAsia,438,01:22,,,,,320,,,"Direct",3263,3316,576
+- -,KLO,KUL,AirAsia (AK),AirAsia,1542,03:35,,,,,320,,,"Direct",2430,3304,576
+- -,KMG,KUL,AirAsia (AK),AirAsia,1545,03:35,,,,,320,,,"Direct",3382,3304,576
+- -,KUL,AOR,AirAsia (AK),AirAsia,254,01:00,,,,,320,,,"Direct",3304,3296,576
+- -,KUL,BDO,AirAsia (AK),AirAsia,779,02:03,,,,,320,,,"Direct",3304,3896,576
+- -,KUL,BKI,AirAsia (AK),AirAsia,1011,02:31,,,,,320,,,"Direct",3304,3269,576
+- -,KUL,BLR,AirAsia (AK),AirAsia,1790,04:04,,,,,320,,,"Direct",3304,3131,576
+- -,KUL,BPN,AirAsia (AK),AirAsia,1084,02:40,,,,,320,,,"Direct",3304,3919,576
+- -,KUL,BTJ,AirAsia (AK),AirAsia,473,01:26,,,,,320,,,"Direct",3304,3294,576
+- -,KUL,BTU,AirAsia (AK),AirAsia,780,02:03,,,,,320,,,"Direct",3304,3262,576
+- -,KUL,BWN,AirAsia (AK),AirAsia,923,02:20,,,,,320,,,"Direct",3304,3272,576
+- -,KUL,CAN,AirAsia (AK),AirAsia,1622,03:44,,,,,320,,,"Direct",3304,3370,576
+- -,KUL,CCU,AirAsia (AK),AirAsia,1636,03:46,,,,,320,,,"Direct",3304,3043,576
+- -,KUL,CGK,AirAsia (AK),AirAsia,701,01:54,,,,,320,,,"Direct",3304,3275,576
+- -,KUL,CNX,AirAsia (AK),AirAsia,1121,02:44,,,,,320,,,"Direct",3304,3931,576
+- -,KUL,COK,AirAsia (AK),AirAsia,1808,04:06,,,,,320,,,"Direct",3304,3136,576
+- -,KUL,DMK,AirAsia (AK),AirAsia,774,02:02,,,,,320,,,"Direct",3304,3157,576
+- -,KUL,DPS,AirAsia (AK),AirAsia,1219,02:56,,,,,320,,,"Direct",3304,3940,576
+- -,KUL,HAN,AirAsia (AK),AirAsia,1305,03:06,,,,,320,,,"Direct",3304,3199,576
+- -,KUL,HDY,AirAsia (AK),AirAsia,303,01:06,,,,,320,,,"Direct",3304,3181,576
+- -,KUL,HKG,AirAsia (AK),AirAsia,1579,03:39,,,,,320,,,"Direct",3304,3077,576
+- -,KUL,HKT,AirAsia (AK),AirAsia,437,01:22,,,,,320,,,"Direct",3304,3179,576
+- -,KUL,JHB,AirAsia (AK),AirAsia,155,00:48,,,,,320,,,"Direct",3304,3303,576
+- -,KUL,JOG,AirAsia (AK),AirAsia,943,02:23,,,,,320,,,"Direct",3304,3898,576
+- -,KUL,KBR,AirAsia (AK),AirAsia,239,00:58,,,,,320,,,"Direct",3304,3298,576
+- -,KUL,KBV,AirAsia (AK),AirAsia,414,01:19,,,,,320,,,"Direct",3304,3174,576
+- -,KUL,KCH,AirAsia (AK),AirAsia,602,01:42,,,,,320,,,"Direct",3304,3263,576
+- -,KUL,KLO,AirAsia (AK),AirAsia,1542,03:35,,,,,320,,,"Direct",3304,2430,576
+- -,KUL,KMG,AirAsia (AK),AirAsia,1545,03:35,,,,,320,,,"Direct",3304,3382,576
+- -,KUL,KWL,AirAsia (AK),AirAsia,1647,03:47,,,,,320,,,"Direct",3304,3372,576
+- -,KUL,LBU,AirAsia (AK),AirAsia,949,02:23,,,,,320,,,"Direct",3304,3270,576
+- -,KUL,LGK,AirAsia (AK),AirAsia,282,01:03,,,,,320,,,"Direct",3304,3305,576
+- -,KUL,LOP,AirAsia (AK),AirAsia,1279,03:03,,,,,320,,,"Direct",3304,8401,576
+- -,KUL,MAA,AirAsia (AK),AirAsia,1632,03:45,,,,,320,,,"Direct",3304,3144,576
+- -,KUL,MFM,AirAsia (AK),AirAsia,1558,03:36,,,,,320,,,"Direct",3304,3121,576
+- -,KUL,MYY,AirAsia (AK),AirAsia,853,02:12,,,,,320,,,"Direct",3304,3266,576
+- -,KUL,NNG,AirAsia (AK),AirAsia,1438,03:22,,,,,320,,,"Direct",3304,3373,576
+- -,KUL,PDG,AirAsia (AK),AirAsia,267,01:02,,,,,320,,,"Direct",3304,8807,576
+- -,KUL,PEN,AirAsia (AK),AirAsia,201,00:54,,,,,320,,,"Direct",3304,3308,576
+- -,KUL,PKU,AirAsia (AK),AirAsia,158,00:48,,,,,320,,,"Direct",3304,3273,576
+- -,KUL,PLM,AirAsia (AK),AirAsia,441,01:22,,,,,320,,,"Direct",3304,3289,576
+- -,KUL,PNH,AirAsia (AK),AirAsia,644,01:47,,,,,320,,,"Direct",3304,3034,576
+- -,KUL,REP,AirAsia (AK),AirAsia,750,02:00,,,,,320,,,"Direct",3304,3035,576
+- -,KUL,RGN,AirAsia (AK),AirAsia,1048,02:35,,,,,320,,,"Direct",3304,3239,576
+- -,KUL,SBW,AirAsia (AK),AirAsia,709,01:55,,,,,320,,,"Direct",3304,3267,576
+- -,KUL,SDK,AirAsia (AK),AirAsia,1146,02:47,,,,,320,,,"Direct",3304,4141,576
+- -,KUL,SGN,AirAsia (AK),AirAsia,652,01:48,,,,,320,,,"Direct",3304,3205,576
+- -,KUL,SIN,AirAsia (AK),AirAsia,184,00:52,,,,,320,,,"Direct",3304,3316,576
+- -,KUL,SOC,AirAsia (AK),AirAsia,943,02:23,,,,,320,,,"Direct",3304,3929,576
+- -,KUL,SRG,AirAsia (AK),AirAsia,898,02:17,,,,,320,,,"Direct",3304,3901,576
+- -,KUL,SUB,AirAsia (AK),AirAsia,1035,02:34,,,,,320,,,"Direct",3304,3928,576
+- -,KUL,SZX,AirAsia (AK),AirAsia,1594,03:41,,,,,320,,,"Direct",3304,3374,576
+- -,KUL,TGG,AirAsia (AK),AirAsia,205,00:54,,,,,320,,,"Direct",3304,3307,576
+- -,KUL,TRZ,AirAsia (AK),AirAsia,1670,03:50,,,,,320,,,"Direct",3304,3152,576
+- -,KUL,TWU,AirAsia (AK),AirAsia,1136,02:46,,,,,320,,,"Direct",3304,3271,576
+- -,KUL,UPG,AirAsia (AK),AirAsia,1343,03:11,,,,,320,,,"Direct",3304,3240,576
+- -,KUL,URT,AirAsia (AK),AirAsia,475,01:27,,,,,320,,,"Direct",3304,4000,576
+- -,KUL,VTE,AirAsia (AK),AirAsia,1054,02:36,,,,,320,,,"Direct",3304,3120,576
+- -,KWL,KUL,AirAsia (AK),AirAsia,1647,03:47,,,,,320,,,"Direct",3372,3304,576
+- -,LBU,KUL,AirAsia (AK),AirAsia,949,02:23,,,,,320,,,"Direct",3270,3304,576
+- -,LGK,KCH,AirAsia (AK),AirAsia,804,02:06,,,,,320,,,"Direct",3305,3263,576
+- -,LGK,KUL,AirAsia (AK),AirAsia,282,01:03,,,,,320,,,"Direct",3305,3304,576
+- -,LGK,PEN,AirAsia (AK),AirAsia,80,00:39,,,,,320,,,"Direct",3305,3308,576
+- -,LGK,SIN,AirAsia (AK),AirAsia,452,01:24,,,,,320,,,"Direct",3305,3316,576
+- -,LOP,KUL,AirAsia (AK),AirAsia,1279,03:03,,,,,320,,,"Direct",8401,3304,576
+- -,MAA,KUL,AirAsia (AK),AirAsia,1632,03:45,,,,,320,,,"Direct",3144,3304,576
+- -,MFM,KUL,AirAsia (AK),AirAsia,1558,03:36,,,,,320,,,"Direct",3121,3304,576
+- -,MYY,BKI,AirAsia (AK),AirAsia,180,00:51,,,,,320,,,"Direct",3266,3269,576
+- -,MYY,JHB,AirAsia (AK),AirAsia,735,01:58,,,,,320,,,"Direct",3266,3303,576
+- -,MYY,KCH,AirAsia (AK),AirAsia,318,01:08,,,,,320,,,"Direct",3266,3263,576
+- -,MYY,KUL,AirAsia (AK),AirAsia,853,02:12,,,,,320,,,"Direct",3266,3304,576
+- -,MYY,PEN,AirAsia (AK),AirAsia,945,02:23,,,,,320,,,"Direct",3266,3308,576
+- -,MYY,SIN,AirAsia (AK),AirAsia,719,01:56,,,,,320,,,"Direct",3266,3316,576
+- -,MYY,TGG,AirAsia (AK),AirAsia,752,02:00,,,,,320,,,"Direct",3266,3307,576
+- -,NNG,KUL,AirAsia (AK),AirAsia,1438,03:22,,,,,320,,,"Direct",3373,3304,576
+- -,PDG,KUL,AirAsia (AK),AirAsia,267,01:02,,,,,320,,,"Direct",8807,3304,576
+- -,PEN,BKI,AirAsia (AK),AirAsia,1084,02:40,,,,,320,,,"Direct",3308,3269,576
+- -,PEN,JHB,AirAsia (AK),AirAsia,344,01:11,,,,,320,,,"Direct",3308,3303,576
+- -,PEN,KCH,AirAsia (AK),AirAsia,742,01:59,,,,,320,,,"Direct",3308,3263,576
+- -,PEN,KUL,AirAsia (AK),AirAsia,201,00:54,,,,,320,,,"Direct",3308,3304,576
+- -,PEN,LGK,AirAsia (AK),AirAsia,80,00:39,,,,,320,,,"Direct",3308,3305,576
+- -,PEN,MYY,AirAsia (AK),AirAsia,945,02:23,,,,,320,,,"Direct",3308,3266,576
+- -,PEN,SIN,AirAsia (AK),AirAsia,374,01:14,,,,,320,,,"Direct",3308,3316,576
+- -,PKU,KUL,AirAsia (AK),AirAsia,158,00:48,,,,,320,,,"Direct",3273,3304,576
+- -,PLM,KUL,AirAsia (AK),AirAsia,441,01:22,,,,,320,,,"Direct",3289,3304,576
+- -,PNH,KUL,AirAsia (AK),AirAsia,644,01:47,,,,,320,,,"Direct",3034,3304,576
+- -,REP,KUL,AirAsia (AK),AirAsia,750,02:00,,,,,320,,,"Direct",3035,3304,576
+- -,RGN,KUL,AirAsia (AK),AirAsia,1048,02:35,,,,,320,,,"Direct",3239,3304,576
+- -,SBW,JHB,AirAsia (AK),AirAsia,575,01:39,,,,,320,,,"Direct",3267,3303,576
+- -,SBW,KCH,AirAsia (AK),AirAsia,125,00:45,,,,,320,,,"Direct",3267,3263,576
+- -,SBW,KUL,AirAsia (AK),AirAsia,709,01:55,,,,,320,,,"Direct",3267,3304,576
+- -,SDK,BKI,AirAsia (AK),AirAsia,137,00:46,,,,,320,,,"Direct",4141,3269,576
+- -,SDK,KUL,AirAsia (AK),AirAsia,1146,02:47,,,,,320,,,"Direct",4141,3304,576
+- -,SGN,KUL,AirAsia (AK),AirAsia,652,01:48,,,,,320,,,"Direct",3205,3304,576
+- -,SIN,BKI,AirAsia (AK),AirAsia,889,02:16,,,,,320,,,"Direct",3316,3269,576
+- -,SIN,KBR,AirAsia (AK),AirAsia,352,01:12,,,,,320,,,"Direct",3316,3298,576
+- -,SIN,KCH,AirAsia (AK),AirAsia,438,01:22,,,,,320,,,"Direct",3316,3263,576
+- -,SIN,KUL,AirAsia (AK),AirAsia,184,00:52,,,,,320,,,"Direct",3316,3304,576
+- -,SIN,LGK,AirAsia (AK),AirAsia,452,01:24,,,,,320,,,"Direct",3316,3305,576
+- -,SIN,MYY,AirAsia (AK),AirAsia,719,01:56,,,,,320,,,"Direct",3316,3266,576
+- -,SIN,PEN,AirAsia (AK),AirAsia,374,01:14,,,,,320,,,"Direct",3316,3308,576
+- -,SIN,TGG,AirAsia (AK),AirAsia,285,01:04,,,,,320,,,"Direct",3316,3307,576
+- -,SOC,KUL,AirAsia (AK),AirAsia,943,02:23,,,,,320,,,"Direct",3929,3304,576
+- -,SRG,KUL,AirAsia (AK),AirAsia,898,02:17,,,,,320,,,"Direct",3901,3304,576
+- -,SUB,KUL,AirAsia (AK),AirAsia,1035,02:34,,,,,320,,,"Direct",3928,3304,576
+- -,SZX,BKI,AirAsia (AK),AirAsia,1162,02:49,,,,,320,,,"Direct",3374,3269,576
+- -,SZX,KUL,AirAsia (AK),AirAsia,1594,03:41,,,,,320,,,"Direct",3374,3304,576
+- -,TGG,KUL,AirAsia (AK),AirAsia,205,00:54,,,,,320,,,"Direct",3307,3304,576
+- -,TGG,MYY,AirAsia (AK),AirAsia,752,02:00,,,,,320,,,"Direct",3307,3266,576
+- -,TGG,SIN,AirAsia (AK),AirAsia,285,01:04,,,,,320,,,"Direct",3307,3316,576
+- -,TPE,BKI,AirAsia (AK),AirAsia,1365,03:13,,,,,320,,,"Direct",2276,3269,576
+- -,TRZ,KUL,AirAsia (AK),AirAsia,1670,03:50,,,,,320,,,"Direct",3152,3304,576
+- -,TWU,BKI,AirAsia (AK),AirAsia,181,00:51,,,,,320,,,"Direct",3271,3269,576
+- -,TWU,JHB,AirAsia (AK),AirAsia,1013,02:31,,,,,320,,,"Direct",3271,3303,576
+- -,TWU,KUL,AirAsia (AK),AirAsia,1136,02:46,,,,,320,,,"Direct",3271,3304,576
+- -,UPG,KUL,AirAsia (AK),AirAsia,1343,03:11,,,,,320,,,"Direct",3240,3304,576
+- -,URT,KUL,AirAsia (AK),AirAsia,475,01:27,,,,,320,,,"Direct",4000,3304,576
+- -,VTE,KUL,AirAsia (AK),AirAsia,1054,02:36,,,,,320,,,"Direct",3120,3304,576

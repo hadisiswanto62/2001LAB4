@@ -1,0 +1,706 @@
+﻿Date,From,To,Flight_Number,Airline,Distance,Duration,Seat,Seat_Type,Class,Reason,Plane,Registration,Trip,Note,From_OID,To_OID,Airline_OID,Plane_OID
+- -,ABJ,BRU,Air Canada (AC),Air Canada,3188,06:52,,,,,333,,,"1 stops",253,302,330
+- -,ABJ,OUA,Air Canada (AC),Air Canada,516,01:31,,,,,332,,,"Codeshare",253,246,330
+- -,ADD,JED,Air Canada (AC),Air Canada,877,02:15,,,,,333,,,"Codeshare",1107,2072,330
+- -,AMS,CPH,Air Canada (AC),Air Canada,393,01:17,,,,,319 321,,,"Codeshare",580,609,330
+- -,ANU,YYZ,Air Canada (AC),Air Canada,2107,04:42,,,,,320,,,"Direct",2874,193,330
+- -,ATL,DEN,Air Canada (AC),Air Canada,1196,02:53,,,,,CR7,,,"Codeshare",3682,3751,330
+- -,ATL,YYZ,Air Canada (AC),Air Canada,739,01:58,,,,,CRA CRJ,,,"Codeshare",3682,193,330
+- -,AUA,YYZ,Air Canada (AC),Air Canada,2227,04:57,,,,,319,,,"Direct",2895,193,330
+- -,AUH,YYZ,Air Canada (AC),Air Canada,6907,14:18,,,,,77W,,,"Direct",2179,193,330
+- -,AZS,YUL,Air Canada (AC),Air Canada,1823,04:08,,,,,320,,,"Direct",5810,146,330
+- -,AZS,YYZ,Air Canada (AC),Air Canada,1780,04:03,,,,,319,,,"Direct",5810,193,330
+- -,BAH,DOH,Air Canada (AC),Air Canada,91,00:40,,,,,333,,,"Codeshare",2057,11051,330
+- -,BCN,YYZ,Air Canada (AC),Air Canada,3985,08:28,,,,,763,,,"Codeshare",1218,193,330
+- -,BDA,YYZ,Air Canada (AC),Air Canada,1124,02:44,,,,,319,,,"Direct",4069,193,330
+- -,BDL,YUL,Air Canada (AC),Air Canada,249,00:59,,,,,BEH,,,"Codeshare",3825,146,330
+- -,BDL,YYZ,Air Canada (AC),Air Canada,371,01:14,,,,,BEH,,,"Codeshare",3825,193,330
+- -,BGI,YYZ,Air Canada (AC),Air Canada,2427,05:21,,,,,319,,,"Direct",2875,193,330
+- -,BJM,NBO,Air Canada (AC),Air Canada,542,01:35,,,,,332,,,"Codeshare",1120,4059,330
+- -,BKK,ICN,Air Canada (AC),Air Canada,2278,05:03,,,,,333 777,,,"Codeshare",3885,3930,330
+- -,BKK,NRT,Air Canada (AC),Air Canada,2887,06:16,,,,,777,,,"Codeshare",3885,2279,330
+- -,BNA,YYZ,Air Canada (AC),Air Canada,640,01:46,,,,,CRJ,,,"Codeshare",3690,193,330
+- -,BOG,YYZ,Air Canada (AC),Air Canada,2712,05:55,,,,,763,,,"Direct",2709,193,330
+- -,BOS,YHZ,Air Canada (AC),Air Canada,412,01:19,,,,,CRJ,,,"Codeshare",3448,73,330
+- -,BOS,YOW,Air Canada (AC),Air Canada,309,01:07,,,,,DH1,,,"Codeshare",3448,100,330
+- -,BOS,YUL,Air Canada (AC),Air Canada,253,01:00,,,,,CRJ DH3,,,"Codeshare",3448,146,330
+- -,BOS,YYZ,Air Canada (AC),Air Canada,444,01:23,,,,,E90 E75,,,"Direct",3448,193,330
+- -,BRU,BJM,Air Canada (AC),Air Canada,4021,08:32,,,,,332,,,"Codeshare",302,1120,330
+- -,BRU,COO,Air Canada (AC),Air Canada,3078,06:39,,,,,332,,,"Codeshare",302,245,330
+- -,BRU,DKR,Air Canada (AC),Air Canada,2780,06:03,,,,,333,,,"Codeshare",302,1084,330
+- -,BRU,DLA,Air Canada (AC),Air Canada,3252,07:00,,,,,333,,,"Codeshare",302,897,330
+- -,BRU,KGL,Air Canada (AC),Air Canada,3950,08:24,,,,,332,,,"Codeshare",302,1165,330
+- -,BRU,LAD,Air Canada (AC),Air Canada,4159,08:49,,,,,333,,,"Codeshare",302,951,330
+- -,BRU,OUA,Air Canada (AC),Air Canada,2683,05:51,,,,,333,,,"Codeshare",302,246,330
+- -,BRU,YUL,Air Canada (AC),Air Canada,3449,07:23,,,,,333,,,"Direct",302,146,330
+- -,BRU,YYZ,Air Canada (AC),Air Canada,3753,08:00,,,,,332,,,"Codeshare",302,193,330
+- -,BWI,YYZ,Air Canada (AC),Air Canada,346,01:11,,,,,DH1,,,"Codeshare",3849,193,330
+- -,CCC,YYZ,Air Canada (AC),Air Canada,1466,03:25,,,,,319,,,"Direct",1901,193,330
+- -,CDG,YUL,Air Canada (AC),Air Canada,3430,07:21,,,,,77W,,,"Direct",1382,146,330
+- -,CDG,YYZ,Air Canada (AC),Air Canada,3738,07:58,,,,,77W,,,"Direct",1382,193,330
+- -,CKY,DKR,Air Canada (AC),Air Canada,442,01:23,,,,,333,,,"Codeshare",4162,1084,330
+- -,CLE,YYZ,Air Canada (AC),Air Canada,192,00:53,,,,,DH1,,,"Codeshare",3486,193,330
+- -,CLT,YYZ,Air Canada (AC),Air Canada,588,01:40,,,,,CRJ,,,"Codeshare",3876,193,330
+- -,CMH,YYZ,Air Canada (AC),Air Canada,304,01:06,,,,,DH1,,,"Codeshare",3759,193,330
+- -,COO,ABJ,Air Canada (AC),Air Canada,440,01:22,,,,,332,,,"Codeshare",245,253,330
+- -,CPH,AMS,Air Canada (AC),Air Canada,393,01:17,,,,,319,,,"Codeshare",609,580,330
+- -,CPH,OSL,Air Canada (AC),Air Canada,321,01:08,,,,,321,,,"Codeshare",609,644,330
+- -,CPH,VNO,Air Canada (AC),Air Canada,502,01:30,,,,,M80,,,"Codeshare",609,3959,330
+- -,CPH,WAW,Air Canada (AC),Air Canada,413,01:19,,,,,M80,,,"Codeshare",609,679,330
+- -,CPH,YYZ,Air Canada (AC),Air Canada,3893,08:17,,,,,763,,,"Direct",609,193,330
+- -,CUN,YUL,Air Canada (AC),Air Canada,1844,04:11,,,,,319,,,"Direct",1852,146,330
+- -,CUN,YYC,Air Canada (AC),Air Canada,2540,05:34,,,,,319,,,"Direct",1852,178,330
+- -,CUN,YYZ,Air Canada (AC),Air Canada,1617,03:44,,,,,319,,,"Direct",1852,193,330
+- -,CVG,YYZ,Air Canada (AC),Air Canada,412,01:19,,,,,CRJ,,,"Codeshare",3488,193,330
+- -,CZM,YUL,Air Canada (AC),Air Canada,1878,04:15,,,,,319,,,"Direct",1800,146,330
+- -,DCA,YOW,Air Canada (AC),Air Canada,452,01:24,,,,,CRJ,,,"Codeshare",3520,100,330
+- -,DCA,YUL,Air Canada (AC),Air Canada,487,01:28,,,,,CRJ,,,"Codeshare",3520,146,330
+- -,DCA,YYZ,Air Canada (AC),Air Canada,359,01:13,,,,,E75,,,"Direct",3520,193,330
+- -,DEL,BRU,Air Canada (AC),Air Canada,3974,08:26,,,,,332,,,"Codeshare",3093,302,330
+- -,DEN,ATL,Air Canada (AC),Air Canada,1196,02:53,,,,,CR7,,,"Codeshare",3751,3682,330
+- -,DEN,MSY,Air Canada (AC),Air Canada,1060,02:37,,,,,738 739,,,"Codeshare",3751,3861,330
+- -,DEN,YEG,Air Canada (AC),Air Canada,1018,02:32,,,,,CRJ 319 E70,,,"Codeshare",3751,49,330
+- -,DEN,YMM,Air Canada (AC),Air Canada,1196,02:53,,,,,CR7,,,"Codeshare",3751,90,330
+- -,DEN,YQR,Air Canada (AC),Air Canada,729,01:57,,,,,CRJ,,,"Codeshare",3751,120,330
+- -,DEN,YUL,Air Canada (AC),Air Canada,1606,03:42,,,,,E90,,,"Direct",3751,146,330
+- -,DEN,YVR,Air Canada (AC),Air Canada,1111,02:43,,,,,319 320 CR7 738,,,"Codeshare",3751,156,330
+- -,DEN,YWG,Air Canada (AC),Air Canada,782,02:03,,,,,ERJ,,,"Codeshare",3751,160,330
+- -,DEN,YXE,Air Canada (AC),Air Canada,855,02:12,,,,,ERJ,,,"Codeshare",3751,166,330
+- -,DEN,YYC,Air Canada (AC),Air Canada,897,02:17,,,,,CRJ 738 320 739,,,"Codeshare",3751,178,330
+- -,DEN,YYZ,Air Canada (AC),Air Canada,1311,03:07,,,,,E90,,,"Direct",3751,193,330
+- -,DFW,YYZ,Air Canada (AC),Air Canada,1197,02:53,,,,,E75,,,"Direct",3670,193,330
+- -,DKR,BRU,Air Canada (AC),Air Canada,2780,06:03,,,,,333,,,"Codeshare",1084,302,330
+- -,DKR,CKY,Air Canada (AC),Air Canada,442,01:23,,,,,333,,,"Codeshare",1084,4162,330
+- -,DLA,BRU,Air Canada (AC),Air Canada,3252,07:00,,,,,333,,,"Codeshare",897,302,330
+- -,DLA,FIH,Air Canada (AC),Air Canada,701,01:54,,,,,333,,,"Codeshare",897,1020,330
+- -,DOH,BAH,Air Canada (AC),Air Canada,91,00:40,,,,,333,,,"Codeshare",11051,2057,330
+- -,DOH,FRA,Air Canada (AC),Air Canada,2848,06:11,,,,,333,,,"Codeshare",11051,340,330
+- -,DTW,YYZ,Air Canada (AC),Air Canada,213,00:55,,,,,CRJ BEH,,,"Codeshare",3645,193,330
+- -,DUB,YYZ,Air Canada (AC),Air Canada,3267,07:02,,,,,763,,,"Codeshare",599,193,330
+- -,EBB,BRU,Air Canada (AC),Air Canada,3874,08:14,,,,,332,,,"Codeshare",1187,302,330
+- -,EWR,MSY,Air Canada (AC),Air Canada,1165,02:49,,,,,319 E70 320 738,,,"Codeshare",3494,3861,330
+- -,EWR,YEG,Air Canada (AC),Air Canada,2017,04:32,,,,,319,,,"Codeshare",3494,49,330
+- -,EWR,YUL,Air Canada (AC),Air Canada,330,01:09,,,,,CRJ,,,"Codeshare",3494,146,330
+- -,EWR,YVR,Air Canada (AC),Air Canada,2421,05:20,,,,,319,,,"Direct",3494,156,330
+- -,EWR,YYC,Air Canada (AC),Air Canada,2016,04:31,,,,,E90,,,"Direct",3494,178,330
+- -,EWR,YYZ,Air Canada (AC),Air Canada,347,01:11,,,,,E75 E90,,,"Direct",3494,193,330
+- -,EZE,SCL,Air Canada (AC),Air Canada,706,01:54,,,,,763,,,"Direct",3988,2650,330
+- -,FCO,YYZ,Air Canada (AC),Air Canada,4400,09:18,,,,,333,,,"Direct",1555,193,330
+- -,FDF,YUL,Air Canada (AC),Air Canada,2257,05:00,,,,,319,,,"Direct",2878,146,330
+- -,FIH,BRU,Air Canada (AC),Air Canada,3872,08:14,,,,,333,,,"Codeshare",1020,302,330
+- -,FIH,DLA,Air Canada (AC),Air Canada,701,01:54,,,,,333,,,"Codeshare",1020,897,330
+- -,FLL,YUL,Air Canada (AC),Air Canada,1385,03:16,,,,,320,,,"Direct",3533,146,330
+- -,FLL,YYZ,Air Canada (AC),Air Canada,1216,02:55,,,,,320,,,"Direct",3533,193,330
+- -,FRA,DOH,Air Canada (AC),Air Canada,2848,06:11,,,,,333,,,"Codeshare",340,11051,330
+- -,FRA,JED,Air Canada (AC),Air Canada,2565,05:37,,,,,333,,,"Codeshare",340,2072,330
+- -,FRA,LCA,Air Canada (AC),Air Canada,1636,03:46,,,,,319 321,,,"Codeshare",340,1197,330
+- -,FRA,NAP,Air Canada (AC),Air Canada,689,01:52,,,,,321,,,"Codeshare",340,1561,330
+- -,FRA,VLC,Air Canada (AC),Air Canada,851,02:12,,,,,319,,,"Codeshare",340,1246,330
+- -,FRA,VNO,Air Canada (AC),Air Canada,771,02:02,,,,,321,,,"Codeshare",340,3959,330
+- -,FRA,YOW,Air Canada (AC),Air Canada,3716,07:55,,,,,333,,,"Direct",340,100,330
+- -,FRA,YUL,Air Canada (AC),Air Canada,3635,07:46,,,,,333,,,"Direct",340,146,330
+- -,FRA,YVR,Air Canada (AC),Air Canada,5006,10:30,,,,,744,,,"Codeshare",340,156,330
+- -,FRA,YYC,Air Canada (AC),Air Canada,4675,09:51,,,,,77W,,,"Direct",340,178,330
+- -,FRA,YYZ,Air Canada (AC),Air Canada,3939,08:22,,,,,77W,,,"Direct",340,193,330
+- -,GCM,YYZ,Air Canada (AC),Air Canada,1686,03:52,,,,,E90,,,"Direct",1926,193,330
+- -,GDN,CPH,Air Canada (AC),Air Canada,245,00:59,,,,,M80,,,"Codeshare",668,609,330
+- -,GGT,YYZ,Air Canada (AC),Air Canada,1405,03:18,,,,,E90,,,"Direct",1941,193,330
+- -,GND,YYZ,Air Canada (AC),Air Canada,2431,05:21,,,,,319,,,"Direct",2882,193,330
+- -,GRU,YYZ,Air Canada (AC),Air Canada,5088,10:40,,,,,763,,,"Direct",2564,193,330
+- -,GVA,YUL,Air Canada (AC),Air Canada,3667,07:50,,,,,333,,,"Direct",1665,146,330
+- -,HAV,YYZ,Air Canada (AC),Air Canada,1437,03:22,,,,,E90,,,"Direct",1909,193,330
+- -,HKG,YVR,Air Canada (AC),Air Canada,6377,13:15,,,,,77W,,,"Direct",3077,156,330
+- -,HKG,YYZ,Air Canada (AC),Air Canada,7792,16:05,,,,,77L,,,"Direct",3077,193,330
+- -,HND,YVR,Air Canada (AC),Air Canada,4694,09:53,,,,,763,,,"Direct",2359,156,330
+- -,HNL,YVR,Air Canada (AC),Air Canada,2703,05:54,,,,,763,,,"Direct",3728,156,330
+- -,HOG,YUL,Air Canada (AC),Air Canada,1710,03:55,,,,,319,,,"Direct",1910,146,330
+- -,HOG,YYZ,Air Canada (AC),Air Canada,1592,03:41,,,,,319,,,"Direct",1910,193,330
+- -,IAD,MSY,Air Canada (AC),Air Canada,953,02:24,,,,,ERJ CR7 738 E70 739,,,"Codeshare",3714,3861,330
+- -,IAD,YOW,Air Canada (AC),Air Canada,449,01:23,,,,,ERJ,,,"Codeshare",3714,100,330
+- -,IAD,YUL,Air Canada (AC),Air Canada,488,01:28,,,,,ERJ CRJ,,,"Codeshare",3714,146,330
+- -,IAD,YYZ,Air Canada (AC),Air Canada,345,01:11,,,,,ERJ CRJ CR7,,,"Codeshare",3714,193,330
+- -,IAH,MSY,Air Canada (AC),Air Canada,304,01:06,,,,,CR7 320 73G 738 E70 ERJ 319,,,"Codeshare",3550,3861,330
+- -,IAH,YEG,Air Canada (AC),Air Canada,1853,04:12,,,,,738 320 737 319,,,"Codeshare",3550,49,330
+- -,IAH,YUL,Air Canada (AC),Air Canada,1582,03:39,,,,,E70,,,"Codeshare",3550,146,330
+- -,IAH,YYC,Air Canada (AC),Air Canada,1746,03:59,,,,,CRA 738 320 739,,,"Codeshare",3550,178,330
+- -,IAH,YYZ,Air Canada (AC),Air Canada,1279,03:03,,,,,CRA,,,"Codeshare",3550,193,330
+- -,ICN,BKK,Air Canada (AC),Air Canada,2278,05:03,,,,,333 777,,,"Codeshare",3930,3885,330
+- -,ICN,YVR,Air Canada (AC),Air Canada,5092,10:41,,,,,763,,,"Direct",3930,156,330
+- -,IND,YYZ,Air Canada (AC),Air Canada,438,01:22,,,,,CRJ,,,"Codeshare",3585,193,330
+- -,IST,YYZ,Air Canada (AC),Air Canada,5091,10:40,,,,,763 77W,,,"Direct",1701,193,330
+- -,JED,ADD,Air Canada (AC),Air Canada,877,02:15,,,,,333,,,"Codeshare",2072,1107,330
+- -,JED,FRA,Air Canada (AC),Air Canada,2565,05:37,,,,,333,,,"Codeshare",2072,340,330
+- -,JED,IST,Air Canada (AC),Air Canada,1462,03:25,,,,,321,,,"Direct",2072,1701,330
+- -,JFK,YYZ,Air Canada (AC),Air Canada,365,01:13,,,,,CRA,,,"Codeshare",3797,193,330
+- -,KGL,EBB,Air Canada (AC),Air Canada,211,00:55,,,,,332,,,"Codeshare",1165,1187,330
+- -,KGL,NBO,Air Canada (AC),Air Canada,470,01:26,,,,,332,,,"Codeshare",1165,4059,330
+- -,KIN,YYZ,Air Canada (AC),Air Canada,1785,04:04,,,,,319,,,"Direct",1779,193,330
+- -,LAD,FIH,Air Canada (AC),Air Canada,344,01:11,,,,,333,,,"Codeshare",951,1020,330
+- -,LAS,YUL,Air Canada (AC),Air Canada,2233,04:57,,,,,763,,,"Direct",3877,146,330
+- -,LAS,YVR,Air Canada (AC),Air Canada,991,02:28,,,,,319,,,"Direct",3877,156,330
+- -,LAS,YYC,Air Canada (AC),Air Canada,1039,02:34,,,,,319,,,"Direct",3877,178,330
+- -,LAS,YYZ,Air Canada (AC),Air Canada,1937,04:22,,,,,763 319,,,"Direct",3877,193,330
+- -,LAX,YLW,Air Canada (AC),Air Canada,1106,02:42,,,,,CR7,,,"Codeshare",3484,87,330
+- -,LAX,YUL,Air Canada (AC),Air Canada,2467,05:26,,,,,319,,,"Direct",3484,146,330
+- -,LAX,YVR,Air Canada (AC),Air Canada,1081,02:39,,,,,319,,,"Direct",3484,156,330
+- -,LAX,YYC,Air Canada (AC),Air Canada,1206,02:54,,,,,319,,,"Direct",3484,178,330
+- -,LAX,YYZ,Air Canada (AC),Air Canada,2169,04:50,,,,,320 321,,,"Direct",3484,193,330
+- -,LCA,FRA,Air Canada (AC),Air Canada,1636,03:46,,,,,319 321,,,"Codeshare",1197,340,330
+- -,LGA,YOW,Air Canada (AC),Air Canada,326,01:09,,,,,CRJ,,,"Codeshare",3697,100,330
+- -,LGA,YUL,Air Canada (AC),Air Canada,324,01:08,,,,,E75,,,"Direct",3697,146,330
+- -,LGA,YYZ,Air Canada (AC),Air Canada,355,01:12,,,,,E90 E75,,,"Direct",3697,193,330
+- -,LHR,YEG,Air Canada (AC),Air Canada,4228,08:57,,,,,763,,,"Direct",507,49,330
+- -,LHR,YHZ,Air Canada (AC),Air Canada,2847,06:11,,,,,763,,,"Direct",507,73,330
+- -,LHR,YOW,Air Canada (AC),Air Canada,3320,07:08,,,,,763,,,"Direct",507,100,330
+- -,LHR,YUL,Air Canada (AC),Air Canada,3238,06:58,,,,,77W,,,"Direct",507,146,330
+- -,LHR,YVR,Air Canada (AC),Air Canada,4706,09:54,,,,,77W,,,"Direct",507,156,330
+- -,LHR,YYC,Air Canada (AC),Air Canada,4356,09:12,,,,,333,,,"Direct",507,178,330
+- -,LHR,YYT,Air Canada (AC),Air Canada,2307,05:06,,,,,319,,,"Direct",507,189,330
+- -,LHR,YYZ,Air Canada (AC),Air Canada,3544,07:35,,,,,77L 763 77W 333,,,"Direct",507,193,330
+- -,LIM,YYZ,Air Canada (AC),Air Canada,3849,08:11,,,,,763,,,"Direct",2789,193,330
+- -,LIR,YYZ,Air Canada (AC),Air Canada,2311,05:07,,,,,319,,,"Direct",1881,193,330
+- -,MBJ,YHZ,Air Canada (AC),Air Canada,2001,04:30,,,,,319,,,"Direct",1780,73,330
+- -,MBJ,YUL,Air Canada (AC),Air Canada,1877,04:15,,,,,319,,,"Direct",1780,146,330
+- -,MBJ,YYZ,Air Canada (AC),Air Canada,1741,03:58,,,,,319,,,"Direct",1780,193,330
+- -,MCI,YYZ,Air Canada (AC),Air Canada,835,02:10,,,,,CRJ,,,"Codeshare",3458,193,330
+- -,MCO,YUL,Air Canada (AC),Air Canada,1247,02:59,,,,,319,,,"Direct",3878,146,330
+- -,MCO,YYZ,Air Canada (AC),Air Canada,1057,02:36,,,,,319,,,"Direct",3878,193,330
+- -,MDT,YYZ,Air Canada (AC),Air Canada,282,01:03,,,,,BEH,,,"Codeshare",3542,193,330
+- -,MEX,YVR,Air Canada (AC),Air Canada,2449,05:23,,,,,319,,,"Direct",1824,156,330
+- -,MEX,YYZ,Air Canada (AC),Air Canada,2016,04:31,,,,,319,,,"Direct",1824,193,330
+- -,MIA,GUA,Air Canada (AC),Air Canada,1018,02:32,,,,,E90,,,"Codeshare",3576,1767,330
+- -,MIA,YYZ,Air Canada (AC),Air Canada,1235,02:58,,,,,E90,,,"Direct",3576,193,330
+- -,MKE,YYZ,Air Canada (AC),Air Canada,418,01:20,,,,,CRJ,,,"Codeshare",3717,193,330
+- -,MSP,YYZ,Air Canada (AC),Air Canada,676,01:51,,,,,CRA CRJ,,,"Codeshare",3858,193,330
+- -,MSY,DEN,Air Canada (AC),Air Canada,1060,02:37,,,,,320 738 ERJ,,,"Codeshare",3861,3751,330
+- -,MSY,EWR,Air Canada (AC),Air Canada,1165,02:49,,,,,738 ERJ 320 319,,,"Codeshare",3861,3494,330
+- -,MSY,IAD,Air Canada (AC),Air Canada,953,02:24,,,,,320 E70 319 CR7,,,"Codeshare",3861,3714,330
+- -,MSY,IAH,Air Canada (AC),Air Canada,304,01:06,,,,,319 738 73G 320 ERJ,,,"Codeshare",3861,3550,330
+- -,MSY,ORD,Air Canada (AC),Air Canada,837,02:10,,,,,320 CR7 319 ERJ,,,"Codeshare",3861,3830,330
+- -,MSY,YYZ,Air Canada (AC),Air Canada,1110,02:43,,,,,CRA,,,"Codeshare",3861,193,330
+- -,MUC,SOF,Air Canada (AC),Air Canada,683,01:51,,,,,E95,,,"Codeshare",346,1194,330
+- -,MUC,YUL,Air Canada (AC),Air Canada,3819,08:08,,,,,333,,,"Codeshare",346,146,330
+- -,MUC,YVR,Air Canada (AC),Air Canada,5179,10:51,,,,,333,,,"Codeshare",346,156,330
+- -,MUC,YYZ,Air Canada (AC),Air Canada,4124,08:44,,,,,77W,,,"Direct",346,193,330
+- -,NAP,FRA,Air Canada (AC),Air Canada,689,01:52,,,,,320 321 319,,,"Codeshare",1561,340,330
+- -,NAS,YYZ,Air Canada (AC),Air Canada,1292,03:05,,,,,319,,,"Direct",1953,193,330
+- -,NBO,BRU,Air Canada (AC),Air Canada,4077,08:39,,,,,332,,,"Codeshare",4059,302,330
+- -,NRT,BKK,Air Canada (AC),Air Canada,2887,06:16,,,,,777,,,"Codeshare",2279,3885,330
+- -,NRT,YVR,Air Canada (AC),Air Canada,4659,09:49,,,,,763,,,"Direct",2279,156,330
+- -,NRT,YYC,Air Canada (AC),Air Canada,4934,10:22,,,,,763,,,"Direct",2279,178,330
+- -,NRT,YYZ,Air Canada (AC),Air Canada,6396,13:17,,,,,77W,,,"Direct",2279,193,330
+- -,OGG,YVR,Air Canada (AC),Air Canada,2671,05:50,,,,,763,,,"Direct",3456,156,330
+- -,ORD,MSY,Air Canada (AC),Air Canada,837,02:10,,,,,320 CR7 ERJ 319,,,"Codeshare",3830,3861,330
+- -,ORD,YEG,Air Canada (AC),Air Canada,1415,03:19,,,,,E70 CR7,,,"Codeshare",3830,49,330
+- -,ORD,YHZ,Air Canada (AC),Air Canada,1234,02:58,,,,,ERJ,,,"Codeshare",3830,73,330
+- -,ORD,YOW,Air Canada (AC),Air Canada,652,01:48,,,,,ERJ E70,,,"Codeshare",3830,100,330
+- -,ORD,YQB,Air Canada (AC),Air Canada,877,02:15,,,,,ERJ,,,"Codeshare",3830,111,330
+- -,ORD,YQR,Air Canada (AC),Air Canada,987,02:28,,,,,CRJ,,,"Codeshare",3830,120,330
+- -,ORD,YUL,Air Canada (AC),Air Canada,745,01:59,,,,,E75,,,"Direct",3830,146,330
+- -,ORD,YVR,Air Canada (AC),Air Canada,1758,04:00,,,,,319 320 739 737 738,,,"Codeshare",3830,156,330
+- -,ORD,YWG,Air Canada (AC),Air Canada,706,01:54,,,,,ERJ CRJ,,,"Codeshare",3830,160,330
+- -,ORD,YXU,Air Canada (AC),Air Canada,351,01:12,,,,,CRJ,,,"Codeshare",3830,174,330
+- -,ORD,YYC,Air Canada (AC),Air Canada,1381,03:15,,,,,CR7 737,,,"Codeshare",3830,178,330
+- -,ORD,YYZ,Air Canada (AC),Air Canada,434,01:22,,,,,E75,,,"Direct",3830,193,330
+- -,OUA,ABJ,Air Canada (AC),Air Canada,516,01:31,,,,,333,,,"Codeshare",246,253,330
+- -,OUA,BRU,Air Canada (AC),Air Canada,2683,05:51,,,,,333,,,"Codeshare",246,302,330
+- -,PAP,YUL,Air Canada (AC),Air Canada,1858,04:12,,,,,763,,,"Direct",1897,146,330
+- -,PDX,YVR,Air Canada (AC),Air Canada,250,01:00,,,,,DH3,,,"Codeshare",3720,156,330
+- -,PDX,YYC,Air Canada (AC),Air Canada,547,01:35,,,,,CRJ,,,"Codeshare",3720,178,330
+- -,PEK,YVR,Air Canada (AC),Air Canada,5273,11:02,,,,,330 77W,,,"Direct",3364,156,330
+- -,PEK,YYZ,Air Canada (AC),Air Canada,6558,13:36,,,,,77W,,,"Direct",3364,193,330
+- -,PHL,YYZ,Air Canada (AC),Air Canada,346,01:11,,,,,E75,,,"Direct",3752,193,330
+- -,PHX,YYZ,Air Canada (AC),Air Canada,1871,04:14,,,,,319,,,"Direct",3462,193,330
+- -,PIT,YYZ,Air Canada (AC),Air Canada,222,00:56,,,,,DH1,,,"Codeshare",3570,193,330
+- -,PLS,YUL,Air Canada (AC),Air Canada,1638,03:46,,,,,319,,,"Direct",1754,146,330
+- -,PLS,YYZ,Air Canada (AC),Air Canada,1570,03:38,,,,,E90,,,"Direct",1754,193,330
+- -,POP,YHZ,Air Canada (AC),Air Canada,1781,04:03,,,,,319,,,"Direct",1761,73,330
+- -,POP,YYZ,Air Canada (AC),Air Canada,1732,03:57,,,,,319,,,"Direct",1761,193,330
+- -,PTP,YUL,Air Canada (AC),Air Canada,2136,04:46,,,,,319,,,"Direct",2881,146,330
+- -,PUJ,YUL,Air Canada (AC),Air Canada,1883,04:15,,,,,319,,,"Direct",1760,146,330
+- -,PUJ,YYZ,Air Canada (AC),Air Canada,1853,04:12,,,,,319,,,"Direct",1760,193,330
+- -,PVG,YVR,Air Canada (AC),Air Canada,5599,11:41,,,,,763,,,"Direct",3406,156,330
+- -,PVG,YYZ,Air Canada (AC),Air Canada,7088,14:40,,,,,77L,,,"Direct",3406,193,330
+- -,PVR,YVR,Air Canada (AC),Air Canada,2202,04:54,,,,,319,,,"Direct",1836,156,330
+- -,PVR,YYC,Air Canada (AC),Air Canada,2154,04:48,,,,,319,,,"Direct",1836,178,330
+- -,RDU,YYZ,Air Canada (AC),Air Canada,540,01:34,,,,,CRJ,,,"Codeshare",3626,193,330
+- -,ROC,YYZ,Air Canada (AC),Air Canada,105,00:42,,,,,BEH,,,"Codeshare",3622,193,330
+- -,RSW,YYZ,Air Canada (AC),Air Canada,1189,02:52,,,,,320,,,"Direct",3793,193,330
+- -,SAN,YYZ,Air Canada (AC),Air Canada,2151,04:48,,,,,319,,,"Direct",3731,193,330
+- -,SCL,EZE,Air Canada (AC),Air Canada,706,01:54,,,,,763,,,"Direct",2650,3988,330
+- -,SCL,YYZ,Air Canada (AC),Air Canada,5351,11:12,,,,,763,,,"Direct",2650,193,330
+- -,SEA,YVR,Air Canada (AC),Air Canada,127,00:45,,,,,DH3,,,"Codeshare",3577,156,330
+- -,SEA,YYZ,Air Canada (AC),Air Canada,2053,04:36,,,,,E90,,,"Direct",3577,193,330
+- -,SFO,YEG,Air Canada (AC),Air Canada,1162,02:49,,,,,CR7,,,"Codeshare",3469,49,330
+- -,SFO,YUL,Air Canada (AC),Air Canada,2531,05:33,,,,,319,,,"Direct",3469,146,330
+- -,SFO,YVR,Air Canada (AC),Air Canada,800,02:06,,,,,E90 320 319,,,"Direct",3469,156,330
+- -,SFO,YYC,Air Canada (AC),Air Canada,1017,02:32,,,,,CR7,,,"Codeshare",3469,178,330
+- -,SFO,YYJ,Air Canada (AC),Air Canada,763,02:01,,,,,CRJ,,,"Codeshare",3469,184,330
+- -,SFO,YYZ,Air Canada (AC),Air Canada,2252,05:00,,,,,320,,,"Direct",3469,193,330
+- -,SJD,YYC,Air Canada (AC),Air Canada,1944,04:23,,,,,319,,,"Direct",1840,178,330
+- -,SJO,YYZ,Air Canada (AC),Air Canada,2342,05:11,,,,,319,,,"Direct",1885,193,330
+- -,SNU,YHZ,Air Canada (AC),Air Canada,1803,04:06,,,,,320,,,"Direct",1918,73,330
+- -,SNU,YUL,Air Canada (AC),Air Canada,1624,03:44,,,,,319,,,"Direct",1918,146,330
+- -,SNU,YYZ,Air Canada (AC),Air Canada,1463,03:25,,,,,319,,,"Direct",1918,193,330
+- -,STL,YYZ,Air Canada (AC),Air Canada,652,01:48,,,,,CRJ,,,"Codeshare",3678,193,330
+- -,SYD,YVR,Air Canada (AC),Air Canada,7763,16:01,,,,,77L,,,"Direct",3361,156,330
+- -,SYR,YYZ,Air Canada (AC),Air Canada,181,00:51,,,,,BEH,,,"Codeshare",3745,193,330
+- -,TLV,YUL,Air Canada (AC),Air Canada,5466,11:25,,,,,763,,,"Direct",1590,146,330
+- -,TLV,YYZ,Air Canada (AC),Air Canada,5772,12:02,,,,,763,,,"Direct",1590,193,330
+- -,TPA,YYZ,Air Canada (AC),Air Canada,1096,02:41,,,,,319,,,"Direct",3646,193,330
+- -,TRD,CPH,Air Canada (AC),Air Canada,544,01:35,,,,,M80,,,"Codeshare",665,609,330
+- -,UVF,YYZ,Air Canada (AC),Air Canada,2344,05:11,,,,,319,,,"Direct",2894,193,330
+- -,VIE,YYZ,Air Canada (AC),Air Canada,4315,09:07,,,,,763,,,"Codeshare",1613,193,330
+- -,VLC,FRA,Air Canada (AC),Air Canada,851,02:12,,,,,319,,,"Codeshare",1246,340,330
+- -,VNO,CPH,Air Canada (AC),Air Canada,502,01:30,,,,,M80,,,"Codeshare",3959,609,330
+- -,VNO,FRA,Air Canada (AC),Air Canada,771,02:02,,,,,320 321,,,"Codeshare",3959,340,330
+- -,VRA,YUL,Air Canada (AC),Air Canada,1608,03:42,,,,,320,,,"Direct",1923,146,330
+- -,VRA,YYC,Air Canada (AC),Air Canada,2602,05:42,,,,,319,,,"Direct",1923,178,330
+- -,VRA,YYZ,Air Canada (AC),Air Canada,1429,03:21,,,,,319,,,"Direct",1923,193,330
+- -,WAW,CPH,Air Canada (AC),Air Canada,413,01:19,,,,,M80,,,"Codeshare",679,609,330
+- -,WAW,YYZ,Air Canada (AC),Air Canada,4306,09:06,,,,,788,,,"Direct",679,193,330
+- -,YAM,YYZ,Air Canada (AC),Air Canada,306,01:06,,,,,DH1,,,"Codeshare",21,193,330
+- -,YBC,YUL,Air Canada (AC),Air Canada,361,01:13,,,,,DH1,,,"Codeshare",27,146,330
+- -,YBC,YYY,Air Canada (AC),Air Canada,36,00:34,,,,,DH1,,,"Codeshare",27,192,330
+- -,YBG,YUL,Air Canada (AC),Air Canada,236,00:58,,,,,DH1,,,"Codeshare",28,146,330
+- -,YBL,YQQ,Air Canada (AC),Air Canada,23,00:32,,,,,BEH,,,"Codeshare",30,119,330
+- -,YCD,YVR,Air Canada (AC),Air Canada,32,00:33,,,,,DH3,,,"Codeshare",33,156,330
+- -,YCG,YVR,Air Canada (AC),Air Canada,250,01:00,,,,,DH3,,,"Codeshare",34,156,330
+- -,YCG,YYC,Air Canada (AC),Air Canada,203,00:54,,,,,DH3,,,"Codeshare",34,178,330
+- -,YDF,YHZ,Air Canada (AC),Air Canada,414,01:19,,,,,CRJ DH1,,,"Codeshare",45,73,330
+- -,YDF,YYR,Air Canada (AC),Air Canada,312,01:07,,,,,BEH,,,"Codeshare",45,188,330
+- -,YDF,YYT,Air Canada (AC),Air Canada,239,00:58,,,,,BEH,,,"Codeshare",45,189,330
+- -,YDF,YYZ,Air Canada (AC),Air Canada,1120,02:44,,,,,E90,,,"Direct",45,193,330
+- -,YEG,DEN,Air Canada (AC),Air Canada,1018,02:32,,,,,CR7 CRJ 319 E70,,,"Codeshare",49,3751,330
+- -,YEG,EWR,Air Canada (AC),Air Canada,2017,04:32,,,,,319,,,"Codeshare",49,3494,330
+- -,YEG,IAH,Air Canada (AC),Air Canada,1853,04:12,,,,,738 320 737 319,,,"Codeshare",49,3550,330
+- -,YEG,LHR,Air Canada (AC),Air Canada,4228,08:57,,,,,763,,,"Direct",49,507,330
+- -,YEG,ORD,Air Canada (AC),Air Canada,1415,03:19,,,,,E70 CR7,,,"Codeshare",49,3830,330
+- -,YEG,SFO,Air Canada (AC),Air Canada,1162,02:49,,,,,CR7,,,"Codeshare",49,3469,330
+- -,YEG,YMM,Air Canada (AC),Air Canada,249,00:59,,,,,DH4,,,"Codeshare",49,90,330
+- -,YEG,YOW,Air Canada (AC),Air Canada,1769,04:02,,,,,E90,,,"Direct",49,100,330
+- -,YEG,YQR,Air Canada (AC),Air Canada,428,01:21,,,,,DH3,,,"Codeshare",49,120,330
+- -,YEG,YQU,Air Canada (AC),Air Canada,249,00:59,,,,,DH3,,,"Codeshare",49,122,330
+- -,YEG,YUL,Air Canada (AC),Air Canada,1843,04:11,,,,,320,,,"Direct",49,146,330
+- -,YEG,YVR,Air Canada (AC),Air Canada,502,01:30,,,,,E90 320 319,,,"Direct",49,156,330
+- -,YEG,YWG,Air Canada (AC),Air Canada,737,01:58,,,,,CRJ,,,"Codeshare",49,160,330
+- -,YEG,YXE,Air Canada (AC),Air Canada,298,01:05,,,,,DH3,,,"Codeshare",49,166,330
+- -,YEG,YYC,Air Canada (AC),Air Canada,152,00:48,,,,,DH4 CRJ DH3,,,"Codeshare",49,178,330
+- -,YEG,YYZ,Air Canada (AC),Air Canada,1669,03:50,,,,,320 319 E90,,,"Direct",49,193,330
+- -,YEG,YZF,Air Canada (AC),Air Canada,632,01:45,,,,,CRJ,,,"Codeshare",49,196,330
+- -,YFC,YHZ,Air Canada (AC),Air Canada,161,00:49,,,,,BEH,,,"Direct",56,73,330
+- -,YFC,YOW,Air Canada (AC),Air Canada,442,01:23,,,,,DH1,,,"Codeshare",56,100,330
+- -,YFC,YUL,Air Canada (AC),Air Canada,348,01:11,,,,,DH1 DH4,,,"Codeshare",56,146,330
+- -,YFC,YYZ,Air Canada (AC),Air Canada,658,01:48,,,,,DH4,,,"Codeshare",56,193,330
+- -,YGK,YYZ,Air Canada (AC),Air Canada,155,00:48,,,,,BEH,,,"Codeshare",61,193,330
+- -,YGP,YGR,Air Canada (AC),Air Canada,155,00:48,,,,,DH3 DH1,,,"Codeshare",63,65,330
+- -,YGP,YQB,Air Canada (AC),Air Canada,348,01:11,,,,,DH1 DH3,,,"Codeshare",63,111,330
+- -,YGR,YGP,Air Canada (AC),Air Canada,155,00:48,,,,,DH1 DH3,,,"Codeshare",65,63,330
+- -,YHZ,BOS,Air Canada (AC),Air Canada,412,01:19,,,,,CRJ,,,"Codeshare",73,3448,330
+- -,YHZ,LHR,Air Canada (AC),Air Canada,2847,06:11,,,,,763,,,"Direct",73,507,330
+- -,YHZ,ORD,Air Canada (AC),Air Canada,1234,02:58,,,,,ERJ,,,"Codeshare",73,3830,330
+- -,YHZ,YDF,Air Canada (AC),Air Canada,414,01:19,,,,,DH1 CRJ,,,"Codeshare",73,45,330
+- -,YHZ,YFC,Air Canada (AC),Air Canada,161,00:49,,,,,BEH,,,"Direct",73,56,330
+- -,YHZ,YOW,Air Canada (AC),Air Canada,592,01:41,,,,,E90,,,"Direct",73,100,330
+- -,YHZ,YQM,Air Canada (AC),Air Canada,102,00:42,,,,,BEH,,,"Direct",73,117,330
+- -,YHZ,YQX,Air Canada (AC),Air Canada,505,01:30,,,,,CRJ CRA,,,"Codeshare",73,125,330
+- -,YHZ,YQY,Air Canada (AC),Air Canada,189,00:52,,,,,DH1,,,"Codeshare",73,126,330
+- -,YHZ,YSJ,Air Canada (AC),Air Canada,119,00:44,,,,,BEH,,,"Direct",73,135,330
+- -,YHZ,YUL,Air Canada (AC),Air Canada,499,01:29,,,,,320 E90 319 E75,,,"Direct",73,146,330
+- -,YHZ,YYG,Air Canada (AC),Air Canada,99,00:41,,,,,BEH,,,"Direct",73,182,330
+- -,YHZ,YYR,Air Canada (AC),Air Canada,598,01:41,,,,,CRJ,,,"Codeshare",73,188,330
+- -,YHZ,YYT,Air Canada (AC),Air Canada,546,01:35,,,,,E90,,,"Direct",73,189,330
+- -,YHZ,YYZ,Air Canada (AC),Air Canada,800,02:06,,,,,E90 320 763 319,,,"Direct",73,193,330
+- -,YKA,YVR,Air Canada (AC),Air Canada,160,00:49,,,,,DH3,,,"Codeshare",78,156,330
+- -,YKA,YYC,Air Canada (AC),Air Canada,281,01:03,,,,,DH3,,,"Codeshare",78,178,330
+- -,YLW,LAX,Air Canada (AC),Air Canada,1106,02:42,,,,,CR7,,,"Codeshare",87,3484,330
+- -,YLW,YVR,Air Canada (AC),Air Canada,178,00:51,,,,,DH3 CRJ,,,"Codeshare",87,156,330
+- -,YLW,YYC,Air Canada (AC),Air Canada,248,00:59,,,,,DH3 CRJ,,,"Codeshare",87,178,330
+- -,YMM,DEN,Air Canada (AC),Air Canada,1196,02:53,,,,,CR7,,,"Codeshare",90,3751,330
+- -,YMM,YEG,Air Canada (AC),Air Canada,249,00:59,,,,,DH4,,,"Codeshare",90,49,330
+- -,YMM,YVR,Air Canada (AC),Air Canada,714,01:55,,,,,CRJ,,,"Codeshare",90,156,330
+- -,YMM,YYC,Air Canada (AC),Air Canada,399,01:17,,,,,CRA DH4 CRJ,,,"Codeshare",90,178,330
+- -,YMM,YYZ,Air Canada (AC),Air Canada,1637,03:46,,,,,E90 320 319,,,"Direct",90,193,330
+- -,YOW,BOS,Air Canada (AC),Air Canada,309,01:07,,,,,DH1,,,"Codeshare",100,3448,330
+- -,YOW,DCA,Air Canada (AC),Air Canada,452,01:24,,,,,CRJ,,,"Codeshare",100,3520,330
+- -,YOW,FRA,Air Canada (AC),Air Canada,3716,07:55,,,,,333,,,"Direct",100,340,330
+- -,YOW,IAD,Air Canada (AC),Air Canada,449,01:23,,,,,ERJ,,,"Codeshare",100,3714,330
+- -,YOW,LGA,Air Canada (AC),Air Canada,326,01:09,,,,,CRJ,,,"Codeshare",100,3697,330
+- -,YOW,LHR,Air Canada (AC),Air Canada,3320,07:08,,,,,763,,,"Direct",100,507,330
+- -,YOW,ORD,Air Canada (AC),Air Canada,652,01:48,,,,,ERJ E70,,,"Codeshare",100,3830,330
+- -,YOW,YEG,Air Canada (AC),Air Canada,1769,04:02,,,,,E90 320,,,"Direct",100,49,330
+- -,YOW,YFC,Air Canada (AC),Air Canada,442,01:23,,,,,DH1,,,"Codeshare",100,56,330
+- -,YOW,YHZ,Air Canada (AC),Air Canada,592,01:41,,,,,E90,,,"Direct",100,73,330
+- -,YOW,YQB,Air Canada (AC),Air Canada,228,00:57,,,,,DH1,,,"Codeshare",100,111,330
+- -,YOW,YQM,Air Canada (AC),Air Canada,532,01:33,,,,,CRJ,,,"Codeshare",100,117,330
+- -,YOW,YUL,Air Canada (AC),Air Canada,94,00:41,,,,,E90,,,"Direct",100,146,330
+- -,YOW,YVR,Air Canada (AC),Air Canada,2205,04:54,,,,,320 763,,,"Direct",100,156,330
+- -,YOW,YWG,Air Canada (AC),Air Canada,1048,02:35,,,,,CRA,,,"Codeshare",100,160,330
+- -,YOW,YXU,Air Canada (AC),Air Canada,314,01:07,,,,,DH1,,,"Codeshare",100,174,330
+- -,YOW,YYC,Air Canada (AC),Air Canada,1787,04:04,,,,,E90 320,,,"Direct",100,178,330
+- -,YOW,YYT,Air Canada (AC),Air Canada,1097,02:41,,,,,CRA,,,"Codeshare",100,189,330
+- -,YOW,YYZ,Air Canada (AC),Air Canada,225,00:57,,,,,320 319 E90 763 E75,,,"Direct",100,193,330
+- -,YPR,YVR,Air Canada (AC),Air Canada,468,01:26,,,,,DH3,,,"Codeshare",108,156,330
+- -,YQB,ORD,Air Canada (AC),Air Canada,877,02:15,,,,,ERJ,,,"Codeshare",111,3830,330
+- -,YQB,YGP,Air Canada (AC),Air Canada,348,01:11,,,,,DH3 DH1,,,"Codeshare",111,63,330
+- -,YQB,YOW,Air Canada (AC),Air Canada,228,00:57,,,,,DH1,,,"Codeshare",111,100,330
+- -,YQB,YUL,Air Canada (AC),Air Canada,144,00:47,,,,,DH4 DH1 DH3,,,"Codeshare",111,146,330
+- -,YQB,YYZ,Air Canada (AC),Air Canada,454,01:24,,,,,DH4,,,"Codeshare",111,193,330
+- -,YQB,YZV,Air Canada (AC),Air Canada,333,01:09,,,,,DH1,,,"Codeshare",111,202,330
+- -,YQF,YYC,Air Canada (AC),Air Canada,73,00:38,,,,,BEH,,,"Direct",112,178,330
+- -,YQG,YYZ,Air Canada (AC),Air Canada,193,00:53,,,,,319,,,"Direct",113,193,330
+- -,YQL,YYC,Air Canada (AC),Air Canada,115,00:43,,,,,BEH,,,"Codeshare",116,178,330
+- -,YQM,YHZ,Air Canada (AC),Air Canada,102,00:42,,,,,BEH,,,"Direct",117,73,330
+- -,YQM,YOW,Air Canada (AC),Air Canada,532,01:33,,,,,CRJ,,,"Codeshare",117,100,330
+- -,YQM,YUL,Air Canada (AC),Air Canada,438,01:22,,,,,DH4,,,"Codeshare",117,146,330
+- -,YQM,YYZ,Air Canada (AC),Air Canada,749,01:59,,,,,DH4 CRJ,,,"Codeshare",117,193,330
+- -,YQQ,YVR,Air Canada (AC),Air Canada,84,00:40,,,,,BEH,,,"Codeshare",119,156,330
+- -,YQR,DEN,Air Canada (AC),Air Canada,729,01:57,,,,,CRJ,,,"Codeshare",120,3751,330
+- -,YQR,ORD,Air Canada (AC),Air Canada,987,02:28,,,,,CRJ,,,"Codeshare",120,3830,330
+- -,YQR,YEG,Air Canada (AC),Air Canada,428,01:21,,,,,DH3,,,"Codeshare",120,49,330
+- -,YQR,YVR,Air Canada (AC),Air Canada,827,02:09,,,,,CRJ,,,"Codeshare",120,156,330
+- -,YQR,YWG,Air Canada (AC),Air Canada,330,01:09,,,,,CRJ,,,"Codeshare",120,160,330
+- -,YQR,YYC,Air Canada (AC),Air Canada,410,01:19,,,,,DH4,,,"Codeshare",120,178,330
+- -,YQR,YYZ,Air Canada (AC),Air Canada,1259,03:01,,,,,E90,,,"Direct",120,193,330
+- -,YQT,YWG,Air Canada (AC),Air Canada,372,01:14,,,,,CRJ,,,"Codeshare",121,160,330
+- -,YQT,YYZ,Air Canada (AC),Air Canada,565,01:37,,,,,CRJ DH4,,,"Codeshare",121,193,330
+- -,YQU,YEG,Air Canada (AC),Air Canada,249,00:59,,,,,DH3,,,"Codeshare",122,49,330
+- -,YQU,YYC,Air Canada (AC),Air Canada,345,01:11,,,,,DH3 DH4,,,"Codeshare",122,178,330
+- -,YQX,YHZ,Air Canada (AC),Air Canada,505,01:30,,,,,CRA CRJ,,,"Codeshare",125,73,330
+- -,YQX,YYR,Air Canada (AC),Air Canada,394,01:17,,,,,BEH,,,"Codeshare",125,188,330
+- -,YQX,YYT,Air Canada (AC),Air Canada,123,00:44,,,,,BEH,,,"Codeshare",125,189,330
+- -,YQY,YHZ,Air Canada (AC),Air Canada,189,00:52,,,,,DH1,,,"Codeshare",126,73,330
+- -,YQY,YYZ,Air Canada (AC),Air Canada,970,02:26,,,,,CRJ,,,"Codeshare",126,193,330
+- -,YQZ,YVR,Air Canada (AC),Air Canada,266,01:01,,,,,BEH,,,"Codeshare",127,156,330
+- -,YQZ,YWL,Air Canada (AC),Air Canada,61,00:37,,,,,BEH,,,"Direct",127,162,330
+- -,YSB,YYZ,Air Canada (AC),Air Canada,211,00:55,,,,,DH1,,,"Codeshare",133,193,330
+- -,YSJ,YHZ,Air Canada (AC),Air Canada,119,00:44,,,,,BEH,,,"Direct",135,73,330
+- -,YSJ,YUL,Air Canada (AC),Air Canada,380,01:15,,,,,DH1,,,"Codeshare",135,146,330
+- -,YSJ,YYZ,Air Canada (AC),Air Canada,685,01:52,,,,,DH4,,,"Codeshare",135,193,330
+- -,YTS,YYZ,Air Canada (AC),Air Canada,348,01:11,,,,,DH1,,,"Codeshare",143,193,330
+- -,YTZ,YUL,Air Canada (AC),Air Canada,305,01:06,,,,,DH4,,,"Codeshare",144,146,330
+- -,YUL,AZS,Air Canada (AC),Air Canada,1823,04:08,,,,,320,,,"Direct",146,5810,330
+- -,YUL,BDL,Air Canada (AC),Air Canada,249,00:59,,,,,BEH,,,"Codeshare",146,3825,330
+- -,YUL,BOS,Air Canada (AC),Air Canada,253,01:00,,,,,CRJ DH3,,,"Codeshare",146,3448,330
+- -,YUL,BRU,Air Canada (AC),Air Canada,3449,07:23,,,,,333,,,"Direct",146,302,330
+- -,YUL,CCC,Air Canada (AC),Air Canada,1609,03:43,,,,,319,,,"Direct",146,1901,330
+- -,YUL,CDG,Air Canada (AC),Air Canada,3430,07:21,,,,,77W,,,"Direct",146,1382,330
+- -,YUL,CUN,Air Canada (AC),Air Canada,1844,04:11,,,,,319,,,"Direct",146,1852,330
+- -,YUL,CZM,Air Canada (AC),Air Canada,1878,04:15,,,,,319,,,"Direct",146,1800,330
+- -,YUL,DCA,Air Canada (AC),Air Canada,487,01:28,,,,,CRJ,,,"Codeshare",146,3520,330
+- -,YUL,DEN,Air Canada (AC),Air Canada,1606,03:42,,,,,E90,,,"Direct",146,3751,330
+- -,YUL,EWR,Air Canada (AC),Air Canada,330,01:09,,,,,CRJ,,,"Codeshare",146,3494,330
+- -,YUL,FDF,Air Canada (AC),Air Canada,2257,05:00,,,,,319,,,"Direct",146,2878,330
+- -,YUL,FLL,Air Canada (AC),Air Canada,1385,03:16,,,,,320,,,"Direct",146,3533,330
+- -,YUL,FRA,Air Canada (AC),Air Canada,3635,07:46,,,,,333,,,"Direct",146,340,330
+- -,YUL,GVA,Air Canada (AC),Air Canada,3667,07:50,,,,,333,,,"Direct",146,1665,330
+- -,YUL,HOG,Air Canada (AC),Air Canada,1710,03:55,,,,,319,,,"Direct",146,1910,330
+- -,YUL,IAD,Air Canada (AC),Air Canada,488,01:28,,,,,CR7 ERJ CRJ,,,"Codeshare",146,3714,330
+- -,YUL,IAH,Air Canada (AC),Air Canada,1582,03:39,,,,,E70,,,"Codeshare",146,3550,330
+- -,YUL,LAS,Air Canada (AC),Air Canada,2233,04:57,,,,,763,,,"Direct",146,3877,330
+- -,YUL,LAX,Air Canada (AC),Air Canada,2467,05:26,,,,,319,,,"Direct",146,3484,330
+- -,YUL,LGA,Air Canada (AC),Air Canada,324,01:08,,,,,E75,,,"Direct",146,3697,330
+- -,YUL,LHR,Air Canada (AC),Air Canada,3238,06:58,,,,,77W,,,"Direct",146,507,330
+- -,YUL,MBJ,Air Canada (AC),Air Canada,1877,04:15,,,,,319,,,"Direct",146,1780,330
+- -,YUL,MCO,Air Canada (AC),Air Canada,1247,02:59,,,,,319,,,"Direct",146,3878,330
+- -,YUL,MUC,Air Canada (AC),Air Canada,3819,08:08,,,,,333,,,"Codeshare",146,346,330
+- -,YUL,ORD,Air Canada (AC),Air Canada,745,01:59,,,,,E75,,,"Direct",146,3830,330
+- -,YUL,PAP,Air Canada (AC),Air Canada,1858,04:12,,,,,763,,,"Direct",146,1897,330
+- -,YUL,PTP,Air Canada (AC),Air Canada,2136,04:46,,,,,319,,,"Direct",146,2881,330
+- -,YUL,PUJ,Air Canada (AC),Air Canada,1883,04:15,,,,,319,,,"Direct",146,1760,330
+- -,YUL,SFO,Air Canada (AC),Air Canada,2531,05:33,,,,,319,,,"Direct",146,3469,330
+- -,YUL,SNU,Air Canada (AC),Air Canada,1624,03:44,,,,,319,,,"Direct",146,1918,330
+- -,YUL,VRA,Air Canada (AC),Air Canada,1608,03:42,,,,,320,,,"Direct",146,1923,330
+- -,YUL,YBC,Air Canada (AC),Air Canada,361,01:13,,,,,DH1,,,"Codeshare",146,27,330
+- -,YUL,YBG,Air Canada (AC),Air Canada,236,00:58,,,,,DH1,,,"Codeshare",146,28,330
+- -,YUL,YEG,Air Canada (AC),Air Canada,1843,04:11,,,,,320,,,"Direct",146,49,330
+- -,YUL,YFC,Air Canada (AC),Air Canada,348,01:11,,,,,DH4 DH1,,,"Codeshare",146,56,330
+- -,YUL,YHZ,Air Canada (AC),Air Canada,499,01:29,,,,,320 E90 E75 319,,,"Direct",146,73,330
+- -,YUL,YOW,Air Canada (AC),Air Canada,94,00:41,,,,,E90 320,,,"Direct",146,100,330
+- -,YUL,YQB,Air Canada (AC),Air Canada,144,00:47,,,,,DH3 DH1 DH4,,,"Codeshare",146,111,330
+- -,YUL,YQM,Air Canada (AC),Air Canada,438,01:22,,,,,DH4,,,"Codeshare",146,117,330
+- -,YUL,YSJ,Air Canada (AC),Air Canada,380,01:15,,,,,DH1,,,"Codeshare",146,135,330
+- -,YUL,YTZ,Air Canada (AC),Air Canada,305,01:06,,,,,DH4,,,"Codeshare",146,144,330
+- -,YUL,YUY,Air Canada (AC),Air Canada,305,01:06,,,,,DH1,,,"Codeshare",146,149,330
+- -,YUL,YVO,Air Canada (AC),Air Canada,261,01:01,,,,,DH1,,,"Codeshare",146,153,330
+- -,YUL,YVR,Air Canada (AC),Air Canada,2286,05:04,,,,,321 320 333 319,,,"Direct",146,156,330
+- -,YUL,YWG,Air Canada (AC),Air Canada,1129,02:45,,,,,CRA,,,"Codeshare",146,160,330
+- -,YUL,YYC,Air Canada (AC),Air Canada,1866,04:13,,,,,E90 319 320,,,"Direct",146,178,330
+- -,YUL,YYG,Air Canada (AC),Air Canada,513,01:31,,,,,DH4,,,"Codeshare",146,182,330
+- -,YUL,YYT,Air Canada (AC),Air Canada,1004,02:30,,,,,E90,,,"Direct",146,189,330
+- -,YUL,YYY,Air Canada (AC),Air Canada,338,01:10,,,,,DH1,,,"Codeshare",146,192,330
+- -,YUL,YYZ,Air Canada (AC),Air Canada,314,01:07,,,,,321 320 319 333 763 E75,,,"Direct",146,193,330
+- -,YUL,YZV,Air Canada (AC),Air Canada,476,01:27,,,,,DH1,,,"Codeshare",146,202,330
+- -,YUL,ZBF,Air Canada (AC),Air Canada,407,01:18,,,,,DH3 DH1,,,"Codeshare",146,5538,330
+- -,YUL,ZRH,Air Canada (AC),Air Canada,3723,07:56,,,,,330,,,"Direct",146,1678,330
+- -,YUL,ZSA,Air Canada (AC),Air Canada,1478,03:27,,,,,319,,,"Direct",146,1956,330
+- -,YUY,YUL,Air Canada (AC),Air Canada,305,01:06,,,,,DH1,,,"Codeshare",149,146,330
+- -,YUY,YVO,Air Canada (AC),Air Canada,49,00:35,,,,,DH1,,,"Codeshare",149,153,330
+- -,YVO,YUL,Air Canada (AC),Air Canada,261,01:01,,,,,DH1,,,"Codeshare",153,146,330
+- -,YVO,YUY,Air Canada (AC),Air Canada,49,00:35,,,,,DH1,,,"Codeshare",153,149,330
+- -,YVR,AKL,Air Canada (AC),Air Canada,7055,14:36,,,,,772,,,"Direct",156,2006,330
+- -,YVR,DEN,Air Canada (AC),Air Canada,1111,02:43,,,,,320 319 CR7 737 739,,,"Codeshare",156,3751,330
+- -,YVR,EWR,Air Canada (AC),Air Canada,2421,05:20,,,,,319,,,"Direct",156,3494,330
+- -,YVR,FRA,Air Canada (AC),Air Canada,5006,10:30,,,,,744,,,"Codeshare",156,340,330
+- -,YVR,HKG,Air Canada (AC),Air Canada,6377,13:15,,,,,77W,,,"Direct",156,3077,330
+- -,YVR,HND,Air Canada (AC),Air Canada,4694,09:53,,,,,763,,,"Direct",156,2359,330
+- -,YVR,HNL,Air Canada (AC),Air Canada,2703,05:54,,,,,763,,,"Direct",156,3728,330
+- -,YVR,ICN,Air Canada (AC),Air Canada,5092,10:41,,,,,763,,,"Direct",156,3930,330
+- -,YVR,LAS,Air Canada (AC),Air Canada,991,02:28,,,,,319,,,"Direct",156,3877,330
+- -,YVR,LAX,Air Canada (AC),Air Canada,1081,02:39,,,,,319,,,"Direct",156,3484,330
+- -,YVR,LHR,Air Canada (AC),Air Canada,4706,09:54,,,,,77W,,,"Direct",156,507,330
+- -,YVR,MEX,Air Canada (AC),Air Canada,2449,05:23,,,,,319,,,"Direct",156,1824,330
+- -,YVR,MUC,Air Canada (AC),Air Canada,5179,10:51,,,,,333,,,"Codeshare",156,346,330
+- -,YVR,NRT,Air Canada (AC),Air Canada,4659,09:49,,,,,763,,,"Direct",156,2279,330
+- -,YVR,OGG,Air Canada (AC),Air Canada,2671,05:50,,,,,763,,,"Direct",156,3456,330
+- -,YVR,ORD,Air Canada (AC),Air Canada,1758,04:00,,,,,320 319 738 737,,,"Codeshare",156,3830,330
+- -,YVR,PDX,Air Canada (AC),Air Canada,250,01:00,,,,,DH3,,,"Codeshare",156,3720,330
+- -,YVR,PEK,Air Canada (AC),Air Canada,5273,11:02,,,,,77W 330,,,"Direct",156,3364,330
+- -,YVR,PVG,Air Canada (AC),Air Canada,5599,11:41,,,,,763,,,"Direct",156,3406,330
+- -,YVR,PVR,Air Canada (AC),Air Canada,2202,04:54,,,,,319,,,"Direct",156,1836,330
+- -,YVR,SEA,Air Canada (AC),Air Canada,127,00:45,,,,,DH3,,,"Codeshare",156,3577,330
+- -,YVR,SFO,Air Canada (AC),Air Canada,800,02:06,,,,,E90 320 319,,,"Direct",156,3469,330
+- -,YVR,SYD,Air Canada (AC),Air Canada,7763,16:01,,,,,77L,,,"Direct",156,3361,330
+- -,YVR,YBL,Air Canada (AC),Air Canada,107,00:42,,,,,BEH,,,"1 stops",156,30,330
+- -,YVR,YCD,Air Canada (AC),Air Canada,32,00:33,,,,,DH3,,,"Codeshare",156,33,330
+- -,YVR,YCG,Air Canada (AC),Air Canada,250,01:00,,,,,DH3,,,"Codeshare",156,34,330
+- -,YVR,YEG,Air Canada (AC),Air Canada,502,01:30,,,,,E90 320,,,"Direct",156,49,330
+- -,YVR,YKA,Air Canada (AC),Air Canada,160,00:49,,,,,DH3,,,"Codeshare",156,78,330
+- -,YVR,YLW,Air Canada (AC),Air Canada,178,00:51,,,,,DH3 CRJ,,,"Codeshare",156,87,330
+- -,YVR,YMM,Air Canada (AC),Air Canada,714,01:55,,,,,CRJ,,,"Codeshare",156,90,330
+- -,YVR,YOW,Air Canada (AC),Air Canada,2205,04:54,,,,,320 763,,,"Direct",156,100,330
+- -,YVR,YPR,Air Canada (AC),Air Canada,468,01:26,,,,,DH3,,,"Codeshare",156,108,330
+- -,YVR,YQR,Air Canada (AC),Air Canada,827,02:09,,,,,CRJ,,,"Codeshare",156,120,330
+- -,YVR,YQZ,Air Canada (AC),Air Canada,266,01:01,,,,,BEH,,,"Direct",156,127,330
+- -,YVR,YUL,Air Canada (AC),Air Canada,2286,05:04,,,,,333 320 321,,,"Direct",156,146,330
+- -,YVR,YWG,Air Canada (AC),Air Canada,1157,02:48,,,,,E90,,,"Direct",156,160,330
+- -,YVR,YWL,Air Canada (AC),Air Canada,212,00:55,,,,,BEH,,,"Codeshare",156,162,330
+- -,YVR,YXC,Air Canada (AC),Air Canada,333,01:09,,,,,DH3,,,"Codeshare",156,164,330
+- -,YVR,YXE,Air Canada (AC),Air Canada,748,01:59,,,,,CRJ,,,"Codeshare",156,166,330
+- -,YVR,YXJ,Air Canada (AC),Air Canada,496,01:29,,,,,DH4,,,"Codeshare",156,168,330
+- -,YVR,YXS,Air Canada (AC),Air Canada,324,01:08,,,,,DH4,,,"Codeshare",156,172,330
+- -,YVR,YXT,Air Canada (AC),Air Canada,430,01:21,,,,,DH3,,,"Codeshare",156,173,330
+- -,YVR,YXY,Air Canada (AC),Air Canada,921,02:20,,,,,E90,,,"Direct",156,176,330
+- -,YVR,YYC,Air Canada (AC),Air Canada,426,01:21,,,,,E90 319 320,,,"Direct",156,178,330
+- -,YVR,YYD,Air Canada (AC),Air Canada,424,01:20,,,,,DH3,,,"Codeshare",156,179,330
+- -,YVR,YYF,Air Canada (AC),Air Canada,162,00:49,,,,,DH3,,,"Codeshare",156,181,330
+- -,YVR,YYJ,Air Canada (AC),Air Canada,39,00:34,,,,,DH3 DH4,,,"Codeshare",156,184,330
+- -,YVR,YYZ,Air Canada (AC),Air Canada,2077,04:39,,,,,320 319 77L 321 77W 763,,,"Direct",156,193,330
+- -,YVR,YZP,Air Canada (AC),Air Canada,466,01:25,,,,,DH3,,,"Codeshare",156,198,330
+- -,YWG,DEN,Air Canada (AC),Air Canada,782,02:03,,,,,ERJ CRJ,,,"Codeshare",160,3751,330
+- -,YWG,ORD,Air Canada (AC),Air Canada,706,01:54,,,,,CRJ ERJ,,,"Codeshare",160,3830,330
+- -,YWG,YEG,Air Canada (AC),Air Canada,737,01:58,,,,,CRJ,,,"Codeshare",160,49,330
+- -,YWG,YOW,Air Canada (AC),Air Canada,1048,02:35,,,,,CRA,,,"Codeshare",160,100,330
+- -,YWG,YQR,Air Canada (AC),Air Canada,330,01:09,,,,,CRJ,,,"Codeshare",160,120,330
+- -,YWG,YQT,Air Canada (AC),Air Canada,372,01:14,,,,,CRJ,,,"Codeshare",160,121,330
+- -,YWG,YUL,Air Canada (AC),Air Canada,1129,02:45,,,,,CRA,,,"Codeshare",160,146,330
+- -,YWG,YVR,Air Canada (AC),Air Canada,1157,02:48,,,,,E90 320,,,"Direct",160,156,330
+- -,YWG,YXE,Air Canada (AC),Air Canada,439,01:22,,,,,CRJ,,,"Codeshare",160,166,330
+- -,YWG,YYC,Air Canada (AC),Air Canada,739,01:58,,,,,CRA,,,"Codeshare",160,178,330
+- -,YWG,YYZ,Air Canada (AC),Air Canada,934,02:22,,,,,E90 320 319,,,"Direct",160,193,330
+- -,YWK,YYR,Air Canada (AC),Air Canada,268,01:02,,,,,BEH,,,"Codeshare",161,188,330
+- -,YWK,YZV,Air Canada (AC),Air Canada,188,00:52,,,,,DH1,,,"Codeshare",161,202,330
+- -,YWL,YQZ,Air Canada (AC),Air Canada,61,00:37,,,,,BEH,,,"Codeshare",162,127,330
+- -,YWL,YVR,Air Canada (AC),Air Canada,212,00:55,,,,,BEH,,,"Direct",162,156,330
+- -,YXC,YVR,Air Canada (AC),Air Canada,333,01:09,,,,,DH3,,,"Codeshare",164,156,330
+- -,YXC,YYC,Air Canada (AC),Air Canada,129,00:45,,,,,BEH,,,"Codeshare",164,178,330
+- -,YXE,DEN,Air Canada (AC),Air Canada,855,02:12,,,,,ERJ,,,"Codeshare",166,3751,330
+- -,YXE,YEG,Air Canada (AC),Air Canada,298,01:05,,,,,DH3,,,"Codeshare",166,49,330
+- -,YXE,YVR,Air Canada (AC),Air Canada,748,01:59,,,,,CRJ,,,"Codeshare",166,156,330
+- -,YXE,YWG,Air Canada (AC),Air Canada,439,01:22,,,,,CRJ,,,"Codeshare",166,160,330
+- -,YXE,YYC,Air Canada (AC),Air Canada,321,01:08,,,,,DH4,,,"Codeshare",166,178,330
+- -,YXE,YYZ,Air Canada (AC),Air Canada,1372,03:14,,,,,E90,,,"Direct",166,193,330
+- -,YXH,YYC,Air Canada (AC),Air Canada,163,00:49,,,,,BEH,,,"Codeshare",167,178,330
+- -,YXJ,YVR,Air Canada (AC),Air Canada,496,01:29,,,,,DH4,,,"Codeshare",168,156,330
+- -,YXS,YVR,Air Canada (AC),Air Canada,324,01:08,,,,,DH4,,,"Codeshare",172,156,330
+- -,YXT,YVR,Air Canada (AC),Air Canada,430,01:21,,,,,DH3,,,"Codeshare",173,156,330
+- -,YXU,ORD,Air Canada (AC),Air Canada,351,01:12,,,,,CRJ,,,"Codeshare",174,3830,330
+- -,YXU,YOW,Air Canada (AC),Air Canada,314,01:07,,,,,DH1,,,"Codeshare",174,100,330
+- -,YXU,YYZ,Air Canada (AC),Air Canada,88,00:40,,,,,DH1 DH4,,,"Codeshare",174,193,330
+- -,YXY,YVR,Air Canada (AC),Air Canada,921,02:20,,,,,E90,,,"Direct",176,156,330
+- -,YYB,YYZ,Air Canada (AC),Air Canada,185,00:52,,,,,DH1,,,"Codeshare",177,193,330
+- -,YYC,CUN,Air Canada (AC),Air Canada,2540,05:34,,,,,319,,,"Direct",178,1852,330
+- -,YYC,DEN,Air Canada (AC),Air Canada,897,02:17,,,,,CRJ 738 737 CR7,,,"Codeshare",178,3751,330
+- -,YYC,EWR,Air Canada (AC),Air Canada,2016,04:31,,,,,E90,,,"Direct",178,3494,330
+- -,YYC,FRA,Air Canada (AC),Air Canada,4675,09:51,,,,,77W,,,"Direct",178,340,330
+- -,YYC,IAH,Air Canada (AC),Air Canada,1746,03:59,,,,,738 CRA 320 739,,,"Codeshare",178,3550,330
+- -,YYC,LAS,Air Canada (AC),Air Canada,1039,02:34,,,,,319,,,"Direct",178,3877,330
+- -,YYC,LAX,Air Canada (AC),Air Canada,1206,02:54,,,,,319,,,"Direct",178,3484,330
+- -,YYC,LHR,Air Canada (AC),Air Canada,4356,09:12,,,,,333,,,"Direct",178,507,330
+- -,YYC,NRT,Air Canada (AC),Air Canada,4934,10:22,,,,,763,,,"Direct",178,2279,330
+- -,YYC,ORD,Air Canada (AC),Air Canada,1381,03:15,,,,,737 CR7 738 320,,,"Codeshare",178,3830,330
+- -,YYC,PDX,Air Canada (AC),Air Canada,547,01:35,,,,,CRJ,,,"Codeshare",178,3720,330
+- -,YYC,PVR,Air Canada (AC),Air Canada,2154,04:48,,,,,319,,,"Direct",178,1836,330
+- -,YYC,SFO,Air Canada (AC),Air Canada,1017,02:32,,,,,CR7,,,"Codeshare",178,3469,330
+- -,YYC,SJD,Air Canada (AC),Air Canada,1944,04:23,,,,,319,,,"Direct",178,1840,330
+- -,YYC,VRA,Air Canada (AC),Air Canada,2602,05:42,,,,,319,,,"Direct",178,1923,330
+- -,YYC,YCG,Air Canada (AC),Air Canada,203,00:54,,,,,DH3,,,"Codeshare",178,34,330
+- -,YYC,YEG,Air Canada (AC),Air Canada,152,00:48,,,,,DH3 CRJ DH4,,,"Codeshare",178,49,330
+- -,YYC,YKA,Air Canada (AC),Air Canada,281,01:03,,,,,DH3,,,"Codeshare",178,78,330
+- -,YYC,YLW,Air Canada (AC),Air Canada,248,00:59,,,,,DH3 CRJ,,,"Codeshare",178,87,330
+- -,YYC,YMM,Air Canada (AC),Air Canada,399,01:17,,,,,DH4 CRJ CRA,,,"Codeshare",178,90,330
+- -,YYC,YOW,Air Canada (AC),Air Canada,1787,04:04,,,,,E90 320,,,"Direct",178,100,330
+- -,YYC,YQF,Air Canada (AC),Air Canada,73,00:38,,,,,BEH,,,"Direct",178,112,330
+- -,YYC,YQL,Air Canada (AC),Air Canada,115,00:43,,,,,BEH,,,"Codeshare",178,116,330
+- -,YYC,YQR,Air Canada (AC),Air Canada,410,01:19,,,,,DH4,,,"Codeshare",178,120,330
+- -,YYC,YQU,Air Canada (AC),Air Canada,345,01:11,,,,,DH3 DH4,,,"Codeshare",178,122,330
+- -,YYC,YUL,Air Canada (AC),Air Canada,1866,04:13,,,,,E90 319 320,,,"Direct",178,146,330
+- -,YYC,YVR,Air Canada (AC),Air Canada,426,01:21,,,,,E90 320 319 321,,,"Direct",178,156,330
+- -,YYC,YWG,Air Canada (AC),Air Canada,739,01:58,,,,,CRA,,,"Codeshare",178,160,330
+- -,YYC,YXC,Air Canada (AC),Air Canada,129,00:45,,,,,BEH,,,"Codeshare",178,164,330
+- -,YYC,YXE,Air Canada (AC),Air Canada,321,01:08,,,,,DH4,,,"Codeshare",178,166,330
+- -,YYC,YXH,Air Canada (AC),Air Canada,163,00:49,,,,,BEH,,,"Codeshare",178,167,330
+- -,YYC,YYJ,Air Canada (AC),Air Canada,451,01:24,,,,,DH4,,,"Codeshare",178,184,330
+- -,YYC,YYZ,Air Canada (AC),Air Canada,1670,03:50,,,,,321 320 319 E90,,,"Direct",178,193,330
+- -,YYC,YZF,Air Canada (AC),Air Canada,783,02:03,,,,,CRJ,,,"Codeshare",178,196,330
+- -,YYD,YVR,Air Canada (AC),Air Canada,424,01:20,,,,,DH3,,,"Codeshare",179,156,330
+- -,YYF,YVR,Air Canada (AC),Air Canada,162,00:49,,,,,DH3,,,"Codeshare",181,156,330
+- -,YYG,YHZ,Air Canada (AC),Air Canada,99,00:41,,,,,BEH,,,"Direct",182,73,330
+- -,YYG,YUL,Air Canada (AC),Air Canada,513,01:31,,,,,DH4,,,"Codeshare",182,146,330
+- -,YYG,YYZ,Air Canada (AC),Air Canada,824,02:08,,,,,CRJ,,,"Codeshare",182,193,330
+- -,YYJ,SFO,Air Canada (AC),Air Canada,763,02:01,,,,,CRJ,,,"Codeshare",184,3469,330
+- -,YYJ,YVR,Air Canada (AC),Air Canada,39,00:34,,,,,DH3 DH4,,,"Codeshare",184,156,330
+- -,YYJ,YYC,Air Canada (AC),Air Canada,451,01:24,,,,,DH4,,,"Codeshare",184,178,330
+- -,YYJ,YYZ,Air Canada (AC),Air Canada,2092,04:41,,,,,320,,,"Direct",184,193,330
+- -,YYR,YDF,Air Canada (AC),Air Canada,312,01:07,,,,,BEH,,,"Codeshare",188,45,330
+- -,YYR,YHZ,Air Canada (AC),Air Canada,598,01:41,,,,,CRJ,,,"Codeshare",188,73,330
+- -,YYR,YQX,Air Canada (AC),Air Canada,394,01:17,,,,,BEH,,,"Codeshare",188,125,330
+- -,YYR,YWK,Air Canada (AC),Air Canada,268,01:02,,,,,BEH,,,"Codeshare",188,161,330
+- -,YYR,YYT,Air Canada (AC),Air Canada,517,01:32,,,,,CRJ,,,"Codeshare",188,189,330
+- -,YYT,LHR,Air Canada (AC),Air Canada,2307,05:06,,,,,319,,,"Direct",189,507,330
+- -,YYT,YDF,Air Canada (AC),Air Canada,239,00:58,,,,,BEH,,,"Codeshare",189,45,330
+- -,YYT,YHZ,Air Canada (AC),Air Canada,546,01:35,,,,,E90,,,"Direct",189,73,330
+- -,YYT,YOW,Air Canada (AC),Air Canada,1097,02:41,,,,,CRA,,,"Codeshare",189,100,330
+- -,YYT,YQX,Air Canada (AC),Air Canada,123,00:44,,,,,BEH,,,"Codeshare",189,125,330
+- -,YYT,YUL,Air Canada (AC),Air Canada,1004,02:30,,,,,E90 319 320,,,"Direct",189,146,330
+- -,YYT,YYR,Air Canada (AC),Air Canada,517,01:32,,,,,CRJ,,,"Codeshare",189,188,330
+- -,YYT,YYZ,Air Canada (AC),Air Canada,1318,03:08,,,,,320 319 E90,,,"Direct",189,193,330
+- -,YYY,YBC,Air Canada (AC),Air Canada,36,00:34,,,,,DH1,,,"Codeshare",192,27,330
+- -,YYY,YUL,Air Canada (AC),Air Canada,338,01:10,,,,,DH1,,,"Codeshare",192,146,330
+- -,YYZ,ANU,Air Canada (AC),Air Canada,2107,04:42,,,,,320,,,"Direct",193,2874,330
+- -,YYZ,ATL,Air Canada (AC),Air Canada,739,01:58,,,,,CRA CRJ,,,"Codeshare",193,3682,330
+- -,YYZ,AUA,Air Canada (AC),Air Canada,2227,04:57,,,,,319,,,"Direct",193,2895,330
+- -,YYZ,AUH,Air Canada (AC),Air Canada,6907,14:18,,,,,77W,,,"Direct",193,2179,330
+- -,YYZ,AZS,Air Canada (AC),Air Canada,1780,04:03,,,,,319,,,"Direct",193,5810,330
+- -,YYZ,BCN,Air Canada (AC),Air Canada,3985,08:28,,,,,763,,,"Codeshare",193,1218,330
+- -,YYZ,BDA,Air Canada (AC),Air Canada,1124,02:44,,,,,319,,,"Direct",193,4069,330
+- -,YYZ,BDL,Air Canada (AC),Air Canada,371,01:14,,,,,BEH,,,"Codeshare",193,3825,330
+- -,YYZ,BGI,Air Canada (AC),Air Canada,2427,05:21,,,,,319,,,"Direct",193,2875,330
+- -,YYZ,BNA,Air Canada (AC),Air Canada,640,01:46,,,,,CRJ,,,"Codeshare",193,3690,330
+- -,YYZ,BOG,Air Canada (AC),Air Canada,2712,05:55,,,,,763,,,"Direct",193,2709,330
+- -,YYZ,BOS,Air Canada (AC),Air Canada,444,01:23,,,,,E90 E75,,,"Direct",193,3448,330
+- -,YYZ,BWI,Air Canada (AC),Air Canada,346,01:11,,,,,DH1,,,"Codeshare",193,3849,330
+- -,YYZ,CCC,Air Canada (AC),Air Canada,1466,03:25,,,,,319,,,"Direct",193,1901,330
+- -,YYZ,CDG,Air Canada (AC),Air Canada,3738,07:58,,,,,77W,,,"Direct",193,1382,330
+- -,YYZ,CLE,Air Canada (AC),Air Canada,192,00:53,,,,,DH1,,,"Codeshare",193,3486,330
+- -,YYZ,CLT,Air Canada (AC),Air Canada,588,01:40,,,,,CRJ,,,"Codeshare",193,3876,330
+- -,YYZ,CMH,Air Canada (AC),Air Canada,304,01:06,,,,,DH1,,,"Codeshare",193,3759,330
+- -,YYZ,CPH,Air Canada (AC),Air Canada,3893,08:17,,,,,763,,,"Direct",193,609,330
+- -,YYZ,CUN,Air Canada (AC),Air Canada,1617,03:44,,,,,319,,,"Direct",193,1852,330
+- -,YYZ,CVG,Air Canada (AC),Air Canada,412,01:19,,,,,CRJ,,,"Codeshare",193,3488,330
+- -,YYZ,DCA,Air Canada (AC),Air Canada,359,01:13,,,,,E75,,,"Direct",193,3520,330
+- -,YYZ,DEN,Air Canada (AC),Air Canada,1311,03:07,,,,,E90,,,"Direct",193,3751,330
+- -,YYZ,DFW,Air Canada (AC),Air Canada,1197,02:53,,,,,E75,,,"Direct",193,3670,330
+- -,YYZ,DTW,Air Canada (AC),Air Canada,213,00:55,,,,,BEH CRJ,,,"Codeshare",193,3645,330
+- -,YYZ,DUB,Air Canada (AC),Air Canada,3267,07:02,,,,,763,,,"Codeshare",193,599,330
+- -,YYZ,EWR,Air Canada (AC),Air Canada,347,01:11,,,,,E75 E90,,,"Direct",193,3494,330
+- -,YYZ,FCO,Air Canada (AC),Air Canada,4400,09:18,,,,,333,,,"Direct",193,1555,330
+- -,YYZ,FLL,Air Canada (AC),Air Canada,1216,02:55,,,,,320,,,"Direct",193,3533,330
+- -,YYZ,FRA,Air Canada (AC),Air Canada,3939,08:22,,,,,77W,,,"Direct",193,340,330
+- -,YYZ,GCM,Air Canada (AC),Air Canada,1686,03:52,,,,,E90,,,"Direct",193,1926,330
+- -,YYZ,GGT,Air Canada (AC),Air Canada,1405,03:18,,,,,E90,,,"Direct",193,1941,330
+- -,YYZ,GND,Air Canada (AC),Air Canada,2431,05:21,,,,,319,,,"Direct",193,2882,330
+- -,YYZ,GRU,Air Canada (AC),Air Canada,5088,10:40,,,,,763,,,"Direct",193,2564,330
+- -,YYZ,HAV,Air Canada (AC),Air Canada,1437,03:22,,,,,E90,,,"Direct",193,1909,330
+- -,YYZ,HKG,Air Canada (AC),Air Canada,7792,16:05,,,,,77L,,,"Direct",193,3077,330
+- -,YYZ,HOG,Air Canada (AC),Air Canada,1592,03:41,,,,,319,,,"Direct",193,1910,330
+- -,YYZ,IAD,Air Canada (AC),Air Canada,345,01:11,,,,,CRJ ERJ CR7,,,"Codeshare",193,3714,330
+- -,YYZ,IAH,Air Canada (AC),Air Canada,1279,03:03,,,,,CRA,,,"Codeshare",193,3550,330
+- -,YYZ,IND,Air Canada (AC),Air Canada,438,01:22,,,,,CRJ,,,"Codeshare",193,3585,330
+- -,YYZ,IST,Air Canada (AC),Air Canada,5091,10:40,,,,,77W 763,,,"Direct",193,1701,330
+- -,YYZ,JFK,Air Canada (AC),Air Canada,365,01:13,,,,,CRA,,,"Codeshare",193,3797,330
+- -,YYZ,KIN,Air Canada (AC),Air Canada,1785,04:04,,,,,319,,,"Direct",193,1779,330
+- -,YYZ,LAS,Air Canada (AC),Air Canada,1937,04:22,,,,,763 319,,,"Direct",193,3877,330
+- -,YYZ,LAX,Air Canada (AC),Air Canada,2169,04:50,,,,,321 320,,,"Direct",193,3484,330
+- -,YYZ,LGA,Air Canada (AC),Air Canada,355,01:12,,,,,E90 E75,,,"Direct",193,3697,330
+- -,YYZ,LHR,Air Canada (AC),Air Canada,3544,07:35,,,,,763 77L 77W 333,,,"Direct",193,507,330
+- -,YYZ,LIM,Air Canada (AC),Air Canada,3849,08:11,,,,,763,,,"Direct",193,2789,330
+- -,YYZ,LIR,Air Canada (AC),Air Canada,2311,05:07,,,,,319,,,"Direct",193,1881,330
+- -,YYZ,MBJ,Air Canada (AC),Air Canada,1741,03:58,,,,,319,,,"Direct",193,1780,330
+- -,YYZ,MCI,Air Canada (AC),Air Canada,835,02:10,,,,,CRJ,,,"Codeshare",193,3458,330
+- -,YYZ,MCO,Air Canada (AC),Air Canada,1057,02:36,,,,,319,,,"Direct",193,3878,330
+- -,YYZ,MDT,Air Canada (AC),Air Canada,282,01:03,,,,,BEH,,,"Codeshare",193,3542,330
+- -,YYZ,MEX,Air Canada (AC),Air Canada,2016,04:31,,,,,319,,,"Direct",193,1824,330
+- -,YYZ,MIA,Air Canada (AC),Air Canada,1235,02:58,,,,,E90,,,"Direct",193,3576,330
+- -,YYZ,MKE,Air Canada (AC),Air Canada,418,01:20,,,,,CRJ,,,"Codeshare",193,3717,330
+- -,YYZ,MSP,Air Canada (AC),Air Canada,676,01:51,,,,,CRA CRJ,,,"Codeshare",193,3858,330
+- -,YYZ,MSY,Air Canada (AC),Air Canada,1110,02:43,,,,,CRA,,,"Codeshare",193,3861,330
+- -,YYZ,MUC,Air Canada (AC),Air Canada,4124,08:44,,,,,77W,,,"Direct",193,346,330
+- -,YYZ,NAS,Air Canada (AC),Air Canada,1292,03:05,,,,,319,,,"Direct",193,1953,330
+- -,YYZ,NRT,Air Canada (AC),Air Canada,6396,13:17,,,,,77W,,,"Direct",193,2279,330
+- -,YYZ,ORD,Air Canada (AC),Air Canada,434,01:22,,,,,E75,,,"Direct",193,3830,330
+- -,YYZ,PEK,Air Canada (AC),Air Canada,6558,13:36,,,,,77W,,,"Direct",193,3364,330
+- -,YYZ,PHL,Air Canada (AC),Air Canada,346,01:11,,,,,E75,,,"Direct",193,3752,330
+- -,YYZ,PHX,Air Canada (AC),Air Canada,1871,04:14,,,,,319,,,"Direct",193,3462,330
+- -,YYZ,PIT,Air Canada (AC),Air Canada,222,00:56,,,,,DH1,,,"Codeshare",193,3570,330
+- -,YYZ,PLS,Air Canada (AC),Air Canada,1570,03:38,,,,,E90,,,"Direct",193,1754,330
+- -,YYZ,POP,Air Canada (AC),Air Canada,1732,03:57,,,,,319,,,"Direct",193,1761,330
+- -,YYZ,PUJ,Air Canada (AC),Air Canada,1853,04:12,,,,,319,,,"Direct",193,1760,330
+- -,YYZ,PVG,Air Canada (AC),Air Canada,7088,14:40,,,,,77L,,,"Direct",193,3406,330
+- -,YYZ,RDU,Air Canada (AC),Air Canada,540,01:34,,,,,CRJ,,,"Codeshare",193,3626,330
+- -,YYZ,ROC,Air Canada (AC),Air Canada,105,00:42,,,,,BEH,,,"Codeshare",193,3622,330
+- -,YYZ,RSW,Air Canada (AC),Air Canada,1189,02:52,,,,,320,,,"Direct",193,3793,330
+- -,YYZ,SAN,Air Canada (AC),Air Canada,2151,04:48,,,,,319,,,"Direct",193,3731,330
+- -,YYZ,SCL,Air Canada (AC),Air Canada,5351,11:12,,,,,763,,,"Direct",193,2650,330
+- -,YYZ,SEA,Air Canada (AC),Air Canada,2053,04:36,,,,,E90,,,"Direct",193,3577,330
+- -,YYZ,SFO,Air Canada (AC),Air Canada,2252,05:00,,,,,320,,,"Direct",193,3469,330
+- -,YYZ,SJO,Air Canada (AC),Air Canada,2342,05:11,,,,,319,,,"Direct",193,1885,330
+- -,YYZ,SNU,Air Canada (AC),Air Canada,1463,03:25,,,,,319,,,"Direct",193,1918,330
+- -,YYZ,STL,Air Canada (AC),Air Canada,652,01:48,,,,,CRJ,,,"Codeshare",193,3678,330
+- -,YYZ,SYR,Air Canada (AC),Air Canada,181,00:51,,,,,BEH,,,"Codeshare",193,3745,330
+- -,YYZ,TLV,Air Canada (AC),Air Canada,5772,12:02,,,,,763,,,"Direct",193,1590,330
+- -,YYZ,TPA,Air Canada (AC),Air Canada,1096,02:41,,,,,319,,,"Direct",193,3646,330
+- -,YYZ,UVF,Air Canada (AC),Air Canada,2344,05:11,,,,,319,,,"Direct",193,2894,330
+- -,YYZ,VIE,Air Canada (AC),Air Canada,4315,09:07,,,,,763,,,"Codeshare",193,1613,330
+- -,YYZ,VRA,Air Canada (AC),Air Canada,1429,03:21,,,,,319,,,"Direct",193,1923,330
+- -,YYZ,WAW,Air Canada (AC),Air Canada,4306,09:06,,,,,788,,,"Direct",193,679,330
+- -,YYZ,YAM,Air Canada (AC),Air Canada,306,01:06,,,,,DH1,,,"Codeshare",193,21,330
+- -,YYZ,YDF,Air Canada (AC),Air Canada,1120,02:44,,,,,E90,,,"Direct",193,45,330
+- -,YYZ,YEG,Air Canada (AC),Air Canada,1669,03:50,,,,,320 319 E90,,,"Direct",193,49,330
+- -,YYZ,YFC,Air Canada (AC),Air Canada,658,01:48,,,,,DH4,,,"Codeshare",193,56,330
+- -,YYZ,YGK,Air Canada (AC),Air Canada,155,00:48,,,,,BEH,,,"Codeshare",193,61,330
+- -,YYZ,YHZ,Air Canada (AC),Air Canada,800,02:06,,,,,320 E90 319 763,,,"Direct",193,73,330
+- -,YYZ,YMM,Air Canada (AC),Air Canada,1637,03:46,,,,,E90 320 319,,,"Direct",193,90,330
+- -,YYZ,YOW,Air Canada (AC),Air Canada,225,00:57,,,,,E90 319 320 763 E75,,,"Direct",193,100,330
+- -,YYZ,YQB,Air Canada (AC),Air Canada,454,01:24,,,,,DH4,,,"Codeshare",193,111,330
+- -,YYZ,YQG,Air Canada (AC),Air Canada,193,00:53,,,,,319,,,"Direct",193,113,330
+- -,YYZ,YQM,Air Canada (AC),Air Canada,749,01:59,,,,,DH4 CRJ,,,"Codeshare",193,117,330
+- -,YYZ,YQR,Air Canada (AC),Air Canada,1259,03:01,,,,,E90,,,"Direct",193,120,330
+- -,YYZ,YQT,Air Canada (AC),Air Canada,565,01:37,,,,,DH4 CRJ,,,"Codeshare",193,121,330
+- -,YYZ,YQY,Air Canada (AC),Air Canada,970,02:26,,,,,CRJ,,,"Codeshare",193,126,330
+- -,YYZ,YSB,Air Canada (AC),Air Canada,211,00:55,,,,,DH1,,,"Codeshare",193,133,330
+- -,YYZ,YSJ,Air Canada (AC),Air Canada,685,01:52,,,,,DH4,,,"Codeshare",193,135,330
+- -,YYZ,YTS,Air Canada (AC),Air Canada,348,01:11,,,,,DH1,,,"Codeshare",193,143,330
+- -,YYZ,YUL,Air Canada (AC),Air Canada,314,01:07,,,,,319 321 320 E90 333 763 E75,,,"Direct",193,146,330
+- -,YYZ,YVR,Air Canada (AC),Air Canada,2077,04:39,,,,,321 320 77W 763 77L 319 333,,,"Direct",193,156,330
+- -,YYZ,YWG,Air Canada (AC),Air Canada,934,02:22,,,,,320 E90 319,,,"Direct",193,160,330
+- -,YYZ,YXE,Air Canada (AC),Air Canada,1372,03:14,,,,,E90,,,"Direct",193,166,330
+- -,YYZ,YXU,Air Canada (AC),Air Canada,88,00:40,,,,,DH1 DH4,,,"Codeshare",193,174,330
+- -,YYZ,YYB,Air Canada (AC),Air Canada,185,00:52,,,,,DH1,,,"Codeshare",193,177,330
+- -,YYZ,YYC,Air Canada (AC),Air Canada,1670,03:50,,,,,320 321 319,,,"Direct",193,178,330
+- -,YYZ,YYG,Air Canada (AC),Air Canada,824,02:08,,,,,CRJ,,,"Codeshare",193,182,330
+- -,YYZ,YYJ,Air Canada (AC),Air Canada,2092,04:41,,,,,320,,,"Direct",193,184,330
+- -,YYZ,YYT,Air Canada (AC),Air Canada,1318,03:08,,,,,320 E90 319,,,"Direct",193,189,330
+- -,YYZ,YZR,Air Canada (AC),Air Canada,142,00:47,,,,,BEH,,,"Codeshare",193,199,330
+- -,YYZ,ZRH,Air Canada (AC),Air Canada,4030,08:33,,,,,333,,,"Direct",193,1678,330
+- -,YZF,YEG,Air Canada (AC),Air Canada,632,01:45,,,,,CRJ,,,"Codeshare",196,49,330
+- -,YZF,YYC,Air Canada (AC),Air Canada,783,02:03,,,,,CRJ,,,"Codeshare",196,178,330
+- -,YZP,YVR,Air Canada (AC),Air Canada,466,01:25,,,,,DH3,,,"Codeshare",198,156,330
+- -,YZR,YYZ,Air Canada (AC),Air Canada,142,00:47,,,,,BEH,,,"Codeshare",199,193,330
+- -,YZV,YQB,Air Canada (AC),Air Canada,333,01:09,,,,,DH1,,,"Codeshare",202,111,330
+- -,YZV,YUL,Air Canada (AC),Air Canada,476,01:27,,,,,DH1,,,"Codeshare",202,146,330
+- -,YZV,YWK,Air Canada (AC),Air Canada,188,00:52,,,,,DH1,,,"Codeshare",202,161,330
+- -,ZBF,YUL,Air Canada (AC),Air Canada,407,01:18,,,,,DH3 DH1,,,"Codeshare",5538,146,330
+- -,ZRH,YUL,Air Canada (AC),Air Canada,3723,07:56,,,,,330,,,"Direct",1678,146,330
+- -,ZRH,YYZ,Air Canada (AC),Air Canada,4030,08:33,,,,,333,,,"Direct",1678,193,330
+- -,ZSA,PLS,Air Canada (AC),Air Canada,213,00:55,,,,,319,,,"Direct",1956,1754,330

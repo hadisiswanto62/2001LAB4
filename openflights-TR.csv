@@ -1,0 +1,75 @@
+﻿Date,From,To,Flight_Number,Airline,Distance,Duration,Seat,Seat_Type,Class,Reason,Plane,Registration,Trip,Note,From_OID,To_OID,Airline_OID,Plane_OID
+- -,BDO,SIN,Tiger Airways (TR),Tiger Airways,620,01:44,,,,,320,,,"Direct",3896,3316,4936
+- -,BKK,SIN,Tiger Airways (TR),Tiger Airways,879,02:15,,,,,320,,,"Direct",3885,3316,4936
+- -,BLR,SIN,Tiger Airways (TR),Tiger Airways,1974,04:26,,,,,320,,,"Direct",3131,3316,4936
+- -,CAN,SIN,Tiger Airways (TR),Tiger Airways,1644,03:47,,,,,320,,,"Direct",3370,3316,4936
+- -,CEB,SIN,Tiger Airways (TR),Tiger Airways,1504,03:30,,,,,320,,,"Direct",4206,3316,4936
+- -,CGK,SIN,Tiger Airways (TR),Tiger Airways,547,01:35,,,,,320,,,"Direct",3275,3316,4936
+- -,CNX,SIN,Tiger Airways (TR),Tiger Airways,1250,03:00,,,,,320,,,"Direct",3931,3316,4936
+- -,COK,SIN,Tiger Airways (TR),Tiger Airways,1988,04:28,,,,,319,,,"Direct",3136,3316,4936
+- -,CRK,SIN,Tiger Airways (TR),Tiger Airways,1479,03:27,,,,,320,,,"Direct",4140,3316,4936
+- -,DAC,SIN,Tiger Airways (TR),Tiger Airways,1799,04:05,,,,,320,,,"Direct",3076,3316,4936
+- -,DPS,SIN,Tiger Airways (TR),Tiger Airways,1038,02:34,,,,,320,,,"Direct",3940,3316,4936
+- -,HAK,SIN,Tiger Airways (TR),Tiger Airways,1355,03:12,,,,,320,,,"Direct",4120,3316,4936
+- -,HAN,SIN,Tiger Airways (TR),Tiger Airways,1377,03:15,,,,,320,,,"Direct",3199,3316,4936
+- -,HDY,SIN,Tiger Airways (TR),Tiger Airways,458,01:24,,,,,320,,,"Direct",3181,3316,4936
+- -,HKG,SIN,Tiger Airways (TR),Tiger Airways,1593,03:41,,,,,320,,,"Direct",3077,3316,4936
+- -,HKT,SIN,Tiger Airways (TR),Tiger Airways,608,01:42,,,,,320,,,"Direct",3179,3316,4936
+- -,JOG,SIN,Tiger Airways (TR),Tiger Airways,771,02:02,,,,,320,,,"Direct",3898,3316,4936
+- -,KBV,SIN,Tiger Airways (TR),Tiger Airways,579,01:39,,,,,320,,,"Direct",3174,3316,4936
+- -,KLO,SIN,Tiger Airways (TR),Tiger Airways,1447,03:23,,,,,320,,,"Direct",2430,3316,4936
+- -,KUL,SIN,Tiger Airways (TR),Tiger Airways,184,00:52,,,,,320,,,"Direct",3304,3316,4936
+- -,LGK,SIN,Tiger Airways (TR),Tiger Airways,452,01:24,,,,,320,,,"Direct",3305,3316,4936
+- -,LJG,SIN,Tiger Airways (TR),Tiger Airways,1766,04:01,,,,,320,,,"Direct",4033,3316,4936
+- -,MAA,SIN,Tiger Airways (TR),Tiger Airways,1816,04:07,,,,,320,,,"Direct",3144,3316,4936
+- -,MFM,SIN,Tiger Airways (TR),Tiger Airways,1574,03:38,,,,,320,,,"Direct",3121,3316,4936
+- -,MLE,SIN,Tiger Airways (TR),Tiger Airways,2110,04:43,,,,,320,,,"Direct",3156,3316,4936
+- -,MNL,SIN,Tiger Airways (TR),Tiger Airways,1474,03:26,,,,,320,,,"Direct",2397,3316,4936
+- -,NGB,SIN,Tiger Airways (TR),Tiger Airways,2276,05:03,,,,,320,,,"Direct",3387,3316,4936
+- -,PEN,SIN,Tiger Airways (TR),Tiger Airways,374,01:14,,,,,320,,,"Direct",3308,3316,4936
+- -,PER,SIN,Tiger Airways (TR),Tiger Airways,2428,05:21,,,,,320,,,"Direct",3351,3316,4936
+- -,PNH,SIN,Tiger Airways (TR),Tiger Airways,706,01:54,,,,,320,,,"Direct",3034,3316,4936
+- -,RGN,SIN,Tiger Airways (TR),Tiger Airways,1199,02:53,,,,,320,,,"Direct",3239,3316,4936
+- -,SGN,SIN,Tiger Airways (TR),Tiger Airways,678,01:51,,,,,320,,,"Direct",3205,3316,4936
+- -,SIN,BDO,Tiger Airways (TR),Tiger Airways,620,01:44,,,,,320,,,"Direct",3316,3896,4936
+- -,SIN,BKK,Tiger Airways (TR),Tiger Airways,879,02:15,,,,,320,,,"Direct",3316,3885,4936
+- -,SIN,BLR,Tiger Airways (TR),Tiger Airways,1974,04:26,,,,,320,,,"Direct",3316,3131,4936
+- -,SIN,CAN,Tiger Airways (TR),Tiger Airways,1644,03:47,,,,,320,,,"Direct",3316,3370,4936
+- -,SIN,CEB,Tiger Airways (TR),Tiger Airways,1504,03:30,,,,,320,,,"Direct",3316,4206,4936
+- -,SIN,CGK,Tiger Airways (TR),Tiger Airways,547,01:35,,,,,320,,,"Direct",3316,3275,4936
+- -,SIN,CNX,Tiger Airways (TR),Tiger Airways,1250,03:00,,,,,320,,,"Direct",3316,3931,4936
+- -,SIN,COK,Tiger Airways (TR),Tiger Airways,1988,04:28,,,,,319,,,"Direct",3316,3136,4936
+- -,SIN,CRK,Tiger Airways (TR),Tiger Airways,1479,03:27,,,,,320,,,"Direct",3316,4140,4936
+- -,SIN,DAC,Tiger Airways (TR),Tiger Airways,1799,04:05,,,,,320,,,"Direct",3316,3076,4936
+- -,SIN,DPS,Tiger Airways (TR),Tiger Airways,1038,02:34,,,,,320,,,"Direct",3316,3940,4936
+- -,SIN,HAK,Tiger Airways (TR),Tiger Airways,1355,03:12,,,,,320,,,"Direct",3316,4120,4936
+- -,SIN,HAN,Tiger Airways (TR),Tiger Airways,1377,03:15,,,,,320,,,"Direct",3316,3199,4936
+- -,SIN,HDY,Tiger Airways (TR),Tiger Airways,458,01:24,,,,,320,,,"Direct",3316,3181,4936
+- -,SIN,HKG,Tiger Airways (TR),Tiger Airways,1593,03:41,,,,,320,,,"Direct",3316,3077,4936
+- -,SIN,HKT,Tiger Airways (TR),Tiger Airways,608,01:42,,,,,320,,,"Direct",3316,3179,4936
+- -,SIN,JOG,Tiger Airways (TR),Tiger Airways,771,02:02,,,,,320,,,"Direct",3316,3898,4936
+- -,SIN,KBV,Tiger Airways (TR),Tiger Airways,579,01:39,,,,,320,,,"Direct",3316,3174,4936
+- -,SIN,KLO,Tiger Airways (TR),Tiger Airways,1447,03:23,,,,,320,,,"Direct",3316,2430,4936
+- -,SIN,KUL,Tiger Airways (TR),Tiger Airways,184,00:52,,,,,320,,,"Direct",3316,3304,4936
+- -,SIN,LGK,Tiger Airways (TR),Tiger Airways,452,01:24,,,,,320,,,"Direct",3316,3305,4936
+- -,SIN,LJG,Tiger Airways (TR),Tiger Airways,1766,04:01,,,,,320,,,"Direct",3316,4033,4936
+- -,SIN,MAA,Tiger Airways (TR),Tiger Airways,1816,04:07,,,,,320,,,"Direct",3316,3144,4936
+- -,SIN,MFM,Tiger Airways (TR),Tiger Airways,1574,03:38,,,,,320,,,"Direct",3316,3121,4936
+- -,SIN,MLE,Tiger Airways (TR),Tiger Airways,2110,04:43,,,,,320,,,"Direct",3316,3156,4936
+- -,SIN,MNL,Tiger Airways (TR),Tiger Airways,1474,03:26,,,,,320,,,"Direct",3316,2397,4936
+- -,SIN,NGB,Tiger Airways (TR),Tiger Airways,2276,05:03,,,,,320,,,"Direct",3316,3387,4936
+- -,SIN,PEN,Tiger Airways (TR),Tiger Airways,374,01:14,,,,,320,,,"Direct",3316,3308,4936
+- -,SIN,PER,Tiger Airways (TR),Tiger Airways,2428,05:21,,,,,320,,,"Direct",3316,3351,4936
+- -,SIN,PNH,Tiger Airways (TR),Tiger Airways,706,01:54,,,,,320,,,"Direct",3316,3034,4936
+- -,SIN,RGN,Tiger Airways (TR),Tiger Airways,1199,02:53,,,,,320,,,"Direct",3316,3239,4936
+- -,SIN,SGN,Tiger Airways (TR),Tiger Airways,678,01:51,,,,,320,,,"Direct",3316,3205,4936
+- -,SIN,SUB,Tiger Airways (TR),Tiger Airways,854,02:12,,,,,320,,,"Direct",3316,3928,4936
+- -,SIN,SZX,Tiger Airways (TR),Tiger Airways,1610,03:43,,,,,320,,,"Direct",3316,3374,4936
+- -,SIN,TPE,Tiger Airways (TR),Tiger Airways,2001,04:30,,,,,320,,,"Direct",3316,2276,4936
+- -,SIN,TRV,Tiger Airways (TR),Tiger Airways,1925,04:21,,,,,320,,,"Direct",3316,3153,4936
+- -,SIN,TRZ,Tiger Airways (TR),Tiger Airways,1851,04:12,,,,,320,,,"Direct",3316,3152,4936
+- -,SUB,SIN,Tiger Airways (TR),Tiger Airways,854,02:12,,,,,320,,,"Direct",3928,3316,4936
+- -,SZX,SIN,Tiger Airways (TR),Tiger Airways,1610,03:43,,,,,320,,,"Direct",3374,3316,4936
+- -,TPE,SIN,Tiger Airways (TR),Tiger Airways,2001,04:30,,,,,320,,,"Direct",2276,3316,4936
+- -,TRV,SIN,Tiger Airways (TR),Tiger Airways,1925,04:21,,,,,320,,,"Direct",3153,3316,4936
+- -,TRZ,SIN,Tiger Airways (TR),Tiger Airways,1851,04:12,,,,,320,,,"Direct",3152,3316,4936

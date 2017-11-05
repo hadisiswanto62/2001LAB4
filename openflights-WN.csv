@@ -1,0 +1,1147 @@
+﻿Date,From,To,Flight_Number,Airline,Distance,Duration,Seat,Seat_Type,Class,Reason,Plane,Registration,Trip,Note,From_OID,To_OID,Airline_OID,Plane_OID
+- -,ABQ,BWI,Southwest Airlines (WN),Southwest Airlines,1665,03:49,,,,,73W,,,"Direct",4019,3849,4547
+- -,ABQ,DAL,Southwest Airlines (WN),Southwest Airlines,578,01:39,,,,,73W 73C 733 735,,,"Direct",4019,3502,4547
+- -,ABQ,DEN,Southwest Airlines (WN),Southwest Airlines,349,01:11,,,,,73W 73C,,,"Direct",4019,3751,4547
+- -,ABQ,HOU,Southwest Airlines (WN),Southwest Airlines,758,02:00,,,,,73W 735 73C,,,"Direct",4019,3566,4547
+- -,ABQ,LAS,Southwest Airlines (WN),Southwest Airlines,485,01:28,,,,,73C 73W 733,,,"Direct",4019,3877,4547
+- -,ABQ,LAX,Southwest Airlines (WN),Southwest Airlines,675,01:51,,,,,73C 73W,,,"Direct",4019,3484,4547
+- -,ABQ,MCI,Southwest Airlines (WN),Southwest Airlines,716,01:55,,,,,73W 73C,,,"Direct",4019,3458,4547
+- -,ABQ,MDW,Southwest Airlines (WN),Southwest Airlines,1118,02:44,,,,,73W,,,"Direct",4019,3747,4547
+- -,ABQ,OAK,Southwest Airlines (WN),Southwest Airlines,886,02:16,,,,,73W 733 73C,,,"Direct",4019,3453,4547
+- -,ABQ,PDX,Southwest Airlines (WN),Southwest Airlines,1109,02:43,,,,,73W,,,"Direct",4019,3720,4547
+- -,ABQ,PHX,Southwest Airlines (WN),Southwest Airlines,327,01:09,,,,,73W 733 73C,,,"Direct",4019,3462,4547
+- -,ABQ,SAN,Southwest Airlines (WN),Southwest Airlines,626,01:45,,,,,73C 733 73W,,,"Direct",4019,3731,4547
+- -,ABQ,SEA,Southwest Airlines (WN),Southwest Airlines,1178,02:51,,,,,73W,,,"Direct",4019,3577,4547
+- -,ALB,BWI,Southwest Airlines (WN),Southwest Airlines,288,01:04,,,,,73W,,,"Direct",3864,3849,4547
+- -,ALB,FLL,Southwest Airlines (WN),Southwest Airlines,1206,02:54,,,,,73W,,,"Direct",3864,3533,4547
+- -,ALB,LAS,Southwest Airlines (WN),Southwest Airlines,2230,04:57,,,,,73W,,,"Direct",3864,3877,4547
+- -,ALB,MCO,Southwest Airlines (WN),Southwest Airlines,1073,02:38,,,,,73W,,,"Direct",3864,3878,4547
+- -,ALB,MDW,Southwest Airlines (WN),Southwest Airlines,715,01:55,,,,,73W 73H,,,"Direct",3864,3747,4547
+- -,ALB,TPA,Southwest Airlines (WN),Southwest Airlines,1130,02:45,,,,,73W,,,"Direct",3864,3646,4547
+- -,AMA,DAL,Southwest Airlines (WN),Southwest Airlines,322,01:08,,,,,735 733 73W 73C,,,"Direct",3840,3502,4547
+- -,AMA,DEN,Southwest Airlines (WN),Southwest Airlines,359,01:13,,,,,735 73W,,,"Direct",3840,3751,4547
+- -,AMA,LAS,Southwest Airlines (WN),Southwest Airlines,756,02:00,,,,,735 733,,,"Direct",3840,3877,4547
+- -,ATL,AUA,Southwest Airlines (WN),Southwest Airlines,1718,03:56,,,,,73G,,,"Codeshare",3682,2895,4547
+- -,ATL,AUS,Southwest Airlines (WN),Southwest Airlines,811,02:07,,,,,733 73W,,,"Direct",3682,3673,4547
+- -,ATL,BDL,Southwest Airlines (WN),Southwest Airlines,858,02:12,,,,,717,,,"Codeshare",3682,3825,4547
+- -,ATL,BOS,Southwest Airlines (WN),Southwest Airlines,944,02:23,,,,,73W,,,"Direct",3682,3448,4547
+- -,ATL,BWI,Southwest Airlines (WN),Southwest Airlines,576,01:39,,,,,73W 73C,,,"Direct",3682,3849,4547
+- -,ATL,CAK,Southwest Airlines (WN),Southwest Airlines,528,01:33,,,,,73W 73C,,,"Direct",3682,4112,4547
+- -,ATL,CHS,Southwest Airlines (WN),Southwest Airlines,258,01:00,,,,,,,,"Direct",3682,3806,4547
+- -,ATL,CMH,Southwest Airlines (WN),Southwest Airlines,447,01:23,,,,,717,,,"Codeshare",3682,3759,4547
+- -,ATL,CUN,Southwest Airlines (WN),Southwest Airlines,882,02:15,,,,,73G,,,"Codeshare",3682,1852,4547
+- -,ATL,DAY,Southwest Airlines (WN),Southwest Airlines,432,01:21,,,,,717,,,"Codeshare",3682,3627,4547
+- -,ATL,DCA,Southwest Airlines (WN),Southwest Airlines,546,01:35,,,,,73W,,,"Direct",3682,3520,4547
+- -,ATL,DEN,Southwest Airlines (WN),Southwest Airlines,1196,02:53,,,,,73W,,,"Direct",3682,3751,4547
+- -,ATL,DTW,Southwest Airlines (WN),Southwest Airlines,595,01:41,,,,,717 73G,,,"Codeshare",3682,3645,4547
+- -,ATL,FLL,Southwest Airlines (WN),Southwest Airlines,581,01:39,,,,, 73W 733 73C,,,"Direct",3682,3533,4547
+- -,ATL,HOU,Southwest Airlines (WN),Southwest Airlines,694,01:53,,,,,73C 73W 733,,,"Direct",3682,3566,4547
+- -,ATL,IND,Southwest Airlines (WN),Southwest Airlines,432,01:21,,,,,717,,,"Codeshare",3682,3585,4547
+- -,ATL,JAX,Southwest Airlines (WN),Southwest Airlines,269,01:02,,,,,73C,,,"Direct",3682,3712,4547
+- -,ATL,LAS,Southwest Airlines (WN),Southwest Airlines,1741,03:58,,,,,73W,,,"Direct",3682,3877,4547
+- -,ATL,LAX,Southwest Airlines (WN),Southwest Airlines,1941,04:22,,,,,73W,,,"Direct",3682,3484,4547
+- -,ATL,LGA,Southwest Airlines (WN),Southwest Airlines,760,02:01,,,,,73W ,,,"Direct",3682,3697,4547
+- -,ATL,MBJ,Southwest Airlines (WN),Southwest Airlines,1119,02:44,,,,,73G,,,"Codeshare",3682,1780,4547
+- -,ATL,MCI,Southwest Airlines (WN),Southwest Airlines,691,01:52,,,,,733 73W,,,"Direct",3682,3458,4547
+- -,ATL,MCO,Southwest Airlines (WN),Southwest Airlines,404,01:18,,,,,73W 733 73C,,,"Direct",3682,3878,4547
+- -,ATL,MDW,Southwest Airlines (WN),Southwest Airlines,591,01:40,,,,,73W,,,"Direct",3682,3747,4547
+- -,ATL,MKE,Southwest Airlines (WN),Southwest Airlines,669,01:50,,,,,717 73G,,,"Codeshare",3682,3717,4547
+- -,ATL,MSP,Southwest Airlines (WN),Southwest Airlines,906,02:18,,,,,717,,,"Codeshare",3682,3858,4547
+- -,ATL,MSY,Southwest Airlines (WN),Southwest Airlines,424,01:20,,,,,73W,,,"Direct",3682,3861,4547
+- -,ATL,NAS,Southwest Airlines (WN),Southwest Airlines,726,01:57,,,,,73G,,,"Codeshare",3682,1953,4547
+- -,ATL,OKC,Southwest Airlines (WN),Southwest Airlines,758,02:00,,,,,717,,,"Codeshare",3682,3863,4547
+- -,ATL,ORF,Southwest Airlines (WN),Southwest Airlines,515,01:31,,,,,717,,,"Codeshare",3682,3611,4547
+- -,ATL,PBI,Southwest Airlines (WN),Southwest Airlines,545,01:35,,,,,733 73W,,,"Direct",3682,3722,4547
+- -,ATL,PHL,Southwest Airlines (WN),Southwest Airlines,665,01:49,,,,,733 73W,,,"Direct",3682,3752,4547
+- -,ATL,PHX,Southwest Airlines (WN),Southwest Airlines,1583,03:39,,,,,73W,,,"Direct",3682,3462,4547
+- -,ATL,PIT,Southwest Airlines (WN),Southwest Airlines,526,01:33,,,,,717 73G,,,"Codeshare",3682,3570,4547
+- -,ATL,PUJ,Southwest Airlines (WN),Southwest Airlines,1436,03:22,,,,,73G,,,"Codeshare",3682,1760,4547
+- -,ATL,RDU,Southwest Airlines (WN),Southwest Airlines,355,01:12,,,,,717,,,"Codeshare",3682,3626,4547
+- -,ATL,RIC,Southwest Airlines (WN),Southwest Airlines,480,01:27,,,,,717,,,"Codeshare",3682,3608,4547
+- -,ATL,RSW,Southwest Airlines (WN),Southwest Airlines,515,01:31,,,,,73C,,,"Direct",3682,3793,4547
+- -,ATL,SAN,Southwest Airlines (WN),Southwest Airlines,1886,04:16,,,,,73W,,,"Direct",3682,3731,4547
+- -,ATL,SAT,Southwest Airlines (WN),Southwest Airlines,872,02:14,,,,,73W,,,"Direct",3682,3621,4547
+- -,ATL,SDF,Southwest Airlines (WN),Southwest Airlines,321,01:08,,,,,73W,,,"Direct",3682,4014,4547
+- -,ATL,SFO,Southwest Airlines (WN),Southwest Airlines,2133,04:45,,,,,73W,,,"Direct",3682,3469,4547
+- -,ATL,SJU,Southwest Airlines (WN),Southwest Airlines,1546,03:35,,,,,73W,,,"Direct",3682,2890,4547
+- -,ATL,STL,Southwest Airlines (WN),Southwest Airlines,483,01:27,,,,,73W 733,,,"Direct",3682,3678,4547
+- -,ATL,TPA,Southwest Airlines (WN),Southwest Airlines,406,01:18,,,,,73W  733 73C,,,"Direct",3682,3646,4547
+- -,AUA,ATL,Southwest Airlines (WN),Southwest Airlines,1718,03:56,,,,,73G,,,"Codeshare",2895,3682,4547
+- -,AUS,ATL,Southwest Airlines (WN),Southwest Airlines,811,02:07,,,,,73W,,,"Direct",3673,3682,4547
+- -,AUS,BNA,Southwest Airlines (WN),Southwest Airlines,755,02:00,,,,,73W,,,"Direct",3673,3690,4547
+- -,AUS,BWI,Southwest Airlines (WN),Southwest Airlines,1339,03:10,,,,,73W,,,"Direct",3673,3849,4547
+- -,AUS,DAL,Southwest Airlines (WN),Southwest Airlines,189,00:52,,,,,735 73W 733 73C,,,"Direct",3673,3502,4547
+- -,AUS,DCA,Southwest Airlines (WN),Southwest Airlines,1313,03:07,,,,,73W,,,"Direct",3673,3520,4547
+- -,AUS,DEN,Southwest Airlines (WN),Southwest Airlines,775,02:03,,,,,73W 733 73C,,,"Direct",3673,3751,4547
+- -,AUS,ELP,Southwest Airlines (WN),Southwest Airlines,527,01:33,,,,,73W 735,,,"Direct",3673,3559,4547
+- -,AUS,EWR,Southwest Airlines (WN),Southwest Airlines,1500,03:30,,,,,73W,,,"Direct",3673,3494,4547
+- -,AUS,FLL,Southwest Airlines (WN),Southwest Airlines,1102,02:42,,,,,73W,,,"Direct",3673,3533,4547
+- -,AUS,HOU,Southwest Airlines (WN),Southwest Airlines,148,00:47,,,,,73W 735 73C,,,"Direct",3673,3566,4547
+- -,AUS,HRL,Southwest Airlines (WN),Southwest Airlines,273,01:02,,,,,735 73W,,,"Direct",3673,3560,4547
+- -,AUS,LAS,Southwest Airlines (WN),Southwest Airlines,1087,02:40,,,,,733 73H 73W 73C,,,"Direct",3673,3877,4547
+- -,AUS,LAX,Southwest Airlines (WN),Southwest Airlines,1238,02:58,,,,,73C 73W,,,"Direct",3673,3484,4547
+- -,AUS,LBB,Southwest Airlines (WN),Southwest Airlines,341,01:10,,,,,73W 735,,,"Direct",3673,3829,4547
+- -,AUS,MCO,Southwest Airlines (WN),Southwest Airlines,991,02:28,,,,,733 73C 73W,,,"Direct",3673,3878,4547
+- -,AUS,MDW,Southwest Airlines (WN),Southwest Airlines,971,02:26,,,,,73W,,,"Direct",3673,3747,4547
+- -,AUS,MSY,Southwest Airlines (WN),Southwest Airlines,442,01:23,,,,,73W 735,,,"Direct",3673,3861,4547
+- -,AUS,OAK,Southwest Airlines (WN),Southwest Airlines,1493,03:29,,,,,73W,,,"Direct",3673,3453,4547
+- -,AUS,PHX,Southwest Airlines (WN),Southwest Airlines,869,02:14,,,,,73W 73C 733,,,"Direct",3673,3462,4547
+- -,AUS,SAN,Southwest Airlines (WN),Southwest Airlines,1161,02:49,,,,,73C 73W,,,"Direct",3673,3731,4547
+- -,AUS,SJC,Southwest Airlines (WN),Southwest Airlines,1472,03:26,,,,,73W 733 73C,,,"Direct",3673,3748,4547
+- -,AUS,TPA,Southwest Airlines (WN),Southwest Airlines,925,02:21,,,,,73W,,,"Direct",3673,3646,4547
+- -,BDL,ATL,Southwest Airlines (WN),Southwest Airlines,858,02:12,,,,,717,,,"Codeshare",3825,3682,4547
+- -,BDL,BWI,Southwest Airlines (WN),Southwest Airlines,283,01:03,,,,,738 73C 73W 733 73H,,,"Direct",3825,3849,4547
+- -,BDL,DEN,Southwest Airlines (WN),Southwest Airlines,1666,03:49,,,,,73W,,,"Direct",3825,3751,4547
+- -,BDL,FLL,Southwest Airlines (WN),Southwest Airlines,1174,02:50,,,,,73W,,,"Direct",3825,3533,4547
+- -,BDL,LAS,Southwest Airlines (WN),Southwest Airlines,2290,05:04,,,,,73W,,,"Direct",3825,3877,4547
+- -,BDL,MCO,Southwest Airlines (WN),Southwest Airlines,1050,02:36,,,,,73W 738 73C,,,"Direct",3825,3878,4547
+- -,BDL,MDW,Southwest Airlines (WN),Southwest Airlines,774,02:02,,,,,73W,,,"Direct",3825,3747,4547
+- -,BDL,RSW,Southwest Airlines (WN),Southwest Airlines,1181,02:51,,,,,73W,,,"Direct",3825,3793,4547
+- -,BDL,TPA,Southwest Airlines (WN),Southwest Airlines,1111,02:43,,,,,73C 73W,,,"Direct",3825,3646,4547
+- -,BHM,BWI,Southwest Airlines (WN),Southwest Airlines,680,01:51,,,,,73W,,,"Direct",3811,3849,4547
+- -,BHM,DAL,Southwest Airlines (WN),Southwest Airlines,585,01:40,,,,,73W 73C,,,"Direct",3811,3502,4547
+- -,BHM,HOU,Southwest Airlines (WN),Southwest Airlines,569,01:38,,,,,73W,,,"Direct",3811,3566,4547
+- -,BHM,LAS,Southwest Airlines (WN),Southwest Airlines,1613,03:43,,,,,73W,,,"Direct",3811,3877,4547
+- -,BHM,MCO,Southwest Airlines (WN),Southwest Airlines,478,01:27,,,,,73W,,,"Direct",3811,3878,4547
+- -,BHM,MDW,Southwest Airlines (WN),Southwest Airlines,570,01:38,,,,,73W,,,"Direct",3811,3747,4547
+- -,BHM,TPA,Southwest Airlines (WN),Southwest Airlines,459,01:25,,,,,73W 73C,,,"Direct",3811,3646,4547
+- -,BKG,DAL,Southwest Airlines (WN),Southwest Airlines,328,01:09,,,,,73W,,,"Direct",6962,3502,4547
+- -,BKG,HOU,Southwest Airlines (WN),Southwest Airlines,490,01:28,,,,,73W 733,,,"Direct",6962,3566,4547
+- -,BKG,MDW,Southwest Airlines (WN),Southwest Airlines,465,01:25,,,,,73W,,,"Direct",6962,3747,4547
+- -,BNA,AUS,Southwest Airlines (WN),Southwest Airlines,755,02:00,,,,,733 73W 735,,,"Direct",3690,3673,4547
+- -,BNA,BOS,Southwest Airlines (WN),Southwest Airlines,940,02:22,,,,,73W 73C 733,,,"Direct",3690,3448,4547
+- -,BNA,BWI,Southwest Airlines (WN),Southwest Airlines,586,01:40,,,,,738 73W 73C 733,,,"Direct",3690,3849,4547
+- -,BNA,CHS,Southwest Airlines (WN),Southwest Airlines,438,01:22,,,,,73W,,,"Direct",3690,3806,4547
+- -,BNA,CLE,Southwest Airlines (WN),Southwest Airlines,448,01:23,,,,,73W,,,"Direct",3690,3486,4547
+- -,BNA,CMH,Southwest Airlines (WN),Southwest Airlines,337,01:10,,,,,73W 73C,,,"Direct",3690,3759,4547
+- -,BNA,DEN,Southwest Airlines (WN),Southwest Airlines,1010,02:31,,,,,73W,,,"Direct",3690,3751,4547
+- -,BNA,DTW,Southwest Airlines (WN),Southwest Airlines,456,01:24,,,,,73C 73W 73H,,,"Direct",3690,3645,4547
+- -,BNA,ECP,Southwest Airlines (WN),Southwest Airlines,401,01:18,,,,,73W,,,"Direct",3690,7669,4547
+- -,BNA,EWR,Southwest Airlines (WN),Southwest Airlines,745,01:59,,,,,73W,,,"Direct",3690,3494,4547
+- -,BNA,FLL,Southwest Airlines (WN),Southwest Airlines,793,02:05,,,,,73C 73W 73H,,,"Direct",3690,3533,4547
+- -,BNA,GSP,Southwest Airlines (WN),Southwest Airlines,264,01:01,,,,,73C,,,"Direct",3690,4034,4547
+- -,BNA,HOU,Southwest Airlines (WN),Southwest Airlines,669,01:50,,,,,735 73C 73W,,,"Direct",3690,3566,4547
+- -,BNA,JAX,Southwest Airlines (WN),Southwest Airlines,483,01:27,,,,,73W 73C 733,,,"Direct",3690,3712,4547
+- -,BNA,LAS,Southwest Airlines (WN),Southwest Airlines,1582,03:39,,,,,73W 73H,,,"Direct",3690,3877,4547
+- -,BNA,LAX,Southwest Airlines (WN),Southwest Airlines,1792,04:05,,,,,73W 73H,,,"Direct",3690,3484,4547
+- -,BNA,LGA,Southwest Airlines (WN),Southwest Airlines,762,02:01,,,,,73W,,,"Direct",3690,3697,4547
+- -,BNA,MCI,Southwest Airlines (WN),Southwest Airlines,490,01:28,,,,,73W 73C 733,,,"Direct",3690,3458,4547
+- -,BNA,MCO,Southwest Airlines (WN),Southwest Airlines,616,01:43,,,,,73W 73C 733,,,"Direct",3690,3878,4547
+- -,BNA,MDW,Southwest Airlines (WN),Southwest Airlines,395,01:17,,,,,73W 738 73H,,,"Direct",3690,3747,4547
+- -,BNA,MSY,Southwest Airlines (WN),Southwest Airlines,471,01:26,,,,,73W 73C 733,,,"Direct",3690,3861,4547
+- -,BNA,PHL,Southwest Airlines (WN),Southwest Airlines,673,01:50,,,,,73W 73C 733,,,"Direct",3690,3752,4547
+- -,BNA,PHX,Southwest Airlines (WN),Southwest Airlines,1444,03:23,,,,,73W,,,"Direct",3690,3462,4547
+- -,BNA,PIT,Southwest Airlines (WN),Southwest Airlines,461,01:25,,,,,73C 733,,,"Direct",3690,3570,4547
+- -,BNA,PNS,Southwest Airlines (WN),Southwest Airlines,391,01:16,,,,,73W,,,"Direct",3690,3564,4547
+- -,BNA,RDU,Southwest Airlines (WN),Southwest Airlines,441,01:22,,,,,733 73W 73C,,,"Direct",3690,3626,4547
+- -,BNA,SAN,Southwest Airlines (WN),Southwest Airlines,1746,03:59,,,,,73W,,,"Direct",3690,3731,4547
+- -,BNA,SAT,Southwest Airlines (WN),Southwest Airlines,820,02:08,,,,,73W,,,"Direct",3690,3621,4547
+- -,BNA,STL,Southwest Airlines (WN),Southwest Airlines,271,01:02,,,,,73W 73C,,,"Direct",3690,3678,4547
+- -,BNA,TPA,Southwest Airlines (WN),Southwest Airlines,612,01:43,,,,,73W 73C,,,"Direct",3690,3646,4547
+- -,BOI,DEN,Southwest Airlines (WN),Southwest Airlines,647,01:47,,,,,73W,,,"Direct",3495,3751,4547
+- -,BOI,GEG,Southwest Airlines (WN),Southwest Airlines,287,01:04,,,,,73W,,,"Direct",3495,3467,4547
+- -,BOI,LAS,Southwest Airlines (WN),Southwest Airlines,519,01:32,,,,,73W 73C,,,"Direct",3495,3877,4547
+- -,BOI,OAK,Southwest Airlines (WN),Southwest Airlines,511,01:31,,,,,73W 73C,,,"Direct",3495,3453,4547
+- -,BOI,PHX,Southwest Airlines (WN),Southwest Airlines,735,01:58,,,,,73W,,,"Direct",3495,3462,4547
+- -,BOS,ATL,Southwest Airlines (WN),Southwest Airlines,944,02:23,,,,,73W,,,"Direct",3448,3682,4547
+- -,BOS,BNA,Southwest Airlines (WN),Southwest Airlines,940,02:22,,,,,73W 73C,,,"Direct",3448,3690,4547
+- -,BOS,BWI,Southwest Airlines (WN),Southwest Airlines,368,01:14,,,,,73W 73C 733,,,"Direct",3448,3849,4547
+- -,BOS,CAK,Southwest Airlines (WN),Southwest Airlines,547,01:35,,,,,717,,,"Codeshare",3448,4112,4547
+- -,BOS,DEN,Southwest Airlines (WN),Southwest Airlines,1748,03:59,,,,,73W,,,"Direct",3448,3751,4547
+- -,BOS,HOU,Southwest Airlines (WN),Southwest Airlines,1606,03:42,,,,,73W,,,"Direct",3448,3566,4547
+- -,BOS,MCI,Southwest Airlines (WN),Southwest Airlines,1252,03:00,,,,,73W,,,"Direct",3448,3458,4547
+- -,BOS,MCO,Southwest Airlines (WN),Southwest Airlines,1121,02:44,,,,,73W,,,"1 stops",3448,3878,4547
+- -,BOS,MDW,Southwest Airlines (WN),Southwest Airlines,857,02:12,,,,,73W 733,,,"Direct",3448,3747,4547
+- -,BOS,MKE,Southwest Airlines (WN),Southwest Airlines,857,02:12,,,,,73W,,,"Direct",3448,3717,4547
+- -,BOS,STL,Southwest Airlines (WN),Southwest Airlines,1043,02:35,,,,,73W,,,"Direct",3448,3678,4547
+- -,BUF,BWI,Southwest Airlines (WN),Southwest Airlines,281,01:03,,,,,73W 733 73C,,,"Direct",3820,3849,4547
+- -,BUF,FLL,Southwest Airlines (WN),Southwest Airlines,1167,02:50,,,,,73W,,,"Direct",3820,3533,4547
+- -,BUF,LAS,Southwest Airlines (WN),Southwest Airlines,1980,04:27,,,,,73H 738,,,"Direct",3820,3877,4547
+- -,BUF,MCO,Southwest Airlines (WN),Southwest Airlines,1012,02:31,,,,,73C 73W,,,"Direct",3820,3878,4547
+- -,BUF,MDW,Southwest Airlines (WN),Southwest Airlines,466,01:25,,,,,738 73W 73H,,,"Direct",3820,3747,4547
+- -,BUF,PHX,Southwest Airlines (WN),Southwest Airlines,1906,04:18,,,,,73W,,,"Direct",3820,3462,4547
+- -,BUF,TPA,Southwest Airlines (WN),Southwest Airlines,1054,02:36,,,,,73W,,,"Direct",3820,3646,4547
+- -,BUR,DEN,Southwest Airlines (WN),Southwest Airlines,848,02:11,,,,,73W,,,"Direct",3644,3751,4547
+- -,BUR,LAS,Southwest Airlines (WN),Southwest Airlines,222,00:56,,,,,73W,,,"Direct",3644,3877,4547
+- -,BUR,OAK,Southwest Airlines (WN),Southwest Airlines,325,01:09,,,,,73W 73H,,,"Direct",3644,3453,4547
+- -,BUR,PHX,Southwest Airlines (WN),Southwest Airlines,367,01:14,,,,,73W,,,"Direct",3644,3462,4547
+- -,BUR,SJC,Southwest Airlines (WN),Southwest Airlines,296,01:05,,,,,73W,,,"Direct",3644,3748,4547
+- -,BUR,SMF,Southwest Airlines (WN),Southwest Airlines,358,01:12,,,,,73W,,,"Direct",3644,3817,4547
+- -,BWI,ABQ,Southwest Airlines (WN),Southwest Airlines,1665,03:49,,,,,73W,,,"Direct",3849,4019,4547
+- -,BWI,ALB,Southwest Airlines (WN),Southwest Airlines,288,01:04,,,,,73W,,,"Direct",3849,3864,4547
+- -,BWI,ATL,Southwest Airlines (WN),Southwest Airlines,576,01:39,,,,,73W 733 73C,,,"Direct",3849,3682,4547
+- -,BWI,AUS,Southwest Airlines (WN),Southwest Airlines,1339,03:10,,,,,73W 73C,,,"Direct",3849,3673,4547
+- -,BWI,BDL,Southwest Airlines (WN),Southwest Airlines,283,01:03,,,,,73W 738 73C 733,,,"Direct",3849,3825,4547
+- -,BWI,BHM,Southwest Airlines (WN),Southwest Airlines,680,01:51,,,,,73C 73W,,,"Direct",3849,3811,4547
+- -,BWI,BNA,Southwest Airlines (WN),Southwest Airlines,586,01:40,,,,,733 73C 73W,,,"Direct",3849,3690,4547
+- -,BWI,BOS,Southwest Airlines (WN),Southwest Airlines,368,01:14,,,,,73W 73C 733,,,"Direct",3849,3448,4547
+- -,BWI,BUF,Southwest Airlines (WN),Southwest Airlines,281,01:03,,,,,73C 73W 738,,,"Direct",3849,3820,4547
+- -,BWI,CHS,Southwest Airlines (WN),Southwest Airlines,472,01:26,,,,,73W 73C,,,"Direct",3849,3806,4547
+- -,BWI,CLE,Southwest Airlines (WN),Southwest Airlines,313,01:07,,,,,73C 733 73W,,,"Direct",3849,3486,4547
+- -,BWI,CLT,Southwest Airlines (WN),Southwest Airlines,360,01:13,,,,,73W,,,"Direct",3849,3876,4547
+- -,BWI,CMH,Southwest Airlines (WN),Southwest Airlines,335,01:10,,,,,73W,,,"Direct",3849,3759,4547
+- -,BWI,DAY,Southwest Airlines (WN),Southwest Airlines,405,01:18,,,,,73W 73C,,,"Direct",3849,3627,4547
+- -,BWI,DEN,Southwest Airlines (WN),Southwest Airlines,1486,03:28,,,,,73W,,,"Direct",3849,3751,4547
+- -,BWI,DTW,Southwest Airlines (WN),Southwest Airlines,407,01:18,,,,,73W 73C,,,"Direct",3849,3645,4547
+- -,BWI,ECP,Southwest Airlines (WN),Southwest Airlines,798,02:05,,,,,73W 73C,,,"Direct",3849,7669,4547
+- -,BWI,FLL,Southwest Airlines (WN),Southwest Airlines,927,02:21,,,,,73W 73C 733,,,"Direct",3849,3533,4547
+- -,BWI,FNT,Southwest Airlines (WN),Southwest Airlines,451,01:24,,,,,73W,,,"Direct",3849,4089,4547
+- -,BWI,GRR,Southwest Airlines (WN),Southwest Airlines,527,01:33,,,,,73W 73C,,,"Direct",3849,3685,4547
+- -,BWI,GSP,Southwest Airlines (WN),Southwest Airlines,425,01:21,,,,,73C 73W,,,"Direct",3849,4034,4547
+- -,BWI,HOU,Southwest Airlines (WN),Southwest Airlines,1244,02:59,,,,,733 73H 73W 73C 738,,,"Direct",3849,3566,4547
+- -,BWI,IND,Southwest Airlines (WN),Southwest Airlines,514,01:31,,,,,73W 73C 733,,,"Direct",3849,3585,4547
+- -,BWI,ISP,Southwest Airlines (WN),Southwest Airlines,219,00:56,,,,,73W,,,"Direct",3849,3857,4547
+- -,BWI,JAX,Southwest Airlines (WN),Southwest Airlines,663,01:49,,,,,733 73W 73C,,,"Direct",3849,3712,4547
+- -,BWI,LAS,Southwest Airlines (WN),Southwest Airlines,2099,04:41,,,,,73H 73W 738,,,"Direct",3849,3877,4547
+- -,BWI,LAX,Southwest Airlines (WN),Southwest Airlines,2322,05:08,,,,,738 73H,,,"Direct",3849,3484,4547
+- -,BWI,LIT,Southwest Airlines (WN),Southwest Airlines,910,02:19,,,,,73C 73W,,,"Direct",3849,3660,4547
+- -,BWI,MCI,Southwest Airlines (WN),Southwest Airlines,963,02:25,,,,,73W 73C 733,,,"Direct",3849,3458,4547
+- -,BWI,MCO,Southwest Airlines (WN),Southwest Airlines,788,02:04,,,,,733 73W 73C 738 73H,,,"Direct",3849,3878,4547
+- -,BWI,MDW,Southwest Airlines (WN),Southwest Airlines,608,01:42,,,,,73W 73H,,,"Direct",3849,3747,4547
+- -,BWI,MEM,Southwest Airlines (WN),Southwest Airlines,785,02:04,,,,,73C 73W,,,"Direct",3849,3473,4547
+- -,BWI,MHT,Southwest Airlines (WN),Southwest Airlines,376,01:15,,,,,73W 733 73C 73H,,,"Direct",3849,4011,4547
+- -,BWI,MKE,Southwest Airlines (WN),Southwest Airlines,639,01:46,,,,,733 73W 73C,,,"Direct",3849,3717,4547
+- -,BWI,MSY,Southwest Airlines (WN),Southwest Airlines,997,02:29,,,,,73H 733 73W,,,"Direct",3849,3861,4547
+- -,BWI,OKC,Southwest Airlines (WN),Southwest Airlines,1176,02:51,,,,,733 73C,,,"Direct",3849,3863,4547
+- -,BWI,ORF,Southwest Airlines (WN),Southwest Airlines,159,00:49,,,,,73C 73W,,,"Direct",3849,3611,4547
+- -,BWI,PBI,Southwest Airlines (WN),Southwest Airlines,885,02:16,,,,,73W 733,,,"Direct",3849,3722,4547
+- -,BWI,PHX,Southwest Airlines (WN),Southwest Airlines,1993,04:29,,,,,73W 738,,,"Direct",3849,3462,4547
+- -,BWI,PIT,Southwest Airlines (WN),Southwest Airlines,209,00:55,,,,,73W 73C,,,"Direct",3849,3570,4547
+- -,BWI,PVD,Southwest Airlines (WN),Southwest Airlines,327,01:09,,,,,73W 73C 738 73H,,,"Direct",3849,3641,4547
+- -,BWI,PWM,Southwest Airlines (WN),Southwest Airlines,451,01:24,,,,,73W 73C,,,"Direct",3849,3862,4547
+- -,BWI,RDU,Southwest Airlines (WN),Southwest Airlines,255,01:00,,,,,73W 73C 733,,,"Direct",3849,3626,4547
+- -,BWI,ROC,Southwest Airlines (WN),Southwest Airlines,277,01:03,,,,,73W,,,"Direct",3849,3622,4547
+- -,BWI,RSW,Southwest Airlines (WN),Southwest Airlines,920,02:20,,,,,73W 73C 733,,,"Direct",3849,3793,4547
+- -,BWI,SAN,Southwest Airlines (WN),Southwest Airlines,2288,05:04,,,,,73H 73W 738,,,"Direct",3849,3731,4547
+- -,BWI,SAT,Southwest Airlines (WN),Southwest Airlines,1404,03:18,,,,,73W,,,"Direct",3849,3621,4547
+- -,BWI,SDF,Southwest Airlines (WN),Southwest Airlines,493,01:29,,,,,73W 73C,,,"Direct",3849,4014,4547
+- -,BWI,SEA,Southwest Airlines (WN),Southwest Airlines,2327,05:09,,,,,73W,,,"Direct",3849,3577,4547
+- -,BWI,SJU,Southwest Airlines (WN),Southwest Airlines,1567,03:38,,,,,738 73W,,,"Direct",3849,2890,4547
+- -,BWI,SLC,Southwest Airlines (WN),Southwest Airlines,1859,04:13,,,,,73W,,,"Direct",3849,3536,4547
+- -,BWI,STL,Southwest Airlines (WN),Southwest Airlines,735,01:58,,,,,73W 73H 733,,,"Direct",3849,3678,4547
+- -,BWI,TPA,Southwest Airlines (WN),Southwest Airlines,843,02:11,,,,,73C 73W 738 73H,,,"Direct",3849,3646,4547
+- -,CAK,ATL,Southwest Airlines (WN),Southwest Airlines,528,01:33,,,,,73W 73C,,,"Direct",4112,3682,4547
+- -,CAK,BOS,Southwest Airlines (WN),Southwest Airlines,547,01:35,,,,,717,,,"Codeshare",4112,3448,4547
+- -,CAK,DEN,Southwest Airlines (WN),Southwest Airlines,1220,02:56,,,,,73W,,,"Direct",4112,3751,4547
+- -,CAK,LGA,Southwest Airlines (WN),Southwest Airlines,395,01:17,,,,,73W,,,"Direct",4112,3697,4547
+- -,CAK,MCO,Southwest Airlines (WN),Southwest Airlines,862,02:13,,,,,717,,,"Codeshare",4112,3878,4547
+- -,CAK,TPA,Southwest Airlines (WN),Southwest Airlines,895,02:17,,,,,717,,,"Codeshare",4112,3646,4547
+- -,CHS,BNA,Southwest Airlines (WN),Southwest Airlines,438,01:22,,,,,73C 73W,,,"Direct",3806,3690,4547
+- -,CHS,BWI,Southwest Airlines (WN),Southwest Airlines,472,01:26,,,,,73W 73C,,,"Direct",3806,3849,4547
+- -,CHS,HOU,Southwest Airlines (WN),Southwest Airlines,926,02:21,,,,,73W,,,"Direct",3806,3566,4547
+- -,CHS,MDW,Southwest Airlines (WN),Southwest Airlines,744,01:59,,,,,73W,,,"Direct",3806,3747,4547
+- -,CLE,BNA,Southwest Airlines (WN),Southwest Airlines,448,01:23,,,,,73W 73C,,,"Direct",3486,3690,4547
+- -,CLE,BWI,Southwest Airlines (WN),Southwest Airlines,313,01:07,,,,,73C 733 73W,,,"Direct",3486,3849,4547
+- -,CLE,LAS,Southwest Airlines (WN),Southwest Airlines,1819,04:08,,,,,73W,,,"Direct",3486,3877,4547
+- -,CLE,MDW,Southwest Airlines (WN),Southwest Airlines,305,01:06,,,,,73W,,,"Direct",3486,3747,4547
+- -,CLT,BWI,Southwest Airlines (WN),Southwest Airlines,360,01:13,,,,,73W,,,"Direct",3876,3849,4547
+- -,CLT,HOU,Southwest Airlines (WN),Southwest Airlines,918,02:20,,,,,733 73W,,,"Direct",3876,3566,4547
+- -,CLT,MCO,Southwest Airlines (WN),Southwest Airlines,468,01:26,,,,,73W 733,,,"Direct",3876,3878,4547
+- -,CLT,MDW,Southwest Airlines (WN),Southwest Airlines,583,01:39,,,,,73W,,,"Direct",3876,3747,4547
+- -,CMH,ATL,Southwest Airlines (WN),Southwest Airlines,447,01:23,,,,,717,,,"Codeshare",3759,3682,4547
+- -,CMH,BNA,Southwest Airlines (WN),Southwest Airlines,337,01:10,,,,,73W 73C,,,"Direct",3759,3690,4547
+- -,CMH,BWI,Southwest Airlines (WN),Southwest Airlines,335,01:10,,,,,73W 73C 733,,,"Direct",3759,3849,4547
+- -,CMH,DEN,Southwest Airlines (WN),Southwest Airlines,1150,02:48,,,,,73W,,,"Direct",3759,3751,4547
+- -,CMH,FLL,Southwest Airlines (WN),Southwest Airlines,974,02:26,,,,,73W,,,"Direct",3759,3533,4547
+- -,CMH,LAS,Southwest Airlines (WN),Southwest Airlines,1765,04:01,,,,,73H,,,"Direct",3759,3877,4547
+- -,CMH,MCO,Southwest Airlines (WN),Southwest Airlines,803,02:06,,,,,73W 73C 733,,,"Direct",3759,3878,4547
+- -,CMH,MDW,Southwest Airlines (WN),Southwest Airlines,282,01:03,,,,,73W 73H,,,"Direct",3759,3747,4547
+- -,CMH,PHX,Southwest Airlines (WN),Southwest Airlines,1666,03:49,,,,,73W,,,"Direct",3759,3462,4547
+- -,CMH,RSW,Southwest Airlines (WN),Southwest Airlines,931,02:21,,,,,73W,,,"Direct",3759,3793,4547
+- -,CMH,STL,Southwest Airlines (WN),Southwest Airlines,408,01:18,,,,,733 73C 73W,,,"Direct",3759,3678,4547
+- -,CMH,TPA,Southwest Airlines (WN),Southwest Airlines,830,02:09,,,,,73C 73W 733,,,"Direct",3759,3646,4547
+- -,CRP,HOU,Southwest Airlines (WN),Southwest Airlines,186,00:52,,,,,735 733,,,"Direct",3744,3566,4547
+- -,CUN,ATL,Southwest Airlines (WN),Southwest Airlines,882,02:15,,,,,73G,,,"Codeshare",1852,3682,4547
+- -,DAL,ABQ,Southwest Airlines (WN),Southwest Airlines,578,01:39,,,,,73C 733 73W,,,"Direct",3502,4019,4547
+- -,DAL,AMA,Southwest Airlines (WN),Southwest Airlines,322,01:08,,,,,735 733 73W,,,"Direct",3502,3840,4547
+- -,DAL,AUS,Southwest Airlines (WN),Southwest Airlines,189,00:52,,,,,73W 733 735 73C,,,"Direct",3502,3673,4547
+- -,DAL,BHM,Southwest Airlines (WN),Southwest Airlines,585,01:40,,,,,73W 73C,,,"Direct",3502,3811,4547
+- -,DAL,BKG,Southwest Airlines (WN),Southwest Airlines,328,01:09,,,,,73W,,,"Direct",3502,6962,4547
+- -,DAL,ELP,Southwest Airlines (WN),Southwest Airlines,560,01:37,,,,,735 73W 73C,,,"Direct",3502,3559,4547
+- -,DAL,HOU,Southwest Airlines (WN),Southwest Airlines,239,00:58,,,,,73C 73W 735 733,,,"Direct",3502,3566,4547
+- -,DAL,HRL,Southwest Airlines (WN),Southwest Airlines,459,01:25,,,,,733 735,,,"Direct",3502,3560,4547
+- -,DAL,ICT,Southwest Airlines (WN),Southwest Airlines,333,01:09,,,,,73W 73C,,,"Direct",3502,3457,4547
+- -,DAL,LBB,Southwest Airlines (WN),Southwest Airlines,292,01:05,,,,,735 73W 73C,,,"Direct",3502,3829,4547
+- -,DAL,LIT,Southwest Airlines (WN),Southwest Airlines,295,01:05,,,,,73W 733 735,,,"Direct",3502,3660,4547
+- -,DAL,MAF,Southwest Airlines (WN),Southwest Airlines,318,01:08,,,,,735 73W,,,"Direct",3502,3652,4547
+- -,DAL,MCI,Southwest Airlines (WN),Southwest Airlines,461,01:25,,,,,73W 73C 733,,,"Direct",3502,3458,4547
+- -,DAL,MSY,Southwest Airlines (WN),Southwest Airlines,435,01:22,,,,,73W 73C  735,,,"Direct",3502,3861,4547
+- -,DAL,OKC,Southwest Airlines (WN),Southwest Airlines,180,00:51,,,,,73W 73C 733,,,"Direct",3502,3863,4547
+- -,DAL,SAT,Southwest Airlines (WN),Southwest Airlines,247,00:59,,,,,73W 735 73C 733,,,"Direct",3502,3621,4547
+- -,DAL,STL,Southwest Airlines (WN),Southwest Airlines,545,01:35,,,,,73C 73W 733,,,"Direct",3502,3678,4547
+- -,DAL,TUL,Southwest Airlines (WN),Southwest Airlines,237,00:58,,,,,73W 735,,,"Direct",3502,3855,4547
+- -,DAY,ATL,Southwest Airlines (WN),Southwest Airlines,432,01:21,,,,,717,,,"Codeshare",3627,3682,4547
+- -,DAY,BWI,Southwest Airlines (WN),Southwest Airlines,405,01:18,,,,,73W 73C,,,"Direct",3627,3849,4547
+- -,DAY,DEN,Southwest Airlines (WN),Southwest Airlines,1081,02:39,,,,,73W,,,"Direct",3627,3751,4547
+- -,DAY,MCO,Southwest Airlines (WN),Southwest Airlines,809,02:07,,,,,73W,,,"Direct",3627,3878,4547
+- -,DAY,TPA,Southwest Airlines (WN),Southwest Airlines,829,02:09,,,,,717,,,"Codeshare",3627,3646,4547
+- -,DCA,ATL,Southwest Airlines (WN),Southwest Airlines,546,01:35,,,,,73W,,,"Direct",3520,3682,4547
+- -,DCA,AUS,Southwest Airlines (WN),Southwest Airlines,1313,03:07,,,,,73W,,,"Direct",3520,3673,4547
+- -,DCA,HOU,Southwest Airlines (WN),Southwest Airlines,1216,02:55,,,,,73W,,,"Direct",3520,3566,4547
+- -,DCA,MCI,Southwest Airlines (WN),Southwest Airlines,946,02:23,,,,,73W,,,"Direct",3520,3458,4547
+- -,DCA,MKE,Southwest Airlines (WN),Southwest Airlines,632,01:45,,,,,717,,,"Codeshare",3520,3717,4547
+- -,DCA,RSW,Southwest Airlines (WN),Southwest Airlines,893,02:17,,,,,717,,,"Codeshare",3520,3793,4547
+- -,DCA,STL,Southwest Airlines (WN),Southwest Airlines,716,01:55,,,,,73W,,,"Direct",3520,3678,4547
+- -,DEN,ABQ,Southwest Airlines (WN),Southwest Airlines,349,01:11,,,,,73W 73C,,,"Direct",3751,4019,4547
+- -,DEN,AMA,Southwest Airlines (WN),Southwest Airlines,359,01:13,,,,,73W 73C,,,"Direct",3751,3840,4547
+- -,DEN,ATL,Southwest Airlines (WN),Southwest Airlines,1196,02:53,,,,,73W,,,"Direct",3751,3682,4547
+- -,DEN,AUS,Southwest Airlines (WN),Southwest Airlines,775,02:03,,,,,73C 73W,,,"Direct",3751,3673,4547
+- -,DEN,BDL,Southwest Airlines (WN),Southwest Airlines,1666,03:49,,,,,73W,,,"Direct",3751,3825,4547
+- -,DEN,BNA,Southwest Airlines (WN),Southwest Airlines,1010,02:31,,,,,73W 738 73H,,,"Direct",3751,3690,4547
+- -,DEN,BOI,Southwest Airlines (WN),Southwest Airlines,647,01:47,,,,,73W 73C,,,"Direct",3751,3495,4547
+- -,DEN,BOS,Southwest Airlines (WN),Southwest Airlines,1748,03:59,,,,,73W,,,"Direct",3751,3448,4547
+- -,DEN,BUR,Southwest Airlines (WN),Southwest Airlines,848,02:11,,,,,73W,,,"Direct",3751,3644,4547
+- -,DEN,BWI,Southwest Airlines (WN),Southwest Airlines,1486,03:28,,,,,73W 738,,,"Direct",3751,3849,4547
+- -,DEN,CAK,Southwest Airlines (WN),Southwest Airlines,1220,02:56,,,,,73W,,,"Direct",3751,4112,4547
+- -,DEN,CMH,Southwest Airlines (WN),Southwest Airlines,1150,02:48,,,,,73W,,,"Direct",3751,3759,4547
+- -,DEN,DAY,Southwest Airlines (WN),Southwest Airlines,1081,02:39,,,,,73W,,,"Direct",3751,3627,4547
+- -,DEN,DTW,Southwest Airlines (WN),Southwest Airlines,1119,02:44,,,,,73W,,,"Direct",3751,3645,4547
+- -,DEN,EWR,Southwest Airlines (WN),Southwest Airlines,1599,03:41,,,,,73W,,,"Direct",3751,3494,4547
+- -,DEN,FLL,Southwest Airlines (WN),Southwest Airlines,1700,03:54,,,,,73W,,,"Direct",3751,3533,4547
+- -,DEN,GEG,Southwest Airlines (WN),Southwest Airlines,833,02:09,,,,,73W,,,"Direct",3751,3467,4547
+- -,DEN,GRR,Southwest Airlines (WN),Southwest Airlines,1011,02:31,,,,,73W,,,"Direct",3751,3685,4547
+- -,DEN,HOU,Southwest Airlines (WN),Southwest Airlines,883,02:15,,,,,73H 73W 733,,,"Direct",3751,3566,4547
+- -,DEN,IAD,Southwest Airlines (WN),Southwest Airlines,1448,03:23,,,,,73W,,,"Direct",3751,3714,4547
+- -,DEN,IND,Southwest Airlines (WN),Southwest Airlines,973,02:26,,,,,73C 73W 733,,,"Direct",3751,3585,4547
+- -,DEN,JAX,Southwest Airlines (WN),Southwest Airlines,1443,03:23,,,,,73W,,,"Direct",3751,3712,4547
+- -,DEN,LAS,Southwest Airlines (WN),Southwest Airlines,626,01:45,,,,,73W 73C 73H 738,,,"Direct",3751,3877,4547
+- -,DEN,LAX,Southwest Airlines (WN),Southwest Airlines,860,02:13,,,,,733 73H 73C 73W,,,"Direct",3751,3484,4547
+- -,DEN,LGA,Southwest Airlines (WN),Southwest Airlines,1614,03:43,,,,,73W,,,"Direct",3751,3697,4547
+- -,DEN,MCI,Southwest Airlines (WN),Southwest Airlines,531,01:33,,,,,73W 73C 73H,,,"Direct",3751,3458,4547
+- -,DEN,MCO,Southwest Airlines (WN),Southwest Airlines,1544,03:35,,,,,73W 73H,,,"Direct",3751,3878,4547
+- -,DEN,MDW,Southwest Airlines (WN),Southwest Airlines,892,02:17,,,,,73W 738,,,"Direct",3751,3747,4547
+- -,DEN,MKE,Southwest Airlines (WN),Southwest Airlines,893,02:17,,,,,73W 733,,,"Direct",3751,3717,4547
+- -,DEN,MSP,Southwest Airlines (WN),Southwest Airlines,678,01:51,,,,,73W 73H 733 73C,,,"Direct",3751,3858,4547
+- -,DEN,MSY,Southwest Airlines (WN),Southwest Airlines,1060,02:37,,,,,73W ,,,"Direct",3751,3861,4547
+- -,DEN,OAK,Southwest Airlines (WN),Southwest Airlines,954,02:24,,,,,73W,,,"Direct",3751,3453,4547
+- -,DEN,OKC,Southwest Airlines (WN),Southwest Airlines,494,01:29,,,,,73W 73C,,,"Direct",3751,3863,4547
+- -,DEN,OMA,Southwest Airlines (WN),Southwest Airlines,470,01:26,,,,,73W,,,"Direct",3751,3454,4547
+- -,DEN,ONT,Southwest Airlines (WN),Southwest Airlines,817,02:08,,,,,73W,,,"Direct",3751,3734,4547
+- -,DEN,PDX,Southwest Airlines (WN),Southwest Airlines,988,02:28,,,,,73W,,,"Direct",3751,3720,4547
+- -,DEN,PHL,Southwest Airlines (WN),Southwest Airlines,1552,03:36,,,,,73W,,,"Direct",3751,3752,4547
+- -,DEN,PHX,Southwest Airlines (WN),Southwest Airlines,601,01:42,,,,,73W 73C 73H 733,,,"Direct",3751,3462,4547
+- -,DEN,PIT,Southwest Airlines (WN),Southwest Airlines,1286,03:04,,,,,73W 73H,,,"Direct",3751,3570,4547
+- -,DEN,RDU,Southwest Airlines (WN),Southwest Airlines,1432,03:21,,,,,73W,,,"Direct",3751,3626,4547
+- -,DEN,RNO,Southwest Airlines (WN),Southwest Airlines,801,02:06,,,,,73W,,,"Direct",3751,3807,4547
+- -,DEN,SAN,Southwest Airlines (WN),Southwest Airlines,851,02:12,,,,,73C 73H 73W,,,"Direct",3751,3731,4547
+- -,DEN,SAT,Southwest Airlines (WN),Southwest Airlines,794,02:05,,,,,73C 73W 733,,,"Direct",3751,3621,4547
+- -,DEN,SDF,Southwest Airlines (WN),Southwest Airlines,1020,02:32,,,,,73W,,,"Direct",3751,4014,4547
+- -,DEN,SEA,Southwest Airlines (WN),Southwest Airlines,1021,02:32,,,,,73W 73H,,,"Direct",3751,3577,4547
+- -,DEN,SFO,Southwest Airlines (WN),Southwest Airlines,964,02:25,,,,,73W,,,"Direct",3751,3469,4547
+- -,DEN,SJC,Southwest Airlines (WN),Southwest Airlines,945,02:23,,,,,73W,,,"Direct",3751,3748,4547
+- -,DEN,SLC,Southwest Airlines (WN),Southwest Airlines,389,01:16,,,,,73W 733 73C 73H,,,"Direct",3751,3536,4547
+- -,DEN,SMF,Southwest Airlines (WN),Southwest Airlines,906,02:18,,,,,733 73W 73H 73C 738,,,"Direct",3751,3817,4547
+- -,DEN,SNA,Southwest Airlines (WN),Southwest Airlines,844,02:11,,,,,73W,,,"Direct",3751,3867,4547
+- -,DEN,STL,Southwest Airlines (WN),Southwest Airlines,767,02:02,,,,,73W 733,,,"Direct",3751,3678,4547
+- -,DEN,TPA,Southwest Airlines (WN),Southwest Airlines,1504,03:30,,,,,73W 73H,,,"Direct",3751,3646,4547
+- -,DEN,TUL,Southwest Airlines (WN),Southwest Airlines,540,01:34,,,,,735 73W,,,"Direct",3751,3855,4547
+- -,DEN,TUS,Southwest Airlines (WN),Southwest Airlines,638,01:46,,,,,73W 73C,,,"Direct",3751,3636,4547
+- -,DFW,RSW,Southwest Airlines (WN),Southwest Airlines,1014,02:31,,,,,738,,,"Codeshare",3670,3793,4547
+- -,DSM,LAS,Southwest Airlines (WN),Southwest Airlines,1212,02:55,,,,,73W,,,"Direct",3729,3877,4547
+- -,DSM,MDW,Southwest Airlines (WN),Southwest Airlines,305,01:06,,,,,73W 733,,,"Direct",3729,3747,4547
+- -,DTW,ATL,Southwest Airlines (WN),Southwest Airlines,595,01:41,,,,,717 73G,,,"Codeshare",3645,3682,4547
+- -,DTW,BNA,Southwest Airlines (WN),Southwest Airlines,456,01:24,,,,,73W 73C 73H,,,"Direct",3645,3690,4547
+- -,DTW,BWI,Southwest Airlines (WN),Southwest Airlines,407,01:18,,,,,73W 73C,,,"Direct",3645,3849,4547
+- -,DTW,DEN,Southwest Airlines (WN),Southwest Airlines,1119,02:44,,,,,73C 73W,,,"Direct",3645,3751,4547
+- -,DTW,LAS,Southwest Airlines (WN),Southwest Airlines,1743,03:59,,,,,73H 73W,,,"Direct",3645,3877,4547
+- -,DTW,MDW,Southwest Airlines (WN),Southwest Airlines,227,00:57,,,,,73W 73C,,,"Direct",3645,3747,4547
+- -,DTW,PHX,Southwest Airlines (WN),Southwest Airlines,1666,03:49,,,,,73W,,,"Direct",3645,3462,4547
+- -,DTW,STL,Southwest Airlines (WN),Southwest Airlines,439,01:22,,,,,73W,,,"Direct",3645,3678,4547
+- -,ECP,BNA,Southwest Airlines (WN),Southwest Airlines,401,01:18,,,,,73W,,,"Direct",7669,3690,4547
+- -,ECP,BWI,Southwest Airlines (WN),Southwest Airlines,798,02:05,,,,,73W,,,"Direct",7669,3849,4547
+- -,ECP,HOU,Southwest Airlines (WN),Southwest Airlines,569,01:38,,,,,73W 733 73C,,,"Direct",7669,3566,4547
+- -,ECP,STL,Southwest Airlines (WN),Southwest Airlines,634,01:46,,,,,73C 73W,,,"Direct",7669,3678,4547
+- -,ELP,AUS,Southwest Airlines (WN),Southwest Airlines,527,01:33,,,,,73W 735 73C,,,"Direct",3559,3673,4547
+- -,ELP,DAL,Southwest Airlines (WN),Southwest Airlines,560,01:37,,,,,73W 735 73C,,,"Direct",3559,3502,4547
+- -,ELP,HOU,Southwest Airlines (WN),Southwest Airlines,675,01:51,,,,,73C 73W 735,,,"Direct",3559,3566,4547
+- -,ELP,LAS,Southwest Airlines (WN),Southwest Airlines,582,01:39,,,,,735 73W 73C,,,"Direct",3559,3877,4547
+- -,ELP,LAX,Southwest Airlines (WN),Southwest Airlines,712,01:55,,,,,73W 733,,,"Direct",3559,3484,4547
+- -,ELP,PHX,Southwest Airlines (WN),Southwest Airlines,346,01:11,,,,,73W 735 73C,,,"Direct",3559,3462,4547
+- -,ELP,SAT,Southwest Airlines (WN),Southwest Airlines,495,01:29,,,,,73W 73C 735,,,"Direct",3559,3621,4547
+- -,EWR,AUS,Southwest Airlines (WN),Southwest Airlines,1500,03:30,,,,,73W,,,"Direct",3494,3673,4547
+- -,EWR,BNA,Southwest Airlines (WN),Southwest Airlines,745,01:59,,,,,73W,,,"Direct",3494,3690,4547
+- -,EWR,DEN,Southwest Airlines (WN),Southwest Airlines,1599,03:41,,,,,73W,,,"Direct",3494,3751,4547
+- -,EWR,HOU,Southwest Airlines (WN),Southwest Airlines,1409,03:19,,,,,73W,,,"Direct",3494,3566,4547
+- -,EWR,MDW,Southwest Airlines (WN),Southwest Airlines,708,01:54,,,,,73W,,,"Direct",3494,3747,4547
+- -,EWR,MSY,Southwest Airlines (WN),Southwest Airlines,1165,02:49,,,,,73W,,,"Direct",3494,3861,4547
+- -,EWR,PHX,Southwest Airlines (WN),Southwest Airlines,2127,04:45,,,,,73W,,,"Direct",3494,3462,4547
+- -,EWR,STL,Southwest Airlines (WN),Southwest Airlines,869,02:14,,,,,73W,,,"Direct",3494,3678,4547
+- -,EYW,MCO,Southwest Airlines (WN),Southwest Airlines,268,01:02,,,,,73W,,,"Direct",3875,3878,4547
+- -,EYW,MSY,Southwest Airlines (WN),Southwest Airlines,642,01:47,,,,,73W,,,"Direct",3875,3861,4547
+- -,EYW,TPA,Southwest Airlines (WN),Southwest Airlines,240,00:58,,,,,73W,,,"Direct",3875,3646,4547
+- -,FLL,ALB,Southwest Airlines (WN),Southwest Airlines,1206,02:54,,,,,73W,,,"Direct",3533,3864,4547
+- -,FLL,ATL,Southwest Airlines (WN),Southwest Airlines,581,01:39,,,,,733 73W,,,"Direct",3533,3682,4547
+- -,FLL,AUS,Southwest Airlines (WN),Southwest Airlines,1102,02:42,,,,,73W,,,"Direct",3533,3673,4547
+- -,FLL,BDL,Southwest Airlines (WN),Southwest Airlines,1174,02:50,,,,,73W,,,"Direct",3533,3825,4547
+- -,FLL,BNA,Southwest Airlines (WN),Southwest Airlines,793,02:05,,,,,73W 73C 733,,,"Direct",3533,3690,4547
+- -,FLL,BUF,Southwest Airlines (WN),Southwest Airlines,1167,02:50,,,,,73W,,,"Direct",3533,3820,4547
+- -,FLL,BWI,Southwest Airlines (WN),Southwest Airlines,927,02:21,,,,,73W 73C 733,,,"Direct",3533,3849,4547
+- -,FLL,CMH,Southwest Airlines (WN),Southwest Airlines,974,02:26,,,,,73C 73W,,,"Direct",3533,3759,4547
+- -,FLL,DEN,Southwest Airlines (WN),Southwest Airlines,1700,03:54,,,,,73W,,,"Direct",3533,3751,4547
+- -,FLL,HOU,Southwest Airlines (WN),Southwest Airlines,955,02:24,,,,,73W,,,"Direct",3533,3566,4547
+- -,FLL,IND,Southwest Airlines (WN),Southwest Airlines,1006,02:30,,,,,73W 73C,,,"Direct",3533,3585,4547
+- -,FLL,ISP,Southwest Airlines (WN),Southwest Airlines,1093,02:41,,,,,73W,,,"Direct",3533,3857,4547
+- -,FLL,JAX,Southwest Airlines (WN),Southwest Airlines,319,01:08,,,,,73W 73C,,,"Direct",3533,3712,4547
+- -,FLL,LAS,Southwest Airlines (WN),Southwest Airlines,2168,04:50,,,,,73W 738,,,"Direct",3533,3877,4547
+- -,FLL,MCI,Southwest Airlines (WN),Southwest Airlines,1241,02:58,,,,,73W,,,"Direct",3533,3458,4547
+- -,FLL,MDW,Southwest Airlines (WN),Southwest Airlines,1167,02:50,,,,,73W 73H,,,"Direct",3533,3747,4547
+- -,FLL,MKE,Southwest Airlines (WN),Southwest Airlines,1244,02:59,,,,,73W,,,"Direct",3533,3717,4547
+- -,FLL,MSY,Southwest Airlines (WN),Southwest Airlines,672,01:50,,,,,73W 73C,,,"Direct",3533,3861,4547
+- -,FLL,PHL,Southwest Airlines (WN),Southwest Airlines,994,02:29,,,,,73C 73W,,,"Direct",3533,3752,4547
+- -,FLL,PHX,Southwest Airlines (WN),Southwest Airlines,1967,04:26,,,,,73W,,,"Direct",3533,3462,4547
+- -,FLL,PIT,Southwest Airlines (WN),Southwest Airlines,995,02:29,,,,,73W,,,"Direct",3533,3570,4547
+- -,FLL,PVD,Southwest Airlines (WN),Southwest Airlines,1189,02:52,,,,,73W,,,"Direct",3533,3641,4547
+- -,FLL,RDU,Southwest Airlines (WN),Southwest Airlines,681,01:51,,,,,73W,,,"Direct",3533,3626,4547
+- -,FLL,SJU,Southwest Airlines (WN),Southwest Airlines,1045,02:35,,,,,73W,,,"Direct",3533,2890,4547
+- -,FLL,STL,Southwest Airlines (WN),Southwest Airlines,1057,02:36,,,,,73W,,,"Direct",3533,3678,4547
+- -,FLL,TPA,Southwest Airlines (WN),Southwest Airlines,196,00:53,,,,,73W,,,"Direct",3533,3646,4547
+- -,FNT,BWI,Southwest Airlines (WN),Southwest Airlines,451,01:24,,,,,73W,,,"Direct",4089,3849,4547
+- -,FNT,LAS,Southwest Airlines (WN),Southwest Airlines,1728,03:57,,,,,73W,,,"Direct",4089,3877,4547
+- -,FNT,MCO,Southwest Airlines (WN),Southwest Airlines,1012,02:31,,,,,73W,,,"Direct",4089,3878,4547
+- -,FNT,TPA,Southwest Airlines (WN),Southwest Airlines,1037,02:34,,,,,73W,,,"Direct",4089,3646,4547
+- -,GEG,BOI,Southwest Airlines (WN),Southwest Airlines,287,01:04,,,,,73W,,,"Direct",3467,3495,4547
+- -,GEG,DEN,Southwest Airlines (WN),Southwest Airlines,833,02:09,,,,,73W,,,"Direct",3467,3751,4547
+- -,GEG,LAS,Southwest Airlines (WN),Southwest Airlines,806,02:06,,,,,73W,,,"Direct",3467,3877,4547
+- -,GEG,OAK,Southwest Airlines (WN),Southwest Airlines,723,01:56,,,,,73W,,,"Direct",3467,3453,4547
+- -,GEG,PHX,Southwest Airlines (WN),Southwest Airlines,1020,02:32,,,,,73W,,,"Direct",3467,3462,4547
+- -,GRR,BWI,Southwest Airlines (WN),Southwest Airlines,527,01:33,,,,,73W,,,"Direct",3685,3849,4547
+- -,GRR,DEN,Southwest Airlines (WN),Southwest Airlines,1011,02:31,,,,,73W,,,"Direct",3685,3751,4547
+- -,GRR,MCO,Southwest Airlines (WN),Southwest Airlines,1025,02:33,,,,,73W,,,"Direct",3685,3878,4547
+- -,GRR,STL,Southwest Airlines (WN),Southwest Airlines,381,01:15,,,,,73C,,,"Direct",3685,3678,4547
+- -,GRR,TPA,Southwest Airlines (WN),Southwest Airlines,1042,02:35,,,,,73W 73C,,,"Direct",3685,3646,4547
+- -,GSP,BNA,Southwest Airlines (WN),Southwest Airlines,264,01:01,,,,,73W,,,"Direct",4034,3690,4547
+- -,GSP,BWI,Southwest Airlines (WN),Southwest Airlines,425,01:21,,,,,73C,,,"Direct",4034,3849,4547
+- -,GSP,HOU,Southwest Airlines (WN),Southwest Airlines,843,02:11,,,,,73C 73W,,,"Direct",4034,3566,4547
+- -,GSP,MDW,Southwest Airlines (WN),Southwest Airlines,562,01:37,,,,,73W,,,"Direct",4034,3747,4547
+- -,HOU,ABQ,Southwest Airlines (WN),Southwest Airlines,758,02:00,,,,,73C 733 73W,,,"Direct",3566,4019,4547
+- -,HOU,ATL,Southwest Airlines (WN),Southwest Airlines,694,01:53,,,,,733 73C 73W,,,"Direct",3566,3682,4547
+- -,HOU,AUS,Southwest Airlines (WN),Southwest Airlines,148,00:47,,,,,735 733 73C 73W,,,"Direct",3566,3673,4547
+- -,HOU,BHM,Southwest Airlines (WN),Southwest Airlines,569,01:38,,,,,73W,,,"Direct",3566,3811,4547
+- -,HOU,BKG,Southwest Airlines (WN),Southwest Airlines,490,01:28,,,,,73W 733,,,"Direct",3566,6962,4547
+- -,HOU,BNA,Southwest Airlines (WN),Southwest Airlines,669,01:50,,,,,73W 735 73C 733,,,"Direct",3566,3690,4547
+- -,HOU,BOS,Southwest Airlines (WN),Southwest Airlines,1606,03:42,,,,,73W,,,"Direct",3566,3448,4547
+- -,HOU,BWI,Southwest Airlines (WN),Southwest Airlines,1244,02:59,,,,,73W,,,"Direct",3566,3849,4547
+- -,HOU,CHS,Southwest Airlines (WN),Southwest Airlines,926,02:21,,,,,73W,,,"Direct",3566,3806,4547
+- -,HOU,CLT,Southwest Airlines (WN),Southwest Airlines,918,02:20,,,,,733,,,"Direct",3566,3876,4547
+- -,HOU,CRP,Southwest Airlines (WN),Southwest Airlines,186,00:52,,,,,735 733,,,"Direct",3566,3744,4547
+- -,HOU,DAL,Southwest Airlines (WN),Southwest Airlines,239,00:58,,,,,73C 73W 733 735,,,"Direct",3566,3502,4547
+- -,HOU,DCA,Southwest Airlines (WN),Southwest Airlines,1216,02:55,,,,,73W,,,"Direct",3566,3520,4547
+- -,HOU,DEN,Southwest Airlines (WN),Southwest Airlines,883,02:15,,,,,73W,,,"Direct",3566,3751,4547
+- -,HOU,ECP,Southwest Airlines (WN),Southwest Airlines,569,01:38,,,,,73C 733 73W,,,"Direct",3566,7669,4547
+- -,HOU,ELP,Southwest Airlines (WN),Southwest Airlines,675,01:51,,,,,73W 735 73C,,,"Direct",3566,3559,4547
+- -,HOU,EWR,Southwest Airlines (WN),Southwest Airlines,1409,03:19,,,,,73W,,,"Direct",3566,3494,4547
+- -,HOU,FLL,Southwest Airlines (WN),Southwest Airlines,955,02:24,,,,,73W,,,"Direct",3566,3533,4547
+- -,HOU,GSP,Southwest Airlines (WN),Southwest Airlines,843,02:11,,,,,73W 73C,,,"Direct",3566,4034,4547
+- -,HOU,HRL,Southwest Airlines (WN),Southwest Airlines,276,01:03,,,,,73W 735 733,,,"Direct",3566,3560,4547
+- -,HOU,IND,Southwest Airlines (WN),Southwest Airlines,861,02:13,,,,,73C 733,,,"Direct",3566,3585,4547
+- -,HOU,JAN,Southwest Airlines (WN),Southwest Airlines,358,01:12,,,,,73W 733 735,,,"Direct",3566,3580,4547
+- -,HOU,JAX,Southwest Airlines (WN),Southwest Airlines,813,02:07,,,,,73W,,,"Direct",3566,3712,4547
+- -,HOU,LAS,Southwest Airlines (WN),Southwest Airlines,1232,02:57,,,,,73W 73H,,,"Direct",3566,3877,4547
+- -,HOU,LAX,Southwest Airlines (WN),Southwest Airlines,1386,03:16,,,,,738 73W 73H,,,"Direct",3566,3484,4547
+- -,HOU,LGA,Southwest Airlines (WN),Southwest Airlines,1425,03:21,,,,,73W,,,"Direct",3566,3697,4547
+- -,HOU,LIT,Southwest Airlines (WN),Southwest Airlines,393,01:17,,,,,735,,,"Direct",3566,3660,4547
+- -,HOU,MAF,Southwest Airlines (WN),Southwest Airlines,440,01:22,,,,,735 73W,,,"Direct",3566,3652,4547
+- -,HOU,MCI,Southwest Airlines (WN),Southwest Airlines,667,01:50,,,,,73W 733,,,"Direct",3566,3458,4547
+- -,HOU,MCO,Southwest Airlines (WN),Southwest Airlines,847,02:11,,,,,733 73C 73H 73W,,,"Direct",3566,3878,4547
+- -,HOU,MDW,Southwest Airlines (WN),Southwest Airlines,937,02:22,,,,,73W 73H 738,,,"Direct",3566,3747,4547
+- -,HOU,MEM,Southwest Airlines (WN),Southwest Airlines,484,01:28,,,,,733,,,"Direct",3566,3473,4547
+- -,HOU,MSY,Southwest Airlines (WN),Southwest Airlines,301,01:06,,,,,735 73W 73C 733,,,"Direct",3566,3861,4547
+- -,HOU,OAK,Southwest Airlines (WN),Southwest Airlines,1638,03:46,,,,,73W,,,"Direct",3566,3453,4547
+- -,HOU,OKC,Southwest Airlines (WN),Southwest Airlines,419,01:20,,,,,733 73W,,,"Direct",3566,3863,4547
+- -,HOU,PHX,Southwest Airlines (WN),Southwest Airlines,1017,02:32,,,,,73W 73H 738,,,"Direct",3566,3462,4547
+- -,HOU,PIT,Southwest Airlines (WN),Southwest Airlines,1130,02:45,,,,,73W 733,,,"Direct",3566,3570,4547
+- -,HOU,PNS,Southwest Airlines (WN),Southwest Airlines,486,01:28,,,,,73W,,,"Direct",3566,3564,4547
+- -,HOU,RDU,Southwest Airlines (WN),Southwest Airlines,1048,02:35,,,,,73W 733 73C,,,"Direct",3566,3626,4547
+- -,HOU,SAN,Southwest Airlines (WN),Southwest Airlines,1309,03:07,,,,,73W 73H,,,"Direct",3566,3731,4547
+- -,HOU,SAT,Southwest Airlines (WN),Southwest Airlines,191,00:52,,,,,73C 73W 735,,,"Direct",3566,3621,4547
+- -,HOU,SNA,Southwest Airlines (WN),Southwest Airlines,1353,03:12,,,,,73W,,,"Direct",3566,3867,4547
+- -,HOU,STL,Southwest Airlines (WN),Southwest Airlines,688,01:52,,,,,73H 73C 733 73W,,,"Direct",3566,3678,4547
+- -,HOU,TPA,Southwest Airlines (WN),Southwest Airlines,779,02:03,,,,,73C 73H 73W,,,"Direct",3566,3646,4547
+- -,HOU,TUL,Southwest Airlines (WN),Southwest Airlines,453,01:24,,,,,73W,,,"Direct",3566,3855,4547
+- -,HRL,AUS,Southwest Airlines (WN),Southwest Airlines,273,01:02,,,,,73W,,,"Direct",3560,3673,4547
+- -,HRL,DAL,Southwest Airlines (WN),Southwest Airlines,459,01:25,,,,,735,,,"Direct",3560,3502,4547
+- -,HRL,HOU,Southwest Airlines (WN),Southwest Airlines,276,01:03,,,,,735 733 73W,,,"Direct",3560,3566,4547
+- -,HRL,SAT,Southwest Airlines (WN),Southwest Airlines,233,00:57,,,,,735,,,"Direct",3560,3621,4547
+- -,IAD,DEN,Southwest Airlines (WN),Southwest Airlines,1448,03:23,,,,,73W,,,"Direct",3714,3751,4547
+- -,IAD,MDW,Southwest Airlines (WN),Southwest Airlines,575,01:39,,,,,73W 73H,,,"Direct",3714,3747,4547
+- -,ICT,DAL,Southwest Airlines (WN),Southwest Airlines,333,01:09,,,,,73W,,,"Direct",3457,3502,4547
+- -,ICT,LAS,Southwest Airlines (WN),Southwest Airlines,983,02:27,,,,,73W 73C,,,"Direct",3457,3877,4547
+- -,ICT,MDW,Southwest Airlines (WN),Southwest Airlines,587,01:40,,,,,73W,,,"Direct",3457,3747,4547
+- -,IND,ATL,Southwest Airlines (WN),Southwest Airlines,432,01:21,,,,,717,,,"Codeshare",3585,3682,4547
+- -,IND,BWI,Southwest Airlines (WN),Southwest Airlines,514,01:31,,,,,733 73C 73W,,,"Direct",3585,3849,4547
+- -,IND,DEN,Southwest Airlines (WN),Southwest Airlines,973,02:26,,,,,733 73C 73W,,,"Direct",3585,3751,4547
+- -,IND,FLL,Southwest Airlines (WN),Southwest Airlines,1006,02:30,,,,,73W 73C,,,"Direct",3585,3533,4547
+- -,IND,HOU,Southwest Airlines (WN),Southwest Airlines,861,02:13,,,,,73W 73C,,,"Direct",3585,3566,4547
+- -,IND,LAS,Southwest Airlines (WN),Southwest Airlines,1585,03:40,,,,,73W 73C,,,"Direct",3585,3877,4547
+- -,IND,MCI,Southwest Airlines (WN),Southwest Airlines,449,01:23,,,,,733 73C,,,"Direct",3585,3458,4547
+- -,IND,MCO,Southwest Airlines (WN),Southwest Airlines,829,02:09,,,,,73C 73W 733,,,"Direct",3585,3878,4547
+- -,IND,PHX,Southwest Airlines (WN),Southwest Airlines,1484,03:28,,,,,73W 733,,,"Direct",3585,3462,4547
+- -,IND,RSW,Southwest Airlines (WN),Southwest Airlines,946,02:23,,,,,73C 73W,,,"Direct",3585,3793,4547
+- -,IND,TPA,Southwest Airlines (WN),Southwest Airlines,838,02:10,,,,,73W 73C,,,"Direct",3585,3646,4547
+- -,ISP,BWI,Southwest Airlines (WN),Southwest Airlines,219,00:56,,,,,73W 73C,,,"Direct",3857,3849,4547
+- -,ISP,FLL,Southwest Airlines (WN),Southwest Airlines,1093,02:41,,,,,73W,,,"Direct",3857,3533,4547
+- -,ISP,MCO,Southwest Airlines (WN),Southwest Airlines,971,02:26,,,,,73W,,,"Direct",3857,3878,4547
+- -,ISP,PBI,Southwest Airlines (WN),Southwest Airlines,1053,02:36,,,,,73W,,,"Direct",3857,3722,4547
+- -,ISP,TPA,Southwest Airlines (WN),Southwest Airlines,1034,02:34,,,,,73W,,,"Direct",3857,3646,4547
+- -,JAN,HOU,Southwest Airlines (WN),Southwest Airlines,358,01:12,,,,,73W 733 735,,,"Direct",3580,3566,4547
+- -,JAN,MCO,Southwest Airlines (WN),Southwest Airlines,586,01:40,,,,,73W,,,"Direct",3580,3878,4547
+- -,JAN,MDW,Southwest Airlines (WN),Southwest Airlines,666,01:49,,,,,73W,,,"Direct",3580,3747,4547
+- -,JAX,ATL,Southwest Airlines (WN),Southwest Airlines,269,01:02,,,,,73C,,,"Direct",3712,3682,4547
+- -,JAX,BNA,Southwest Airlines (WN),Southwest Airlines,483,01:27,,,,,73W 73C,,,"Direct",3712,3690,4547
+- -,JAX,BWI,Southwest Airlines (WN),Southwest Airlines,663,01:49,,,,,73W 733 73C,,,"Direct",3712,3849,4547
+- -,JAX,DEN,Southwest Airlines (WN),Southwest Airlines,1443,03:23,,,,,73W,,,"Direct",3712,3751,4547
+- -,JAX,FLL,Southwest Airlines (WN),Southwest Airlines,319,01:08,,,,,73C 73W,,,"Direct",3712,3533,4547
+- -,JAX,HOU,Southwest Airlines (WN),Southwest Airlines,813,02:07,,,,,733 73W,,,"Direct",3712,3566,4547
+- -,JAX,LAS,Southwest Airlines (WN),Southwest Airlines,1959,04:25,,,,,73W,,,"Direct",3712,3877,4547
+- -,JAX,MDW,Southwest Airlines (WN),Southwest Airlines,849,02:11,,,,,73W,,,"Direct",3712,3747,4547
+- -,LAS,ABQ,Southwest Airlines (WN),Southwest Airlines,485,01:28,,,,,73C 73W 733,,,"Direct",3877,4019,4547
+- -,LAS,ALB,Southwest Airlines (WN),Southwest Airlines,2230,04:57,,,,,73W,,,"Direct",3877,3864,4547
+- -,LAS,AMA,Southwest Airlines (WN),Southwest Airlines,756,02:00,,,,,735 733,,,"Direct",3877,3840,4547
+- -,LAS,ATL,Southwest Airlines (WN),Southwest Airlines,1741,03:58,,,,,73W ,,,"Direct",3877,3682,4547
+- -,LAS,AUS,Southwest Airlines (WN),Southwest Airlines,1087,02:40,,,,,73H 733 73W 73C,,,"Direct",3877,3673,4547
+- -,LAS,BDL,Southwest Airlines (WN),Southwest Airlines,2290,05:04,,,,,73W,,,"Direct",3877,3825,4547
+- -,LAS,BHM,Southwest Airlines (WN),Southwest Airlines,1613,03:43,,,,,73W,,,"Direct",3877,3811,4547
+- -,LAS,BNA,Southwest Airlines (WN),Southwest Airlines,1582,03:39,,,,,73W 73H,,,"Direct",3877,3690,4547
+- -,LAS,BOI,Southwest Airlines (WN),Southwest Airlines,519,01:32,,,,,73W 73C,,,"Direct",3877,3495,4547
+- -,LAS,BUF,Southwest Airlines (WN),Southwest Airlines,1980,04:27,,,,,73H 738,,,"Direct",3877,3820,4547
+- -,LAS,BUR,Southwest Airlines (WN),Southwest Airlines,222,00:56,,,,,73W 73H,,,"Direct",3877,3644,4547
+- -,LAS,BWI,Southwest Airlines (WN),Southwest Airlines,2099,04:41,,,,,73W 73H 738,,,"Direct",3877,3849,4547
+- -,LAS,CLE,Southwest Airlines (WN),Southwest Airlines,1819,04:08,,,,,73W,,,"Direct",3877,3486,4547
+- -,LAS,CMH,Southwest Airlines (WN),Southwest Airlines,1765,04:01,,,,,73H 73W,,,"Direct",3877,3759,4547
+- -,LAS,DEN,Southwest Airlines (WN),Southwest Airlines,626,01:45,,,,,73W 73H 73C 733 738,,,"Direct",3877,3751,4547
+- -,LAS,DSM,Southwest Airlines (WN),Southwest Airlines,1212,02:55,,,,,733 73W,,,"Direct",3877,3729,4547
+- -,LAS,DTW,Southwest Airlines (WN),Southwest Airlines,1743,03:59,,,,,73W,,,"Direct",3877,3645,4547
+- -,LAS,ELP,Southwest Airlines (WN),Southwest Airlines,582,01:39,,,,,73C 735 73W,,,"Direct",3877,3559,4547
+- -,LAS,FLL,Southwest Airlines (WN),Southwest Airlines,2168,04:50,,,,,73W,,,"Direct",3877,3533,4547
+- -,LAS,FNT,Southwest Airlines (WN),Southwest Airlines,1728,03:57,,,,,73W,,,"Direct",3877,4089,4547
+- -,LAS,GEG,Southwest Airlines (WN),Southwest Airlines,806,02:06,,,,,73W,,,"Direct",3877,3467,4547
+- -,LAS,HOU,Southwest Airlines (WN),Southwest Airlines,1232,02:57,,,,,73C 738 73W 73H,,,"Direct",3877,3566,4547
+- -,LAS,ICT,Southwest Airlines (WN),Southwest Airlines,983,02:27,,,,,73W,,,"Direct",3877,3457,4547
+- -,LAS,IND,Southwest Airlines (WN),Southwest Airlines,1585,03:40,,,,,73W,,,"Direct",3877,3585,4547
+- -,LAS,JAX,Southwest Airlines (WN),Southwest Airlines,1959,04:25,,,,,73W,,,"Direct",3877,3712,4547
+- -,LAS,LAX,Southwest Airlines (WN),Southwest Airlines,235,00:58,,,,,73W 73C 733,,,"Direct",3877,3484,4547
+- -,LAS,LBB,Southwest Airlines (WN),Southwest Airlines,772,02:02,,,,,73W 73C,,,"Direct",3877,3829,4547
+- -,LAS,LIT,Southwest Airlines (WN),Southwest Airlines,1290,03:04,,,,,73W,,,"Direct",3877,3660,4547
+- -,LAS,MAF,Southwest Airlines (WN),Southwest Airlines,793,02:05,,,,,735 73W,,,"Direct",3877,3652,4547
+- -,LAS,MCI,Southwest Airlines (WN),Southwest Airlines,1136,02:46,,,,,738 73C 73W 73H,,,"Direct",3877,3458,4547
+- -,LAS,MCO,Southwest Airlines (WN),Southwest Airlines,2034,04:34,,,,,73H 738,,,"Direct",3877,3878,4547
+- -,LAS,MDW,Southwest Airlines (WN),Southwest Airlines,1516,03:31,,,,,73H 73W 738,,,"Direct",3877,3747,4547
+- -,LAS,MKE,Southwest Airlines (WN),Southwest Airlines,1519,03:32,,,,,73W 73H,,,"Direct",3877,3717,4547
+- -,LAS,MSY,Southwest Airlines (WN),Southwest Airlines,1496,03:29,,,,,73H 73W,,,"Direct",3877,3861,4547
+- -,LAS,OAK,Southwest Airlines (WN),Southwest Airlines,406,01:18,,,,,73C 73W 738 73H,,,"Direct",3877,3453,4547
+- -,LAS,OKC,Southwest Airlines (WN),Southwest Airlines,983,02:27,,,,,73W 73C,,,"Direct",3877,3863,4547
+- -,LAS,OMA,Southwest Airlines (WN),Southwest Airlines,1096,02:41,,,,,733 73W,,,"Direct",3877,3454,4547
+- -,LAS,ONT,Southwest Airlines (WN),Southwest Airlines,196,00:53,,,,,73W 73C 73H,,,"Direct",3877,3734,4547
+- -,LAS,PDX,Southwest Airlines (WN),Southwest Airlines,762,02:01,,,,,73W 73C 73H,,,"Direct",3877,3720,4547
+- -,LAS,PHL,Southwest Airlines (WN),Southwest Airlines,2170,04:50,,,,,73H,,,"Direct",3877,3752,4547
+- -,LAS,PHX,Southwest Airlines (WN),Southwest Airlines,255,01:00,,,,,738 73W 735 73C 733 73H,,,"Direct",3877,3462,4547
+- -,LAS,PIT,Southwest Airlines (WN),Southwest Airlines,1904,04:18,,,,,73H 738 73W,,,"Direct",3877,3570,4547
+- -,LAS,RDU,Southwest Airlines (WN),Southwest Airlines,2020,04:32,,,,,73W,,,"Direct",3877,3626,4547
+- -,LAS,RNO,Southwest Airlines (WN),Southwest Airlines,345,01:11,,,,,73W 73H 738,,,"Direct",3877,3807,4547
+- -,LAS,SAN,Southwest Airlines (WN),Southwest Airlines,258,01:00,,,,,73W 738 73C 733,,,"Direct",3877,3731,4547
+- -,LAS,SAT,Southwest Airlines (WN),Southwest Airlines,1066,02:37,,,,,73W 73H 733,,,"Direct",3877,3621,4547
+- -,LAS,SDF,Southwest Airlines (WN),Southwest Airlines,1619,03:44,,,,,73W,,,"Direct",3877,4014,4547
+- -,LAS,SEA,Southwest Airlines (WN),Southwest Airlines,866,02:13,,,,,73W 733 73C 73H,,,"Direct",3877,3577,4547
+- -,LAS,SFO,Southwest Airlines (WN),Southwest Airlines,412,01:19,,,,,733 73W 73H 73C,,,"Direct",3877,3469,4547
+- -,LAS,SJC,Southwest Airlines (WN),Southwest Airlines,385,01:16,,,,,73W 73H 73C 733,,,"Direct",3877,3748,4547
+- -,LAS,SLC,Southwest Airlines (WN),Southwest Airlines,367,01:14,,,,,73W 733 73C 73H 738,,,"Direct",3877,3536,4547
+- -,LAS,SMF,Southwest Airlines (WN),Southwest Airlines,396,01:17,,,,,73W 73H 733 73C 738,,,"Direct",3877,3817,4547
+- -,LAS,SNA,Southwest Airlines (WN),Southwest Airlines,226,00:57,,,,,73W 73H,,,"Direct",3877,3867,4547
+- -,LAS,STL,Southwest Airlines (WN),Southwest Airlines,1367,03:14,,,,,73H 73W,,,"Direct",3877,3678,4547
+- -,LAS,TPA,Southwest Airlines (WN),Southwest Airlines,1979,04:27,,,,,73H,,,"Direct",3877,3646,4547
+- -,LAS,TUL,Southwest Airlines (WN),Southwest Airlines,1072,02:38,,,,,73W,,,"Direct",3877,3855,4547
+- -,LAS,TUS,Southwest Airlines (WN),Southwest Airlines,364,01:13,,,,,73W 73C 733 73H,,,"Direct",3877,3636,4547
+- -,LAX,ABQ,Southwest Airlines (WN),Southwest Airlines,675,01:51,,,,,73C 73W 733,,,"Direct",3484,4019,4547
+- -,LAX,ATL,Southwest Airlines (WN),Southwest Airlines,1941,04:22,,,,,73W,,,"Direct",3484,3682,4547
+- -,LAX,AUS,Southwest Airlines (WN),Southwest Airlines,1238,02:58,,,,,733 73W 73C,,,"Direct",3484,3673,4547
+- -,LAX,BNA,Southwest Airlines (WN),Southwest Airlines,1792,04:05,,,,,73W,,,"Direct",3484,3690,4547
+- -,LAX,BWI,Southwest Airlines (WN),Southwest Airlines,2322,05:08,,,,,73H 73W,,,"Direct",3484,3849,4547
+- -,LAX,DEN,Southwest Airlines (WN),Southwest Airlines,860,02:13,,,,,73W 73C 733,,,"Direct",3484,3751,4547
+- -,LAX,ELP,Southwest Airlines (WN),Southwest Airlines,712,01:55,,,,,73C 733 73W,,,"Direct",3484,3559,4547
+- -,LAX,HOU,Southwest Airlines (WN),Southwest Airlines,1386,03:16,,,,,73H 733 73C 73W,,,"Direct",3484,3566,4547
+- -,LAX,LAS,Southwest Airlines (WN),Southwest Airlines,235,00:58,,,,,73W 733 738 73C 73H,,,"Direct",3484,3877,4547
+- -,LAX,MCI,Southwest Airlines (WN),Southwest Airlines,1359,03:13,,,,,73W 738 733,,,"Direct",3484,3458,4547
+- -,LAX,MDW,Southwest Airlines (WN),Southwest Airlines,1746,03:59,,,,,738 73H 73W,,,"Direct",3484,3747,4547
+- -,LAX,MKE,Southwest Airlines (WN),Southwest Airlines,1751,04:00,,,,,73W,,,"Direct",3484,3717,4547
+- -,LAX,MSY,Southwest Airlines (WN),Southwest Airlines,1666,03:49,,,,,73W,,,"Direct",3484,3861,4547
+- -,LAX,OAK,Southwest Airlines (WN),Southwest Airlines,337,01:10,,,,,73W 733 73C,,,"Direct",3484,3453,4547
+- -,LAX,PHX,Southwest Airlines (WN),Southwest Airlines,369,01:14,,,,,73C 73W 733 73H,,,"Direct",3484,3462,4547
+- -,LAX,RNO,Southwest Airlines (WN),Southwest Airlines,391,01:16,,,,,73W 73H,,,"Direct",3484,3807,4547
+- -,LAX,SAT,Southwest Airlines (WN),Southwest Airlines,1207,02:54,,,,,73W,,,"Direct",3484,3621,4547
+- -,LAX,SFO,Southwest Airlines (WN),Southwest Airlines,337,01:10,,,,,73W 73C 733,,,"Direct",3484,3469,4547
+- -,LAX,SJC,Southwest Airlines (WN),Southwest Airlines,307,01:06,,,,,73W 73C 733 738,,,"Direct",3484,3748,4547
+- -,LAX,SLC,Southwest Airlines (WN),Southwest Airlines,589,01:40,,,,,73C 73H 73W 733,,,"Direct",3484,3536,4547
+- -,LAX,SMF,Southwest Airlines (WN),Southwest Airlines,372,01:14,,,,,733 73C 73W,,,"Direct",3484,3817,4547
+- -,LAX,STL,Southwest Airlines (WN),Southwest Airlines,1587,03:40,,,,,73W 733,,,"Direct",3484,3678,4547
+- -,LAX,TUS,Southwest Airlines (WN),Southwest Airlines,450,01:24,,,,,73W 73C 733 73H,,,"Direct",3484,3636,4547
+- -,LBB,AUS,Southwest Airlines (WN),Southwest Airlines,341,01:10,,,,,735,,,"Direct",3829,3673,4547
+- -,LBB,DAL,Southwest Airlines (WN),Southwest Airlines,292,01:05,,,,,735 73W 73C,,,"Direct",3829,3502,4547
+- -,LBB,LAS,Southwest Airlines (WN),Southwest Airlines,772,02:02,,,,,73W 73C,,,"Direct",3829,3877,4547
+- -,LGA,ATL,Southwest Airlines (WN),Southwest Airlines,760,02:01,,,,,73W,,,"Direct",3697,3682,4547
+- -,LGA,BNA,Southwest Airlines (WN),Southwest Airlines,762,02:01,,,,,73W,,,"Direct",3697,3690,4547
+- -,LGA,CAK,Southwest Airlines (WN),Southwest Airlines,395,01:17,,,,,73W,,,"Direct",3697,4112,4547
+- -,LGA,DEN,Southwest Airlines (WN),Southwest Airlines,1614,03:43,,,,,73W,,,"Direct",3697,3751,4547
+- -,LGA,HOU,Southwest Airlines (WN),Southwest Airlines,1425,03:21,,,,,73W,,,"Direct",3697,3566,4547
+- -,LGA,MDW,Southwest Airlines (WN),Southwest Airlines,722,01:56,,,,,73H 73W,,,"Direct",3697,3747,4547
+- -,LGA,MKE,Southwest Airlines (WN),Southwest Airlines,735,01:58,,,,,73W,,,"Direct",3697,3717,4547
+- -,LGA,STL,Southwest Airlines (WN),Southwest Airlines,885,02:16,,,,,73W,,,"Direct",3697,3678,4547
+- -,LIT,BWI,Southwest Airlines (WN),Southwest Airlines,910,02:19,,,,,733 73W,,,"Direct",3660,3849,4547
+- -,LIT,DAL,Southwest Airlines (WN),Southwest Airlines,295,01:05,,,,,73W 735 73C,,,"Direct",3660,3502,4547
+- -,LIT,HOU,Southwest Airlines (WN),Southwest Airlines,393,01:17,,,,,735,,,"Direct",3660,3566,4547
+- -,LIT,LAS,Southwest Airlines (WN),Southwest Airlines,1290,03:04,,,,,73W,,,"Direct",3660,3877,4547
+- -,LIT,MDW,Southwest Airlines (WN),Southwest Airlines,544,01:35,,,,,73W,,,"Direct",3660,3747,4547
+- -,LIT,PHX,Southwest Airlines (WN),Southwest Airlines,1133,02:45,,,,,73W,,,"Direct",3660,3462,4547
+- -,MAF,DAL,Southwest Airlines (WN),Southwest Airlines,318,01:08,,,,,73W 735,,,"Direct",3652,3502,4547
+- -,MAF,HOU,Southwest Airlines (WN),Southwest Airlines,440,01:22,,,,,735 73W,,,"Direct",3652,3566,4547
+- -,MAF,LAS,Southwest Airlines (WN),Southwest Airlines,793,02:05,,,,,735 73W,,,"Direct",3652,3877,4547
+- -,MBJ,ATL,Southwest Airlines (WN),Southwest Airlines,1119,02:44,,,,,73G,,,"Codeshare",1780,3682,4547
+- -,MCI,ABQ,Southwest Airlines (WN),Southwest Airlines,716,01:55,,,,,733 73W,,,"Direct",3458,4019,4547
+- -,MCI,ATL,Southwest Airlines (WN),Southwest Airlines,691,01:52,,,,,733 73W,,,"Direct",3458,3682,4547
+- -,MCI,BNA,Southwest Airlines (WN),Southwest Airlines,490,01:28,,,,,73W 73C,,,"Direct",3458,3690,4547
+- -,MCI,BOS,Southwest Airlines (WN),Southwest Airlines,1252,03:00,,,,,73W 733,,,"Direct",3458,3448,4547
+- -,MCI,BWI,Southwest Airlines (WN),Southwest Airlines,963,02:25,,,,,73W 733,,,"Direct",3458,3849,4547
+- -,MCI,DAL,Southwest Airlines (WN),Southwest Airlines,461,01:25,,,,,73W 733,,,"Direct",3458,3502,4547
+- -,MCI,DCA,Southwest Airlines (WN),Southwest Airlines,946,02:23,,,,,73W,,,"Direct",3458,3520,4547
+- -,MCI,DEN,Southwest Airlines (WN),Southwest Airlines,531,01:33,,,,,73W 738 73C 733,,,"Direct",3458,3751,4547
+- -,MCI,FLL,Southwest Airlines (WN),Southwest Airlines,1241,02:58,,,,,73W 733,,,"Direct",3458,3533,4547
+- -,MCI,HOU,Southwest Airlines (WN),Southwest Airlines,667,01:50,,,,,73W,,,"Direct",3458,3566,4547
+- -,MCI,IND,Southwest Airlines (WN),Southwest Airlines,449,01:23,,,,,73C 733 73W,,,"Direct",3458,3585,4547
+- -,MCI,LAS,Southwest Airlines (WN),Southwest Airlines,1136,02:46,,,,,738 73W 73C 73H,,,"Direct",3458,3877,4547
+- -,MCI,LAX,Southwest Airlines (WN),Southwest Airlines,1359,03:13,,,,,73W 73C 73H 733,,,"Direct",3458,3484,4547
+- -,MCI,MCO,Southwest Airlines (WN),Southwest Airlines,1071,02:38,,,,,73W 73C 738,,,"Direct",3458,3878,4547
+- -,MCI,MDW,Southwest Airlines (WN),Southwest Airlines,403,01:18,,,,,73W 73H,,,"Direct",3458,3747,4547
+- -,MCI,MKE,Southwest Airlines (WN),Southwest Airlines,434,01:22,,,,,73W,,,"Direct",3458,3717,4547
+- -,MCI,MSP,Southwest Airlines (WN),Southwest Airlines,393,01:17,,,,,73W 73C,,,"Direct",3458,3858,4547
+- -,MCI,MSY,Southwest Airlines (WN),Southwest Airlines,690,01:52,,,,,73W,,,"Direct",3458,3861,4547
+- -,MCI,OAK,Southwest Airlines (WN),Southwest Airlines,1484,03:28,,,,,73W,,,"Direct",3458,3453,4547
+- -,MCI,PDX,Southwest Airlines (WN),Southwest Airlines,1477,03:27,,,,,733,,,"Direct",3458,3720,4547
+- -,MCI,PHX,Southwest Airlines (WN),Southwest Airlines,1041,02:34,,,,,73C 73W 738 733,,,"Direct",3458,3462,4547
+- -,MCI,SAN,Southwest Airlines (WN),Southwest Airlines,1330,03:09,,,,,733 73C,,,"Direct",3458,3731,4547
+- -,MCI,STL,Southwest Airlines (WN),Southwest Airlines,236,00:58,,,,,73C 73W,,,"Direct",3458,3678,4547
+- -,MCI,TPA,Southwest Airlines (WN),Southwest Airlines,1047,02:35,,,,,73W,,,"Direct",3458,3646,4547
+- -,MCO,ALB,Southwest Airlines (WN),Southwest Airlines,1073,02:38,,,,,73W,,,"Direct",3878,3864,4547
+- -,MCO,ATL,Southwest Airlines (WN),Southwest Airlines,404,01:18,,,,,73W,,,"Direct",3878,3682,4547
+- -,MCO,AUS,Southwest Airlines (WN),Southwest Airlines,991,02:28,,,,,733 73W,,,"Direct",3878,3673,4547
+- -,MCO,BDL,Southwest Airlines (WN),Southwest Airlines,1050,02:36,,,,,73C 73W 738 73H,,,"Direct",3878,3825,4547
+- -,MCO,BHM,Southwest Airlines (WN),Southwest Airlines,478,01:27,,,,,73W,,,"Direct",3878,3811,4547
+- -,MCO,BNA,Southwest Airlines (WN),Southwest Airlines,616,01:43,,,,,73W 73C,,,"Direct",3878,3690,4547
+- -,MCO,BOS,Southwest Airlines (WN),Southwest Airlines,1121,02:44,,,,,73W,,,"1 stops",3878,3448,4547
+- -,MCO,BUF,Southwest Airlines (WN),Southwest Airlines,1012,02:31,,,,,73W 733 73C,,,"Direct",3878,3820,4547
+- -,MCO,BWI,Southwest Airlines (WN),Southwest Airlines,788,02:04,,,,,73W 733 73C 738,,,"Direct",3878,3849,4547
+- -,MCO,CAK,Southwest Airlines (WN),Southwest Airlines,862,02:13,,,,,73C 73W,,,"1 stops",3878,4112,4547
+- -,MCO,CLT,Southwest Airlines (WN),Southwest Airlines,468,01:26,,,,,73W,,,"Direct",3878,3876,4547
+- -,MCO,CMH,Southwest Airlines (WN),Southwest Airlines,803,02:06,,,,,73C 73W 733 73H,,,"Direct",3878,3759,4547
+- -,MCO,DAY,Southwest Airlines (WN),Southwest Airlines,809,02:07,,,,,73W,,,"Direct",3878,3627,4547
+- -,MCO,DEN,Southwest Airlines (WN),Southwest Airlines,1544,03:35,,,,,73W 73H,,,"Direct",3878,3751,4547
+- -,MCO,EYW,Southwest Airlines (WN),Southwest Airlines,268,01:02,,,,,73W,,,"Direct",3878,3875,4547
+- -,MCO,FNT,Southwest Airlines (WN),Southwest Airlines,1012,02:31,,,,,73W,,,"Direct",3878,4089,4547
+- -,MCO,GRR,Southwest Airlines (WN),Southwest Airlines,1025,02:33,,,,,73W 73C,,,"Direct",3878,3685,4547
+- -,MCO,HOU,Southwest Airlines (WN),Southwest Airlines,847,02:11,,,,,73W 733 73H,,,"Direct",3878,3566,4547
+- -,MCO,IND,Southwest Airlines (WN),Southwest Airlines,829,02:09,,,,,73W 73C 733,,,"Direct",3878,3585,4547
+- -,MCO,ISP,Southwest Airlines (WN),Southwest Airlines,971,02:26,,,,,73W,,,"Direct",3878,3857,4547
+- -,MCO,JAN,Southwest Airlines (WN),Southwest Airlines,586,01:40,,,,,73W,,,"Direct",3878,3580,4547
+- -,MCO,LAS,Southwest Airlines (WN),Southwest Airlines,2034,04:34,,,,,738 73H,,,"Direct",3878,3877,4547
+- -,MCO,MCI,Southwest Airlines (WN),Southwest Airlines,1071,02:38,,,,,733 73W 73C,,,"Direct",3878,3458,4547
+- -,MCO,MDW,Southwest Airlines (WN),Southwest Airlines,990,02:28,,,,,73W 738 73H 733,,,"Direct",3878,3747,4547
+- -,MCO,MEM,Southwest Airlines (WN),Southwest Airlines,683,01:51,,,,,73W,,,"Direct",3878,3473,4547
+- -,MCO,MHT,Southwest Airlines (WN),Southwest Airlines,1142,02:47,,,,,73W 738,,,"Direct",3878,4011,4547
+- -,MCO,MKE,Southwest Airlines (WN),Southwest Airlines,1067,02:38,,,,,73W,,,"Direct",3878,3717,4547
+- -,MCO,MSP,Southwest Airlines (WN),Southwest Airlines,1310,03:07,,,,,73W 73C,,,"Direct",3878,3858,4547
+- -,MCO,MSY,Southwest Airlines (WN),Southwest Airlines,549,01:35,,,,,73W 73C 733,,,"Direct",3878,3861,4547
+- -,MCO,ORF,Southwest Airlines (WN),Southwest Airlines,655,01:48,,,,,73W,,,"Direct",3878,3611,4547
+- -,MCO,PHL,Southwest Airlines (WN),Southwest Airlines,862,02:13,,,,,73W 733,,,"Direct",3878,3752,4547
+- -,MCO,PHX,Southwest Airlines (WN),Southwest Airlines,1844,04:11,,,,,73W 738,,,"Direct",3878,3462,4547
+- -,MCO,PIT,Southwest Airlines (WN),Southwest Airlines,835,02:10,,,,,73W,,,"Direct",3878,3570,4547
+- -,MCO,PVD,Southwest Airlines (WN),Southwest Airlines,1073,02:38,,,,,73C 733 73W 73H,,,"Direct",3878,3641,4547
+- -,MCO,RDU,Southwest Airlines (WN),Southwest Airlines,534,01:34,,,,,73W 733 73C,,,"Direct",3878,3626,4547
+- -,MCO,RIC,Southwest Airlines (WN),Southwest Airlines,667,01:50,,,,,733 73W 73C,,,"Direct",3878,3608,4547
+- -,MCO,ROC,Southwest Airlines (WN),Southwest Airlines,1034,02:34,,,,,73W,,,"Direct",3878,3622,4547
+- -,MCO,SAT,Southwest Airlines (WN),Southwest Airlines,1038,02:34,,,,,73H 73W,,,"Direct",3878,3621,4547
+- -,MCO,SDF,Southwest Airlines (WN),Southwest Airlines,719,01:56,,,,,73W,,,"Direct",3878,4014,4547
+- -,MCO,SJU,Southwest Airlines (WN),Southwest Airlines,1188,02:52,,,,,73H 73W 738,,,"Direct",3878,2890,4547
+- -,MCO,STL,Southwest Airlines (WN),Southwest Airlines,881,02:15,,,,,73W 73C,,,"Direct",3878,3678,4547
+- -,MDW,ABQ,Southwest Airlines (WN),Southwest Airlines,1118,02:44,,,,,73W,,,"Direct",3747,4019,4547
+- -,MDW,ALB,Southwest Airlines (WN),Southwest Airlines,715,01:55,,,,,73H 73W,,,"Direct",3747,3864,4547
+- -,MDW,ATL,Southwest Airlines (WN),Southwest Airlines,591,01:40,,,,,73W,,,"Direct",3747,3682,4547
+- -,MDW,AUS,Southwest Airlines (WN),Southwest Airlines,971,02:26,,,,,73W,,,"Direct",3747,3673,4547
+- -,MDW,BDL,Southwest Airlines (WN),Southwest Airlines,774,02:02,,,,,73W,,,"Direct",3747,3825,4547
+- -,MDW,BHM,Southwest Airlines (WN),Southwest Airlines,570,01:38,,,,,73W,,,"Direct",3747,3811,4547
+- -,MDW,BKG,Southwest Airlines (WN),Southwest Airlines,465,01:25,,,,,73W,,,"Direct",3747,6962,4547
+- -,MDW,BNA,Southwest Airlines (WN),Southwest Airlines,395,01:17,,,,,73W,,,"Direct",3747,3690,4547
+- -,MDW,BOS,Southwest Airlines (WN),Southwest Airlines,857,02:12,,,,,73W,,,"Direct",3747,3448,4547
+- -,MDW,BUF,Southwest Airlines (WN),Southwest Airlines,466,01:25,,,,,73W 738 73H,,,"Direct",3747,3820,4547
+- -,MDW,BWI,Southwest Airlines (WN),Southwest Airlines,608,01:42,,,,,73W 73H 738,,,"Direct",3747,3849,4547
+- -,MDW,CHS,Southwest Airlines (WN),Southwest Airlines,744,01:59,,,,,73W,,,"Direct",3747,3806,4547
+- -,MDW,CLE,Southwest Airlines (WN),Southwest Airlines,305,01:06,,,,,73W 73C,,,"Direct",3747,3486,4547
+- -,MDW,CLT,Southwest Airlines (WN),Southwest Airlines,583,01:39,,,,,73W,,,"Direct",3747,3876,4547
+- -,MDW,CMH,Southwest Airlines (WN),Southwest Airlines,282,01:03,,,,,733 73W 73C 73H,,,"Direct",3747,3759,4547
+- -,MDW,DEN,Southwest Airlines (WN),Southwest Airlines,892,02:17,,,,,73W 73H,,,"Direct",3747,3751,4547
+- -,MDW,DSM,Southwest Airlines (WN),Southwest Airlines,305,01:06,,,,,73W,,,"Direct",3747,3729,4547
+- -,MDW,DTW,Southwest Airlines (WN),Southwest Airlines,227,00:57,,,,,73W 73H,,,"Direct",3747,3645,4547
+- -,MDW,EWR,Southwest Airlines (WN),Southwest Airlines,708,01:54,,,,,73W,,,"Direct",3747,3494,4547
+- -,MDW,FLL,Southwest Airlines (WN),Southwest Airlines,1167,02:50,,,,,73W 738,,,"Direct",3747,3533,4547
+- -,MDW,GSP,Southwest Airlines (WN),Southwest Airlines,562,01:37,,,,,73W,,,"Direct",3747,4034,4547
+- -,MDW,HOU,Southwest Airlines (WN),Southwest Airlines,937,02:22,,,,,73W 73H,,,"Direct",3747,3566,4547
+- -,MDW,IAD,Southwest Airlines (WN),Southwest Airlines,575,01:39,,,,,73W 73H,,,"Direct",3747,3714,4547
+- -,MDW,ICT,Southwest Airlines (WN),Southwest Airlines,587,01:40,,,,,73W,,,"Direct",3747,3457,4547
+- -,MDW,JAN,Southwest Airlines (WN),Southwest Airlines,666,01:49,,,,,73W,,,"Direct",3747,3580,4547
+- -,MDW,JAX,Southwest Airlines (WN),Southwest Airlines,849,02:11,,,,,73W,,,"Direct",3747,3712,4547
+- -,MDW,LAS,Southwest Airlines (WN),Southwest Airlines,1516,03:31,,,,,73W 73H 738,,,"Direct",3747,3877,4547
+- -,MDW,LAX,Southwest Airlines (WN),Southwest Airlines,1746,03:59,,,,,73W 73H,,,"Direct",3747,3484,4547
+- -,MDW,LGA,Southwest Airlines (WN),Southwest Airlines,722,01:56,,,,,73W 73H,,,"Direct",3747,3697,4547
+- -,MDW,LIT,Southwest Airlines (WN),Southwest Airlines,544,01:35,,,,,73W,,,"Direct",3747,3660,4547
+- -,MDW,MCI,Southwest Airlines (WN),Southwest Airlines,403,01:18,,,,,73W 73H,,,"Direct",3747,3458,4547
+- -,MDW,MCO,Southwest Airlines (WN),Southwest Airlines,990,02:28,,,,,73H 73W,,,"Direct",3747,3878,4547
+- -,MDW,MEM,Southwest Airlines (WN),Southwest Airlines,480,01:27,,,,,73W,,,"Direct",3747,3473,4547
+- -,MDW,MHT,Southwest Airlines (WN),Southwest Airlines,835,02:10,,,,,73W 73H,,,"Direct",3747,4011,4547
+- -,MDW,MSP,Southwest Airlines (WN),Southwest Airlines,347,01:11,,,,,73W 73H,,,"Direct",3747,3858,4547
+- -,MDW,MSY,Southwest Airlines (WN),Southwest Airlines,826,02:09,,,,,73H 73W ,,,"Direct",3747,3861,4547
+- -,MDW,OAK,Southwest Airlines (WN),Southwest Airlines,1838,04:10,,,,,73W,,,"Direct",3747,3453,4547
+- -,MDW,OKC,Southwest Airlines (WN),Southwest Airlines,690,01:52,,,,,73W,,,"Direct",3747,3863,4547
+- -,MDW,OMA,Southwest Airlines (WN),Southwest Airlines,421,01:20,,,,,73W,,,"Direct",3747,3454,4547
+- -,MDW,ONT,Southwest Airlines (WN),Southwest Airlines,1701,03:54,,,,,73W,,,"Direct",3747,3734,4547
+- -,MDW,ORF,Southwest Airlines (WN),Southwest Airlines,702,01:54,,,,,73W,,,"Direct",3747,3611,4547
+- -,MDW,PDX,Southwest Airlines (WN),Southwest Airlines,1745,03:59,,,,,73W 73H,,,"Direct",3747,3720,4547
+- -,MDW,PHL,Southwest Airlines (WN),Southwest Airlines,666,01:49,,,,,73W,,,"Direct",3747,3752,4547
+- -,MDW,PHX,Southwest Airlines (WN),Southwest Airlines,1440,03:22,,,,,73W 73H 738,,,"Direct",3747,3462,4547
+- -,MDW,PIT,Southwest Airlines (WN),Southwest Airlines,401,01:18,,,,,73W 73H,,,"Direct",3747,3570,4547
+- -,MDW,PVD,Southwest Airlines (WN),Southwest Airlines,840,02:10,,,,,73W 738,,,"Direct",3747,3641,4547
+- -,MDW,RDU,Southwest Airlines (WN),Southwest Airlines,631,01:45,,,,,73W 73H,,,"Direct",3747,3626,4547
+- -,MDW,RNO,Southwest Airlines (WN),Southwest Airlines,1675,03:51,,,,,73W,,,"Direct",3747,3807,4547
+- -,MDW,ROC,Southwest Airlines (WN),Southwest Airlines,521,01:32,,,,,73W,,,"Direct",3747,3622,4547
+- -,MDW,RSW,Southwest Airlines (WN),Southwest Airlines,1106,02:42,,,,,73W 73H,,,"Direct",3747,3793,4547
+- -,MDW,SAN,Southwest Airlines (WN),Southwest Airlines,1723,03:56,,,,,738 73W 73H,,,"Direct",3747,3731,4547
+- -,MDW,SAT,Southwest Airlines (WN),Southwest Airlines,1036,02:34,,,,,73W,,,"Direct",3747,3621,4547
+- -,MDW,SDF,Southwest Airlines (WN),Southwest Airlines,271,01:02,,,,,73C 73W 733,,,"Direct",3747,4014,4547
+- -,MDW,SEA,Southwest Airlines (WN),Southwest Airlines,1727,03:57,,,,,73H 73W,,,"Direct",3747,3577,4547
+- -,MDW,SFO,Southwest Airlines (WN),Southwest Airlines,1849,04:11,,,,,73W,,,"Direct",3747,3469,4547
+- -,MDW,SJC,Southwest Airlines (WN),Southwest Airlines,1832,04:09,,,,,73W,,,"Direct",3747,3748,4547
+- -,MDW,SLC,Southwest Airlines (WN),Southwest Airlines,1254,03:00,,,,,73W 73H,,,"Direct",3747,3536,4547
+- -,MDW,SMF,Southwest Airlines (WN),Southwest Airlines,1784,04:04,,,,,73W 73H,,,"Direct",3747,3817,4547
+- -,MDW,STL,Southwest Airlines (WN),Southwest Airlines,250,01:00,,,,,73W 738 73C,,,"Direct",3747,3678,4547
+- -,MDW,TPA,Southwest Airlines (WN),Southwest Airlines,997,02:29,,,,,73W 738 73H,,,"Direct",3747,3646,4547
+- -,MDW,TUL,Southwest Airlines (WN),Southwest Airlines,582,01:39,,,,,73W,,,"Direct",3747,3855,4547
+- -,MDW,TUS,Southwest Airlines (WN),Southwest Airlines,1436,03:22,,,,,73W 73H,,,"Direct",3747,3636,4547
+- -,MEM,BWI,Southwest Airlines (WN),Southwest Airlines,785,02:04,,,,,73C 73W,,,"Direct",3473,3849,4547
+- -,MEM,HOU,Southwest Airlines (WN),Southwest Airlines,484,01:28,,,,,733,,,"Direct",3473,3566,4547
+- -,MEM,MCO,Southwest Airlines (WN),Southwest Airlines,683,01:51,,,,,73C 73W,,,"Direct",3473,3878,4547
+- -,MEM,MDW,Southwest Airlines (WN),Southwest Airlines,480,01:27,,,,,73W,,,"Direct",3473,3747,4547
+- -,MEM,TPA,Southwest Airlines (WN),Southwest Airlines,655,01:48,,,,,73W,,,"Direct",3473,3646,4547
+- -,MHT,BWI,Southwest Airlines (WN),Southwest Airlines,376,01:15,,,,,73W 73H 733 73C 738,,,"Direct",4011,3849,4547
+- -,MHT,MCO,Southwest Airlines (WN),Southwest Airlines,1142,02:47,,,,,73W 73H 738,,,"Direct",4011,3878,4547
+- -,MHT,MDW,Southwest Airlines (WN),Southwest Airlines,835,02:10,,,,,73H 73W,,,"Direct",4011,3747,4547
+- -,MHT,TPA,Southwest Airlines (WN),Southwest Airlines,1204,02:54,,,,,73W 73H,,,"Direct",4011,3646,4547
+- -,MKE,ATL,Southwest Airlines (WN),Southwest Airlines,669,01:50,,,,,717 73G,,,"Codeshare",3717,3682,4547
+- -,MKE,BOS,Southwest Airlines (WN),Southwest Airlines,857,02:12,,,,,73W 733,,,"Direct",3717,3448,4547
+- -,MKE,BWI,Southwest Airlines (WN),Southwest Airlines,639,01:46,,,,,733 73W 73C,,,"Direct",3717,3849,4547
+- -,MKE,DCA,Southwest Airlines (WN),Southwest Airlines,632,01:45,,,,,717,,,"Codeshare",3717,3520,4547
+- -,MKE,DEN,Southwest Airlines (WN),Southwest Airlines,893,02:17,,,,,73W,,,"Direct",3717,3751,4547
+- -,MKE,FLL,Southwest Airlines (WN),Southwest Airlines,1244,02:59,,,,,73W,,,"Direct",3717,3533,4547
+- -,MKE,LAS,Southwest Airlines (WN),Southwest Airlines,1519,03:32,,,,,73H 73W,,,"Direct",3717,3877,4547
+- -,MKE,LAX,Southwest Airlines (WN),Southwest Airlines,1751,04:00,,,,,73W,,,"Direct",3717,3484,4547
+- -,MKE,LGA,Southwest Airlines (WN),Southwest Airlines,735,01:58,,,,,73W,,,"Direct",3717,3697,4547
+- -,MKE,MCI,Southwest Airlines (WN),Southwest Airlines,434,01:22,,,,,733 73W,,,"Direct",3717,3458,4547
+- -,MKE,MCO,Southwest Airlines (WN),Southwest Airlines,1067,02:38,,,,,73W,,,"Direct",3717,3878,4547
+- -,MKE,MSP,Southwest Airlines (WN),Southwest Airlines,296,01:05,,,,,73W 73C,,,"Direct",3717,3858,4547
+- -,MKE,MSY,Southwest Airlines (WN),Southwest Airlines,903,02:18,,,,,73C 73W,,,"Direct",3717,3861,4547
+- -,MKE,PHX,Southwest Airlines (WN),Southwest Airlines,1457,03:24,,,,,73W,,,"Direct",3717,3462,4547
+- -,MKE,RSW,Southwest Airlines (WN),Southwest Airlines,1184,02:52,,,,,73W,,,"Direct",3717,3793,4547
+- -,MKE,SEA,Southwest Airlines (WN),Southwest Airlines,1688,03:52,,,,,73W,,,"Direct",3717,3577,4547
+- -,MKE,SFO,Southwest Airlines (WN),Southwest Airlines,1839,04:10,,,,,73W,,,"Direct",3717,3469,4547
+- -,MKE,STL,Southwest Airlines (WN),Southwest Airlines,317,01:08,,,,,73W 73C,,,"Direct",3717,3678,4547
+- -,MKE,TPA,Southwest Airlines (WN),Southwest Airlines,1076,02:39,,,,,73W,,,"Direct",3717,3646,4547
+- -,MSP,ATL,Southwest Airlines (WN),Southwest Airlines,906,02:18,,,,,717,,,"Codeshare",3858,3682,4547
+- -,MSP,DEN,Southwest Airlines (WN),Southwest Airlines,678,01:51,,,,,73W 73H 73C,,,"Direct",3858,3751,4547
+- -,MSP,MCI,Southwest Airlines (WN),Southwest Airlines,393,01:17,,,,,73C 73W,,,"Direct",3858,3458,4547
+- -,MSP,MCO,Southwest Airlines (WN),Southwest Airlines,1310,03:07,,,,,73W,,,"Direct",3858,3878,4547
+- -,MSP,MDW,Southwest Airlines (WN),Southwest Airlines,347,01:11,,,,,73W 73H,,,"Direct",3858,3747,4547
+- -,MSP,MKE,Southwest Airlines (WN),Southwest Airlines,296,01:05,,,,,73W 73C,,,"Direct",3858,3717,4547
+- -,MSP,PHX,Southwest Airlines (WN),Southwest Airlines,1274,03:02,,,,,73C 73W,,,"Direct",3858,3462,4547
+- -,MSP,STL,Southwest Airlines (WN),Southwest Airlines,448,01:23,,,,,73W 733,,,"Direct",3858,3678,4547
+- -,MSY,ATL,Southwest Airlines (WN),Southwest Airlines,424,01:20,,,,,73W,,,"Direct",3861,3682,4547
+- -,MSY,AUS,Southwest Airlines (WN),Southwest Airlines,442,01:23,,,,,73C 735,,,"Direct",3861,3673,4547
+- -,MSY,BNA,Southwest Airlines (WN),Southwest Airlines,471,01:26,,,,,735 73W 733,,,"Direct",3861,3690,4547
+- -,MSY,BWI,Southwest Airlines (WN),Southwest Airlines,997,02:29,,,,,73W,,,"Direct",3861,3849,4547
+- -,MSY,DAL,Southwest Airlines (WN),Southwest Airlines,435,01:22,,,,,733 73W 73C 735,,,"Direct",3861,3502,4547
+- -,MSY,DEN,Southwest Airlines (WN),Southwest Airlines,1060,02:37,,,,,73W ,,,"Direct",3861,3751,4547
+- -,MSY,EWR,Southwest Airlines (WN),Southwest Airlines,1165,02:49,,,,,73W,,,"Direct",3861,3494,4547
+- -,MSY,EYW,Southwest Airlines (WN),Southwest Airlines,642,01:47,,,,,73W,,,"Direct",3861,3875,4547
+- -,MSY,FLL,Southwest Airlines (WN),Southwest Airlines,672,01:50,,,,,73W 73C ,,,"Direct",3861,3533,4547
+- -,MSY,HOU,Southwest Airlines (WN),Southwest Airlines,301,01:06,,,,,73W 735 73C ,,,"Direct",3861,3566,4547
+- -,MSY,LAS,Southwest Airlines (WN),Southwest Airlines,1496,03:29,,,,,73W 73H,,,"Direct",3861,3877,4547
+- -,MSY,LAX,Southwest Airlines (WN),Southwest Airlines,1666,03:49,,,,,73H 73W,,,"Direct",3861,3484,4547
+- -,MSY,MCI,Southwest Airlines (WN),Southwest Airlines,690,01:52,,,,,73W,,,"Direct",3861,3458,4547
+- -,MSY,MCO,Southwest Airlines (WN),Southwest Airlines,549,01:35,,,,,733 73W 73C,,,"Direct",3861,3878,4547
+- -,MSY,MDW,Southwest Airlines (WN),Southwest Airlines,826,02:09,,,,,73W 73H,,,"Direct",3861,3747,4547
+- -,MSY,MKE,Southwest Airlines (WN),Southwest Airlines,903,02:18,,,,,73W,,,"Direct",3861,3717,4547
+- -,MSY,PHX,Southwest Airlines (WN),Southwest Airlines,1297,03:05,,,,,73H 73W,,,"Direct",3861,3462,4547
+- -,MSY,SAN,Southwest Airlines (WN),Southwest Airlines,1594,03:41,,,,,73W,,,"Direct",3861,3731,4547
+- -,MSY,STL,Southwest Airlines (WN),Southwest Airlines,604,01:42,,,,,73W 73C,,,"Direct",3861,3678,4547
+- -,MSY,TPA,Southwest Airlines (WN),Southwest Airlines,486,01:28,,,,,73C 73W 733,,,"Direct",3861,3646,4547
+- -,NAS,ATL,Southwest Airlines (WN),Southwest Airlines,726,01:57,,,,,73G,,,"Codeshare",1953,3682,4547
+- -,OAK,ABQ,Southwest Airlines (WN),Southwest Airlines,886,02:16,,,,,73W,,,"Direct",3453,4019,4547
+- -,OAK,AUS,Southwest Airlines (WN),Southwest Airlines,1493,03:29,,,,,73W,,,"Direct",3453,3673,4547
+- -,OAK,BOI,Southwest Airlines (WN),Southwest Airlines,511,01:31,,,,,73W,,,"Direct",3453,3495,4547
+- -,OAK,BUR,Southwest Airlines (WN),Southwest Airlines,325,01:09,,,,,73W,,,"Direct",3453,3644,4547
+- -,OAK,DEN,Southwest Airlines (WN),Southwest Airlines,954,02:24,,,,,73W,,,"Direct",3453,3751,4547
+- -,OAK,GEG,Southwest Airlines (WN),Southwest Airlines,723,01:56,,,,,73W,,,"Direct",3453,3467,4547
+- -,OAK,HOU,Southwest Airlines (WN),Southwest Airlines,1638,03:46,,,,,73W,,,"Direct",3453,3566,4547
+- -,OAK,LAS,Southwest Airlines (WN),Southwest Airlines,406,01:18,,,,,73W 73H 73C 738 733,,,"Direct",3453,3877,4547
+- -,OAK,LAX,Southwest Airlines (WN),Southwest Airlines,337,01:10,,,,,73W 73C 738 733 73H,,,"Direct",3453,3484,4547
+- -,OAK,MCI,Southwest Airlines (WN),Southwest Airlines,1484,03:28,,,,,73W,,,"Direct",3453,3458,4547
+- -,OAK,MDW,Southwest Airlines (WN),Southwest Airlines,1838,04:10,,,,,73H 73W 738,,,"Direct",3453,3747,4547
+- -,OAK,ONT,Southwest Airlines (WN),Southwest Airlines,361,01:13,,,,,733 73C 73W,,,"Direct",3453,3734,4547
+- -,OAK,PDX,Southwest Airlines (WN),Southwest Airlines,543,01:35,,,,,733 73W 73C,,,"Direct",3453,3720,4547
+- -,OAK,PHX,Southwest Airlines (WN),Southwest Airlines,644,01:47,,,,,73W 73C 733 73H,,,"Direct",3453,3462,4547
+- -,OAK,SAN,Southwest Airlines (WN),Southwest Airlines,446,01:23,,,,,73C 73W 733 73H,,,"Direct",3453,3731,4547
+- -,OAK,SEA,Southwest Airlines (WN),Southwest Airlines,671,01:50,,,,,733 73C 73W,,,"Direct",3453,3577,4547
+- -,OAK,SLC,Southwest Airlines (WN),Southwest Airlines,586,01:40,,,,,73W 73C,,,"Direct",3453,3536,4547
+- -,OAK,SNA,Southwest Airlines (WN),Southwest Airlines,370,01:14,,,,,73W,,,"Direct",3453,3867,4547
+- -,OKC,ATL,Southwest Airlines (WN),Southwest Airlines,758,02:00,,,,,717,,,"Codeshare",3863,3682,4547
+- -,OKC,BWI,Southwest Airlines (WN),Southwest Airlines,1176,02:51,,,,,73W,,,"Direct",3863,3849,4547
+- -,OKC,DAL,Southwest Airlines (WN),Southwest Airlines,180,00:51,,,,,73W 73C,,,"Direct",3863,3502,4547
+- -,OKC,DEN,Southwest Airlines (WN),Southwest Airlines,494,01:29,,,,,73W 73C,,,"Direct",3863,3751,4547
+- -,OKC,HOU,Southwest Airlines (WN),Southwest Airlines,419,01:20,,,,,733 73W,,,"Direct",3863,3566,4547
+- -,OKC,LAS,Southwest Airlines (WN),Southwest Airlines,983,02:27,,,,,73C 73W,,,"Direct",3863,3877,4547
+- -,OKC,MDW,Southwest Airlines (WN),Southwest Airlines,690,01:52,,,,,73W 73C,,,"Direct",3863,3747,4547
+- -,OKC,PHX,Southwest Airlines (WN),Southwest Airlines,831,02:09,,,,,73W,,,"Direct",3863,3462,4547
+- -,OKC,STL,Southwest Airlines (WN),Southwest Airlines,460,01:25,,,,,73C 73W,,,"Direct",3863,3678,4547
+- -,OMA,DEN,Southwest Airlines (WN),Southwest Airlines,470,01:26,,,,,73W 73C,,,"Direct",3454,3751,4547
+- -,OMA,LAS,Southwest Airlines (WN),Southwest Airlines,1096,02:41,,,,,73W,,,"Direct",3454,3877,4547
+- -,OMA,MDW,Southwest Airlines (WN),Southwest Airlines,421,01:20,,,,,73W,,,"Direct",3454,3747,4547
+- -,OMA,PHX,Southwest Airlines (WN),Southwest Airlines,1035,02:34,,,,,733 73C 73W,,,"Direct",3454,3462,4547
+- -,OMA,STL,Southwest Airlines (WN),Southwest Airlines,341,01:10,,,,,73W 733,,,"Direct",3454,3678,4547
+- -,ONT,DEN,Southwest Airlines (WN),Southwest Airlines,817,02:08,,,,,73C 73W 73H,,,"Direct",3734,3751,4547
+- -,ONT,LAS,Southwest Airlines (WN),Southwest Airlines,196,00:53,,,,,73W 73C 73H 738,,,"Direct",3734,3877,4547
+- -,ONT,MDW,Southwest Airlines (WN),Southwest Airlines,1701,03:54,,,,,73W,,,"Direct",3734,3747,4547
+- -,ONT,OAK,Southwest Airlines (WN),Southwest Airlines,361,01:13,,,,,73W 73C 73H 733,,,"Direct",3734,3453,4547
+- -,ONT,PHX,Southwest Airlines (WN),Southwest Airlines,323,01:08,,,,,73H 73W 73C,,,"Direct",3734,3462,4547
+- -,ONT,SJC,Southwest Airlines (WN),Southwest Airlines,333,01:09,,,,,73W 733 73C,,,"Direct",3734,3748,4547
+- -,ONT,SMF,Southwest Airlines (WN),Southwest Airlines,389,01:16,,,,,73H 733 73C 73W,,,"Direct",3734,3817,4547
+- -,ORF,ATL,Southwest Airlines (WN),Southwest Airlines,515,01:31,,,,,717,,,"Codeshare",3611,3682,4547
+- -,ORF,BWI,Southwest Airlines (WN),Southwest Airlines,159,00:49,,,,,73W,,,"Direct",3611,3849,4547
+- -,ORF,MCO,Southwest Airlines (WN),Southwest Airlines,655,01:48,,,,,73C 73W,,,"Direct",3611,3878,4547
+- -,ORF,MDW,Southwest Airlines (WN),Southwest Airlines,702,01:54,,,,,73W,,,"Direct",3611,3747,4547
+- -,PBI,ATL,Southwest Airlines (WN),Southwest Airlines,545,01:35,,,,,73W 733,,,"Direct",3722,3682,4547
+- -,PBI,BWI,Southwest Airlines (WN),Southwest Airlines,885,02:16,,,,,73W 733,,,"Direct",3722,3849,4547
+- -,PBI,ISP,Southwest Airlines (WN),Southwest Airlines,1053,02:36,,,,,73W,,,"Direct",3722,3857,4547
+- -,PDX,ABQ,Southwest Airlines (WN),Southwest Airlines,1109,02:43,,,,,733 73C,,,"Direct",3720,4019,4547
+- -,PDX,DEN,Southwest Airlines (WN),Southwest Airlines,988,02:28,,,,,73W 73H,,,"Direct",3720,3751,4547
+- -,PDX,LAS,Southwest Airlines (WN),Southwest Airlines,762,02:01,,,,,73W 73H,,,"Direct",3720,3877,4547
+- -,PDX,MCI,Southwest Airlines (WN),Southwest Airlines,1477,03:27,,,,,733,,,"Direct",3720,3458,4547
+- -,PDX,MDW,Southwest Airlines (WN),Southwest Airlines,1745,03:59,,,,,73H 73W,,,"Direct",3720,3747,4547
+- -,PDX,OAK,Southwest Airlines (WN),Southwest Airlines,543,01:35,,,,,73W 73C 733,,,"Direct",3720,3453,4547
+- -,PDX,PHX,Southwest Airlines (WN),Southwest Airlines,1009,02:31,,,,,733 73W 73C,,,"Direct",3720,3462,4547
+- -,PDX,RNO,Southwest Airlines (WN),Southwest Airlines,444,01:23,,,,,73W,,,"Direct",3720,3807,4547
+- -,PDX,SJC,Southwest Airlines (WN),Southwest Airlines,569,01:38,,,,,73W 733,,,"Direct",3720,3748,4547
+- -,PDX,SLC,Southwest Airlines (WN),Southwest Airlines,628,01:45,,,,,73C 73W,,,"Direct",3720,3536,4547
+- -,PDX,SMF,Southwest Airlines (WN),Southwest Airlines,478,01:27,,,,,73W 733 73C,,,"Direct",3720,3817,4547
+- -,PHL,ATL,Southwest Airlines (WN),Southwest Airlines,665,01:49,,,,,717,,,"Codeshare",3752,3682,4547
+- -,PHL,BNA,Southwest Airlines (WN),Southwest Airlines,673,01:50,,,,,73W 73C,,,"Direct",3752,3690,4547
+- -,PHL,DEN,Southwest Airlines (WN),Southwest Airlines,1552,03:36,,,,,73W,,,"Direct",3752,3751,4547
+- -,PHL,FLL,Southwest Airlines (WN),Southwest Airlines,994,02:29,,,,,73W,,,"Direct",3752,3533,4547
+- -,PHL,LAS,Southwest Airlines (WN),Southwest Airlines,2170,04:50,,,,,73W,,,"Direct",3752,3877,4547
+- -,PHL,MCO,Southwest Airlines (WN),Southwest Airlines,862,02:13,,,,,73W 73C 733,,,"Direct",3752,3878,4547
+- -,PHL,MDW,Southwest Airlines (WN),Southwest Airlines,666,01:49,,,,,73H 73W,,,"Direct",3752,3747,4547
+- -,PHL,PHX,Southwest Airlines (WN),Southwest Airlines,2069,04:38,,,,,73W,,,"Direct",3752,3462,4547
+- -,PHL,RSW,Southwest Airlines (WN),Southwest Airlines,994,02:29,,,,,73C 733,,,"Direct",3752,3793,4547
+- -,PHL,STL,Southwest Airlines (WN),Southwest Airlines,811,02:07,,,,,73W 73C,,,"Direct",3752,3678,4547
+- -,PHL,TPA,Southwest Airlines (WN),Southwest Airlines,920,02:20,,,,,73W 733,,,"Direct",3752,3646,4547
+- -,PHX,ABQ,Southwest Airlines (WN),Southwest Airlines,327,01:09,,,,,73W 735 73C 733,,,"Direct",3462,4019,4547
+- -,PHX,ATL,Southwest Airlines (WN),Southwest Airlines,1583,03:39,,,,,73W,,,"Direct",3462,3682,4547
+- -,PHX,AUS,Southwest Airlines (WN),Southwest Airlines,869,02:14,,,,,73C 73W 733,,,"Direct",3462,3673,4547
+- -,PHX,BNA,Southwest Airlines (WN),Southwest Airlines,1444,03:23,,,,,73C 73W,,,"Direct",3462,3690,4547
+- -,PHX,BOI,Southwest Airlines (WN),Southwest Airlines,735,01:58,,,,,73W,,,"Direct",3462,3495,4547
+- -,PHX,BUF,Southwest Airlines (WN),Southwest Airlines,1906,04:18,,,,,73W,,,"Direct",3462,3820,4547
+- -,PHX,BUR,Southwest Airlines (WN),Southwest Airlines,367,01:14,,,,,73W,,,"Direct",3462,3644,4547
+- -,PHX,BWI,Southwest Airlines (WN),Southwest Airlines,1993,04:29,,,,,73W,,,"Direct",3462,3849,4547
+- -,PHX,CMH,Southwest Airlines (WN),Southwest Airlines,1666,03:49,,,,,73W,,,"Direct",3462,3759,4547
+- -,PHX,DEN,Southwest Airlines (WN),Southwest Airlines,601,01:42,,,,,73W 73H 73C 733,,,"Direct",3462,3751,4547
+- -,PHX,DTW,Southwest Airlines (WN),Southwest Airlines,1666,03:49,,,,,73W,,,"Direct",3462,3645,4547
+- -,PHX,ELP,Southwest Airlines (WN),Southwest Airlines,346,01:11,,,,,735 73W 73C,,,"Direct",3462,3559,4547
+- -,PHX,EWR,Southwest Airlines (WN),Southwest Airlines,2127,04:45,,,,,73W,,,"Direct",3462,3494,4547
+- -,PHX,FLL,Southwest Airlines (WN),Southwest Airlines,1967,04:26,,,,,73W,,,"Direct",3462,3533,4547
+- -,PHX,GEG,Southwest Airlines (WN),Southwest Airlines,1020,02:32,,,,,73W,,,"Direct",3462,3467,4547
+- -,PHX,HOU,Southwest Airlines (WN),Southwest Airlines,1017,02:32,,,,,73W 733 73H 73C,,,"Direct",3462,3566,4547
+- -,PHX,IND,Southwest Airlines (WN),Southwest Airlines,1484,03:28,,,,,73W 73C 733,,,"Direct",3462,3585,4547
+- -,PHX,LAS,Southwest Airlines (WN),Southwest Airlines,255,01:00,,,,,73W 73C 735,,,"Direct",3462,3877,4547
+- -,PHX,LAX,Southwest Airlines (WN),Southwest Airlines,369,01:14,,,,,73W 73C 733 738,,,"Direct",3462,3484,4547
+- -,PHX,LIT,Southwest Airlines (WN),Southwest Airlines,1133,02:45,,,,,73W,,,"Direct",3462,3660,4547
+- -,PHX,MCI,Southwest Airlines (WN),Southwest Airlines,1041,02:34,,,,,73W 733 738 73C,,,"Direct",3462,3458,4547
+- -,PHX,MCO,Southwest Airlines (WN),Southwest Airlines,1844,04:11,,,,,73W 73H,,,"Direct",3462,3878,4547
+- -,PHX,MDW,Southwest Airlines (WN),Southwest Airlines,1440,03:22,,,,,73W 73H 738,,,"Direct",3462,3747,4547
+- -,PHX,MKE,Southwest Airlines (WN),Southwest Airlines,1457,03:24,,,,,73W,,,"Direct",3462,3717,4547
+- -,PHX,MSP,Southwest Airlines (WN),Southwest Airlines,1274,03:02,,,,,73W 73H,,,"Direct",3462,3858,4547
+- -,PHX,MSY,Southwest Airlines (WN),Southwest Airlines,1297,03:05,,,,,73H 73W,,,"Direct",3462,3861,4547
+- -,PHX,OAK,Southwest Airlines (WN),Southwest Airlines,644,01:47,,,,,733 73C 73W 738 73H,,,"Direct",3462,3453,4547
+- -,PHX,OKC,Southwest Airlines (WN),Southwest Airlines,831,02:09,,,,,73C 73W,,,"Direct",3462,3863,4547
+- -,PHX,OMA,Southwest Airlines (WN),Southwest Airlines,1035,02:34,,,,,73C 73W 733,,,"Direct",3462,3454,4547
+- -,PHX,ONT,Southwest Airlines (WN),Southwest Airlines,323,01:08,,,,,73W 73C 738,,,"Direct",3462,3734,4547
+- -,PHX,PDX,Southwest Airlines (WN),Southwest Airlines,1009,02:31,,,,,73W 73C,,,"Direct",3462,3720,4547
+- -,PHX,PHL,Southwest Airlines (WN),Southwest Airlines,2069,04:38,,,,,73W,,,"Direct",3462,3752,4547
+- -,PHX,PIT,Southwest Airlines (WN),Southwest Airlines,1809,04:07,,,,,73W,,,"Direct",3462,3570,4547
+- -,PHX,RDU,Southwest Airlines (WN),Southwest Airlines,1885,04:16,,,,,73W,,,"Direct",3462,3626,4547
+- -,PHX,RNO,Southwest Airlines (WN),Southwest Airlines,600,01:42,,,,,73W 73H,,,"Direct",3462,3807,4547
+- -,PHX,SAN,Southwest Airlines (WN),Southwest Airlines,303,01:06,,,,,73W 733 73C,,,"Direct",3462,3731,4547
+- -,PHX,SAT,Southwest Airlines (WN),Southwest Airlines,840,02:10,,,,,73W 73C,,,"Direct",3462,3621,4547
+- -,PHX,SDF,Southwest Airlines (WN),Southwest Airlines,1502,03:30,,,,,73W,,,"Direct",3462,4014,4547
+- -,PHX,SEA,Southwest Airlines (WN),Southwest Airlines,1106,02:42,,,,,73W 73C 733,,,"Direct",3462,3577,4547
+- -,PHX,SFO,Southwest Airlines (WN),Southwest Airlines,649,01:47,,,,,73W 733,,,"Direct",3462,3469,4547
+- -,PHX,SJC,Southwest Airlines (WN),Southwest Airlines,620,01:44,,,,,73W 733 73H 73C,,,"Direct",3462,3748,4547
+- -,PHX,SLC,Southwest Airlines (WN),Southwest Airlines,507,01:30,,,,,738 733 73W 73C,,,"Direct",3462,3536,4547
+- -,PHX,SMF,Southwest Airlines (WN),Southwest Airlines,645,01:47,,,,,73W 733 73H,,,"Direct",3462,3817,4547
+- -,PHX,SNA,Southwest Airlines (WN),Southwest Airlines,337,01:10,,,,,73W 73H,,,"Direct",3462,3867,4547
+- -,PHX,STL,Southwest Airlines (WN),Southwest Airlines,1258,03:00,,,,,73C 733 73W,,,"Direct",3462,3678,4547
+- -,PHX,TPA,Southwest Airlines (WN),Southwest Airlines,1784,04:04,,,,,73W,,,"Direct",3462,3646,4547
+- -,PHX,TUL,Southwest Airlines (WN),Southwest Airlines,932,02:21,,,,,73W,,,"Direct",3462,3855,4547
+- -,PIT,ATL,Southwest Airlines (WN),Southwest Airlines,526,01:33,,,,,717 73G,,,"Codeshare",3570,3682,4547
+- -,PIT,BNA,Southwest Airlines (WN),Southwest Airlines,461,01:25,,,,,73C 733 73W,,,"Direct",3570,3690,4547
+- -,PIT,BWI,Southwest Airlines (WN),Southwest Airlines,209,00:55,,,,,733 73W,,,"Direct",3570,3849,4547
+- -,PIT,DEN,Southwest Airlines (WN),Southwest Airlines,1286,03:04,,,,,73W,,,"Direct",3570,3751,4547
+- -,PIT,DFW,Southwest Airlines (WN),Southwest Airlines,1065,02:37,,,,,717,,,"Codeshare",3570,3670,4547
+- -,PIT,FLL,Southwest Airlines (WN),Southwest Airlines,995,02:29,,,,,73W,,,"Direct",3570,3533,4547
+- -,PIT,HOU,Southwest Airlines (WN),Southwest Airlines,1130,02:45,,,,,73W,,,"Direct",3570,3566,4547
+- -,PIT,LAS,Southwest Airlines (WN),Southwest Airlines,1904,04:18,,,,,738 73H 73W,,,"Direct",3570,3877,4547
+- -,PIT,MCO,Southwest Airlines (WN),Southwest Airlines,835,02:10,,,,,73W 738 733,,,"Direct",3570,3878,4547
+- -,PIT,MDW,Southwest Airlines (WN),Southwest Airlines,401,01:18,,,,,73W 73H,,,"Direct",3570,3747,4547
+- -,PIT,PHX,Southwest Airlines (WN),Southwest Airlines,1809,04:07,,,,,73W,,,"Direct",3570,3462,4547
+- -,PIT,RSW,Southwest Airlines (WN),Southwest Airlines,967,02:26,,,,,73W 73C,,,"Direct",3570,3793,4547
+- -,PIT,TPA,Southwest Airlines (WN),Southwest Airlines,874,02:14,,,,,73W 733 73C,,,"Direct",3570,3646,4547
+- -,PNS,BNA,Southwest Airlines (WN),Southwest Airlines,391,01:16,,,,,73W,,,"Direct",3564,3690,4547
+- -,PNS,HOU,Southwest Airlines (WN),Southwest Airlines,486,01:28,,,,,73W,,,"Direct",3564,3566,4547
+- -,PUJ,ATL,Southwest Airlines (WN),Southwest Airlines,1436,03:22,,,,,73G,,,"Codeshare",1760,3682,4547
+- -,PVD,BWI,Southwest Airlines (WN),Southwest Airlines,327,01:09,,,,,73C 738 73W 733,,,"Direct",3641,3849,4547
+- -,PVD,FLL,Southwest Airlines (WN),Southwest Airlines,1189,02:52,,,,,73W 73H,,,"Direct",3641,3533,4547
+- -,PVD,MCO,Southwest Airlines (WN),Southwest Airlines,1073,02:38,,,,,73W 738 73H,,,"Direct",3641,3878,4547
+- -,PVD,MDW,Southwest Airlines (WN),Southwest Airlines,840,02:10,,,,,73H 73W,,,"Direct",3641,3747,4547
+- -,PVD,RSW,Southwest Airlines (WN),Southwest Airlines,1202,02:54,,,,,73W,,,"Direct",3641,3793,4547
+- -,PVD,TPA,Southwest Airlines (WN),Southwest Airlines,1137,02:46,,,,,73W 73H,,,"Direct",3641,3646,4547
+- -,RDU,ATL,Southwest Airlines (WN),Southwest Airlines,355,01:12,,,,,717,,,"Codeshare",3626,3682,4547
+- -,RDU,BNA,Southwest Airlines (WN),Southwest Airlines,441,01:22,,,,,73W 733,,,"Direct",3626,3690,4547
+- -,RDU,BWI,Southwest Airlines (WN),Southwest Airlines,255,01:00,,,,,73W 733 73C,,,"Direct",3626,3849,4547
+- -,RDU,DEN,Southwest Airlines (WN),Southwest Airlines,1432,03:21,,,,,73W,,,"Direct",3626,3751,4547
+- -,RDU,FLL,Southwest Airlines (WN),Southwest Airlines,681,01:51,,,,,73W,,,"Direct",3626,3533,4547
+- -,RDU,HOU,Southwest Airlines (WN),Southwest Airlines,1048,02:35,,,,,73W 733,,,"Direct",3626,3566,4547
+- -,RDU,LAS,Southwest Airlines (WN),Southwest Airlines,2020,04:32,,,,,73W,,,"Direct",3626,3877,4547
+- -,RDU,MCO,Southwest Airlines (WN),Southwest Airlines,534,01:34,,,,,733 73W 73C,,,"Direct",3626,3878,4547
+- -,RDU,MDW,Southwest Airlines (WN),Southwest Airlines,631,01:45,,,,,73W 73H,,,"Direct",3626,3747,4547
+- -,RDU,PHX,Southwest Airlines (WN),Southwest Airlines,1885,04:16,,,,,73W,,,"Direct",3626,3462,4547
+- -,RDU,STL,Southwest Airlines (WN),Southwest Airlines,665,01:49,,,,,73W,,,"Direct",3626,3678,4547
+- -,RDU,TPA,Southwest Airlines (WN),Southwest Airlines,588,01:40,,,,,73W 73C,,,"Direct",3626,3646,4547
+- -,RIC,ATL,Southwest Airlines (WN),Southwest Airlines,480,01:27,,,,,717,,,"Codeshare",3608,3682,4547
+- -,RIC,MCO,Southwest Airlines (WN),Southwest Airlines,667,01:50,,,,,733 73W 73C,,,"Direct",3608,3878,4547
+- -,RNO,DEN,Southwest Airlines (WN),Southwest Airlines,801,02:06,,,,,73W 73H,,,"Direct",3807,3751,4547
+- -,RNO,LAS,Southwest Airlines (WN),Southwest Airlines,345,01:11,,,,,73H 73W 738,,,"Direct",3807,3877,4547
+- -,RNO,LAX,Southwest Airlines (WN),Southwest Airlines,391,01:16,,,,,73W,,,"Direct",3807,3484,4547
+- -,RNO,MDW,Southwest Airlines (WN),Southwest Airlines,1675,03:51,,,,,73W,,,"Direct",3807,3747,4547
+- -,RNO,PDX,Southwest Airlines (WN),Southwest Airlines,444,01:23,,,,,73W,,,"Direct",3807,3720,4547
+- -,RNO,PHX,Southwest Airlines (WN),Southwest Airlines,600,01:42,,,,,73W,,,"Direct",3807,3462,4547
+- -,RNO,SAN,Southwest Airlines (WN),Southwest Airlines,488,01:28,,,,,73W,,,"Direct",3807,3731,4547
+- -,RNO,SEA,Southwest Airlines (WN),Southwest Airlines,563,01:37,,,,,73W,,,"Direct",3807,3577,4547
+- -,ROC,BWI,Southwest Airlines (WN),Southwest Airlines,277,01:03,,,,,73W,,,"Direct",3622,3849,4547
+- -,ROC,MCO,Southwest Airlines (WN),Southwest Airlines,1034,02:34,,,,,73W,,,"Direct",3622,3878,4547
+- -,ROC,MDW,Southwest Airlines (WN),Southwest Airlines,521,01:32,,,,,73W,,,"Direct",3622,3747,4547
+- -,ROC,TPA,Southwest Airlines (WN),Southwest Airlines,1080,02:39,,,,,73W,,,"Direct",3622,3646,4547
+- -,RSW,ATL,Southwest Airlines (WN),Southwest Airlines,515,01:31,,,,,733,,,"Direct",3793,3682,4547
+- -,RSW,BDL,Southwest Airlines (WN),Southwest Airlines,1181,02:51,,,,,73C 73W,,,"Direct",3793,3825,4547
+- -,RSW,BWI,Southwest Airlines (WN),Southwest Airlines,920,02:20,,,,,73H 73C 73W 733,,,"Direct",3793,3849,4547
+- -,RSW,CMH,Southwest Airlines (WN),Southwest Airlines,931,02:21,,,,,73W,,,"Direct",3793,3759,4547
+- -,RSW,DCA,Southwest Airlines (WN),Southwest Airlines,893,02:17,,,,,717,,,"Codeshare",3793,3520,4547
+- -,RSW,IND,Southwest Airlines (WN),Southwest Airlines,946,02:23,,,,,73W 73C,,,"Direct",3793,3585,4547
+- -,RSW,MDW,Southwest Airlines (WN),Southwest Airlines,1106,02:42,,,,,73W 73H,,,"Direct",3793,3747,4547
+- -,RSW,MKE,Southwest Airlines (WN),Southwest Airlines,1184,02:52,,,,,73C 73W,,,"Direct",3793,3717,4547
+- -,RSW,PHL,Southwest Airlines (WN),Southwest Airlines,994,02:29,,,,,73W,,,"Direct",3793,3752,4547
+- -,RSW,PIT,Southwest Airlines (WN),Southwest Airlines,967,02:26,,,,,73W,,,"Direct",3793,3570,4547
+- -,RSW,PVD,Southwest Airlines (WN),Southwest Airlines,1202,02:54,,,,,73C,,,"Direct",3793,3641,4547
+- -,RSW,STL,Southwest Airlines (WN),Southwest Airlines,979,02:27,,,,,73W 73C,,,"Direct",3793,3678,4547
+- -,SAN,ABQ,Southwest Airlines (WN),Southwest Airlines,626,01:45,,,,,73W 73C,,,"Direct",3731,4019,4547
+- -,SAN,ATL,Southwest Airlines (WN),Southwest Airlines,1886,04:16,,,,,73W,,,"Direct",3731,3682,4547
+- -,SAN,AUS,Southwest Airlines (WN),Southwest Airlines,1161,02:49,,,,,73W,,,"Direct",3731,3673,4547
+- -,SAN,BNA,Southwest Airlines (WN),Southwest Airlines,1746,03:59,,,,,73W 73H,,,"Direct",3731,3690,4547
+- -,SAN,BWI,Southwest Airlines (WN),Southwest Airlines,2288,05:04,,,,,73W 738,,,"Direct",3731,3849,4547
+- -,SAN,DEN,Southwest Airlines (WN),Southwest Airlines,851,02:12,,,,,73W 73H 738,,,"Direct",3731,3751,4547
+- -,SAN,HOU,Southwest Airlines (WN),Southwest Airlines,1309,03:07,,,,,73W,,,"Direct",3731,3566,4547
+- -,SAN,LAS,Southwest Airlines (WN),Southwest Airlines,258,01:00,,,,,73W 73H 733 73C,,,"Direct",3731,3877,4547
+- -,SAN,MCI,Southwest Airlines (WN),Southwest Airlines,1330,03:09,,,,,73W 738,,,"Direct",3731,3458,4547
+- -,SAN,MDW,Southwest Airlines (WN),Southwest Airlines,1723,03:56,,,,,73H 73W,,,"Direct",3731,3747,4547
+- -,SAN,MSY,Southwest Airlines (WN),Southwest Airlines,1594,03:41,,,,,73W,,,"Direct",3731,3861,4547
+- -,SAN,OAK,Southwest Airlines (WN),Southwest Airlines,446,01:23,,,,,73C 73W 733,,,"Direct",3731,3453,4547
+- -,SAN,PHX,Southwest Airlines (WN),Southwest Airlines,303,01:06,,,,,73W 73C,,,"Direct",3731,3462,4547
+- -,SAN,RNO,Southwest Airlines (WN),Southwest Airlines,488,01:28,,,,,73W,,,"Direct",3731,3807,4547
+- -,SAN,SAT,Southwest Airlines (WN),Southwest Airlines,1126,02:45,,,,,73W,,,"Direct",3731,3621,4547
+- -,SAN,SFO,Southwest Airlines (WN),Southwest Airlines,446,01:23,,,,,73W 73C 733,,,"Direct",3731,3469,4547
+- -,SAN,SJC,Southwest Airlines (WN),Southwest Airlines,416,01:19,,,,,733 73W 73H 73C,,,"Direct",3731,3748,4547
+- -,SAN,SMF,Southwest Airlines (WN),Southwest Airlines,479,01:27,,,,,73W 73C 733,,,"Direct",3731,3817,4547
+- -,SAN,STL,Southwest Airlines (WN),Southwest Airlines,1553,03:36,,,,,73W,,,"Direct",3731,3678,4547
+- -,SAN,TUS,Southwest Airlines (WN),Southwest Airlines,366,01:13,,,,,73W 73C,,,"Direct",3731,3636,4547
+- -,SAT,ATL,Southwest Airlines (WN),Southwest Airlines,872,02:14,,,,,73C 73W,,,"Direct",3621,3682,4547
+- -,SAT,BNA,Southwest Airlines (WN),Southwest Airlines,820,02:08,,,,,73C 73W,,,"Direct",3621,3690,4547
+- -,SAT,BWI,Southwest Airlines (WN),Southwest Airlines,1404,03:18,,,,,73W 73H,,,"Direct",3621,3849,4547
+- -,SAT,DAL,Southwest Airlines (WN),Southwest Airlines,247,00:59,,,,,73W 73C 735 733,,,"Direct",3621,3502,4547
+- -,SAT,DEN,Southwest Airlines (WN),Southwest Airlines,794,02:05,,,,,73W,,,"Direct",3621,3751,4547
+- -,SAT,ELP,Southwest Airlines (WN),Southwest Airlines,495,01:29,,,,,735 73W,,,"Direct",3621,3559,4547
+- -,SAT,HOU,Southwest Airlines (WN),Southwest Airlines,191,00:52,,,,,73W 735 73C,,,"Direct",3621,3566,4547
+- -,SAT,HRL,Southwest Airlines (WN),Southwest Airlines,233,00:57,,,,,73W,,,"Direct",3621,3560,4547
+- -,SAT,LAS,Southwest Airlines (WN),Southwest Airlines,1066,02:37,,,,,73W,,,"Direct",3621,3877,4547
+- -,SAT,LAX,Southwest Airlines (WN),Southwest Airlines,1207,02:54,,,,,73H 73W,,,"Direct",3621,3484,4547
+- -,SAT,MCO,Southwest Airlines (WN),Southwest Airlines,1038,02:34,,,,,73W,,,"Direct",3621,3878,4547
+- -,SAT,MDW,Southwest Airlines (WN),Southwest Airlines,1036,02:34,,,,,73W,,,"Direct",3621,3747,4547
+- -,SAT,PHX,Southwest Airlines (WN),Southwest Airlines,840,02:10,,,,,73W,,,"Direct",3621,3462,4547
+- -,SAT,SAN,Southwest Airlines (WN),Southwest Airlines,1126,02:45,,,,,73W,,,"Direct",3621,3731,4547
+- -,SAT,STL,Southwest Airlines (WN),Southwest Airlines,786,02:04,,,,,733 73C 73W,,,"Direct",3621,3678,4547
+- -,SAT,TPA,Southwest Airlines (WN),Southwest Airlines,969,02:26,,,,,73C 733,,,"Direct",3621,3646,4547
+- -,SDF,ATL,Southwest Airlines (WN),Southwest Airlines,321,01:08,,,,,733 73W,,,"Direct",4014,3682,4547
+- -,SDF,BWI,Southwest Airlines (WN),Southwest Airlines,493,01:29,,,,,73W 733,,,"Direct",4014,3849,4547
+- -,SDF,DEN,Southwest Airlines (WN),Southwest Airlines,1020,02:32,,,,,73C 73W,,,"Direct",4014,3751,4547
+- -,SDF,LAS,Southwest Airlines (WN),Southwest Airlines,1619,03:44,,,,,73W,,,"Direct",4014,3877,4547
+- -,SDF,MCO,Southwest Airlines (WN),Southwest Airlines,719,01:56,,,,,73C 73W,,,"Direct",4014,3878,4547
+- -,SDF,MDW,Southwest Airlines (WN),Southwest Airlines,271,01:02,,,,,73W,,,"Direct",4014,3747,4547
+- -,SDF,PHX,Southwest Airlines (WN),Southwest Airlines,1502,03:30,,,,,73W,,,"Direct",4014,3462,4547
+- -,SDF,TPA,Southwest Airlines (WN),Southwest Airlines,728,01:57,,,,,73W,,,"Direct",4014,3646,4547
+- -,SEA,ABQ,Southwest Airlines (WN),Southwest Airlines,1178,02:51,,,,,73C 73W 733,,,"Direct",3577,4019,4547
+- -,SEA,BWI,Southwest Airlines (WN),Southwest Airlines,2327,05:09,,,,,73W,,,"Direct",3577,3849,4547
+- -,SEA,DEN,Southwest Airlines (WN),Southwest Airlines,1021,02:32,,,,,73W 733 73C,,,"Direct",3577,3751,4547
+- -,SEA,LAS,Southwest Airlines (WN),Southwest Airlines,866,02:13,,,,,733 73H 73W,,,"Direct",3577,3877,4547
+- -,SEA,MDW,Southwest Airlines (WN),Southwest Airlines,1727,03:57,,,,,73H 73W,,,"Direct",3577,3747,4547
+- -,SEA,MKE,Southwest Airlines (WN),Southwest Airlines,1688,03:52,,,,,73W,,,"Direct",3577,3717,4547
+- -,SEA,OAK,Southwest Airlines (WN),Southwest Airlines,671,01:50,,,,,73W 73C,,,"Direct",3577,3453,4547
+- -,SEA,PHX,Southwest Airlines (WN),Southwest Airlines,1106,02:42,,,,,733 73C 73W,,,"Direct",3577,3462,4547
+- -,SEA,RNO,Southwest Airlines (WN),Southwest Airlines,563,01:37,,,,,73W,,,"Direct",3577,3807,4547
+- -,SEA,SJC,Southwest Airlines (WN),Southwest Airlines,696,01:53,,,,,733 73C 73W 73H,,,"Direct",3577,3748,4547
+- -,SEA,SLC,Southwest Airlines (WN),Southwest Airlines,687,01:52,,,,,73W 73C,,,"Direct",3577,3536,4547
+- -,SEA,SMF,Southwest Airlines (WN),Southwest Airlines,605,01:42,,,,,73W 73H 733 73C,,,"Direct",3577,3817,4547
+- -,SFO,ATL,Southwest Airlines (WN),Southwest Airlines,2133,04:45,,,,,73W,,,"Direct",3469,3682,4547
+- -,SFO,DEN,Southwest Airlines (WN),Southwest Airlines,964,02:25,,,,,73C 73W,,,"Direct",3469,3751,4547
+- -,SFO,LAS,Southwest Airlines (WN),Southwest Airlines,412,01:19,,,,,73W 73C 733 73H,,,"Direct",3469,3877,4547
+- -,SFO,LAX,Southwest Airlines (WN),Southwest Airlines,337,01:10,,,,,733 73W 73C,,,"Direct",3469,3484,4547
+- -,SFO,MDW,Southwest Airlines (WN),Southwest Airlines,1849,04:11,,,,,73W,,,"Direct",3469,3747,4547
+- -,SFO,MKE,Southwest Airlines (WN),Southwest Airlines,1839,04:10,,,,,73W,,,"Direct",3469,3717,4547
+- -,SFO,PHX,Southwest Airlines (WN),Southwest Airlines,649,01:47,,,,,73C 73W 733,,,"Direct",3469,3462,4547
+- -,SFO,SAN,Southwest Airlines (WN),Southwest Airlines,446,01:23,,,,,73W 73C 733,,,"Direct",3469,3731,4547
+- -,SFO,SNA,Southwest Airlines (WN),Southwest Airlines,371,01:14,,,,,73W,,,"Direct",3469,3867,4547
+- -,SJC,AUS,Southwest Airlines (WN),Southwest Airlines,1472,03:26,,,,,73W,,,"Direct",3748,3673,4547
+- -,SJC,BUR,Southwest Airlines (WN),Southwest Airlines,296,01:05,,,,,73W,,,"Direct",3748,3644,4547
+- -,SJC,DEN,Southwest Airlines (WN),Southwest Airlines,945,02:23,,,,,73W,,,"Direct",3748,3751,4547
+- -,SJC,LAS,Southwest Airlines (WN),Southwest Airlines,385,01:16,,,,,73W 733 73C 73H,,,"Direct",3748,3877,4547
+- -,SJC,LAX,Southwest Airlines (WN),Southwest Airlines,307,01:06,,,,,73W 733 73C 73H 738,,,"Direct",3748,3484,4547
+- -,SJC,MDW,Southwest Airlines (WN),Southwest Airlines,1832,04:09,,,,,73W,,,"Direct",3748,3747,4547
+- -,SJC,ONT,Southwest Airlines (WN),Southwest Airlines,333,01:09,,,,,73C 733 73W,,,"Direct",3748,3734,4547
+- -,SJC,PDX,Southwest Airlines (WN),Southwest Airlines,569,01:38,,,,,73W 73H 733 73C,,,"Direct",3748,3720,4547
+- -,SJC,PHX,Southwest Airlines (WN),Southwest Airlines,620,01:44,,,,,733 73C 73W,,,"Direct",3748,3462,4547
+- -,SJC,SAN,Southwest Airlines (WN),Southwest Airlines,416,01:19,,,,,73W 73C 733 73H,,,"Direct",3748,3731,4547
+- -,SJC,SEA,Southwest Airlines (WN),Southwest Airlines,696,01:53,,,,,73H 733 73C 73W,,,"Direct",3748,3577,4547
+- -,SJC,SNA,Southwest Airlines (WN),Southwest Airlines,341,01:10,,,,,73H 73W,,,"Direct",3748,3867,4547
+- -,SJU,ATL,Southwest Airlines (WN),Southwest Airlines,1546,03:35,,,,,73W,,,"Direct",2890,3682,4547
+- -,SJU,BWI,Southwest Airlines (WN),Southwest Airlines,1567,03:38,,,,,73W 738,,,"Direct",2890,3849,4547
+- -,SJU,FLL,Southwest Airlines (WN),Southwest Airlines,1045,02:35,,,,,73W,,,"Direct",2890,3533,4547
+- -,SJU,MCO,Southwest Airlines (WN),Southwest Airlines,1188,02:52,,,,,73W 738,,,"Direct",2890,3878,4547
+- -,SJU,TPA,Southwest Airlines (WN),Southwest Airlines,1236,02:58,,,,,73H 73W,,,"Direct",2890,3646,4547
+- -,SLC,BWI,Southwest Airlines (WN),Southwest Airlines,1859,04:13,,,,,73W,,,"Direct",3536,3849,4547
+- -,SLC,DEN,Southwest Airlines (WN),Southwest Airlines,389,01:16,,,,,73W 738 733 73C 73H,,,"Direct",3536,3751,4547
+- -,SLC,LAS,Southwest Airlines (WN),Southwest Airlines,367,01:14,,,,,73W 73C,,,"Direct",3536,3877,4547
+- -,SLC,LAX,Southwest Airlines (WN),Southwest Airlines,589,01:40,,,,,73C 733 73W,,,"Direct",3536,3484,4547
+- -,SLC,MDW,Southwest Airlines (WN),Southwest Airlines,1254,03:00,,,,,73H 73W,,,"Direct",3536,3747,4547
+- -,SLC,OAK,Southwest Airlines (WN),Southwest Airlines,586,01:40,,,,,73W 73C 733,,,"Direct",3536,3453,4547
+- -,SLC,PDX,Southwest Airlines (WN),Southwest Airlines,628,01:45,,,,,733 73W,,,"Direct",3536,3720,4547
+- -,SLC,PHX,Southwest Airlines (WN),Southwest Airlines,507,01:30,,,,,73W 733 73H 73C,,,"Direct",3536,3462,4547
+- -,SLC,SEA,Southwest Airlines (WN),Southwest Airlines,687,01:52,,,,,73W 73C,,,"Direct",3536,3577,4547
+- -,SMF,BUR,Southwest Airlines (WN),Southwest Airlines,358,01:12,,,,,73W,,,"Direct",3817,3644,4547
+- -,SMF,DEN,Southwest Airlines (WN),Southwest Airlines,906,02:18,,,,,73W 733 73H,,,"Direct",3817,3751,4547
+- -,SMF,LAS,Southwest Airlines (WN),Southwest Airlines,396,01:17,,,,,73H 73W 733 73C 738,,,"Direct",3817,3877,4547
+- -,SMF,LAX,Southwest Airlines (WN),Southwest Airlines,372,01:14,,,,,73C 73W 733 73H 738,,,"Direct",3817,3484,4547
+- -,SMF,MDW,Southwest Airlines (WN),Southwest Airlines,1784,04:04,,,,,73W,,,"Direct",3817,3747,4547
+- -,SMF,ONT,Southwest Airlines (WN),Southwest Airlines,389,01:16,,,,,733 73W 73C 73H,,,"Direct",3817,3734,4547
+- -,SMF,PDX,Southwest Airlines (WN),Southwest Airlines,478,01:27,,,,,73W 73C,,,"Direct",3817,3720,4547
+- -,SMF,PHX,Southwest Airlines (WN),Southwest Airlines,645,01:47,,,,,733 73W 73C,,,"Direct",3817,3462,4547
+- -,SMF,SAN,Southwest Airlines (WN),Southwest Airlines,479,01:27,,,,,73W 73H 73C 733,,,"Direct",3817,3731,4547
+- -,SMF,SEA,Southwest Airlines (WN),Southwest Airlines,605,01:42,,,,,73W 73C 733,,,"Direct",3817,3577,4547
+- -,SMF,SNA,Southwest Airlines (WN),Southwest Airlines,403,01:18,,,,,73W,,,"Direct",3817,3867,4547
+- -,SNA,DEN,Southwest Airlines (WN),Southwest Airlines,844,02:11,,,,,73W,,,"Direct",3867,3751,4547
+- -,SNA,HOU,Southwest Airlines (WN),Southwest Airlines,1353,03:12,,,,,73W,,,"Direct",3867,3566,4547
+- -,SNA,LAS,Southwest Airlines (WN),Southwest Airlines,226,00:57,,,,,73W,,,"Direct",3867,3877,4547
+- -,SNA,OAK,Southwest Airlines (WN),Southwest Airlines,370,01:14,,,,,73W 73H,,,"Direct",3867,3453,4547
+- -,SNA,PHX,Southwest Airlines (WN),Southwest Airlines,337,01:10,,,,,73W 73H,,,"Direct",3867,3462,4547
+- -,SNA,SFO,Southwest Airlines (WN),Southwest Airlines,371,01:14,,,,,73W,,,"Direct",3867,3469,4547
+- -,SNA,SJC,Southwest Airlines (WN),Southwest Airlines,341,01:10,,,,,73W,,,"Direct",3867,3748,4547
+- -,SNA,SMF,Southwest Airlines (WN),Southwest Airlines,403,01:18,,,,,73W 73H,,,"Direct",3867,3817,4547
+- -,STL,ATL,Southwest Airlines (WN),Southwest Airlines,483,01:27,,,,,73W,,,"Direct",3678,3682,4547
+- -,STL,BNA,Southwest Airlines (WN),Southwest Airlines,271,01:02,,,,,73W 73C,,,"Direct",3678,3690,4547
+- -,STL,BOS,Southwest Airlines (WN),Southwest Airlines,1043,02:35,,,,,73C 73W,,,"Direct",3678,3448,4547
+- -,STL,BWI,Southwest Airlines (WN),Southwest Airlines,735,01:58,,,,,73C 73W 733,,,"Direct",3678,3849,4547
+- -,STL,CMH,Southwest Airlines (WN),Southwest Airlines,408,01:18,,,,,73W,,,"Direct",3678,3759,4547
+- -,STL,DAL,Southwest Airlines (WN),Southwest Airlines,545,01:35,,,,,73W 73C,,,"Direct",3678,3502,4547
+- -,STL,DCA,Southwest Airlines (WN),Southwest Airlines,716,01:55,,,,,73W,,,"Direct",3678,3520,4547
+- -,STL,DEN,Southwest Airlines (WN),Southwest Airlines,767,02:02,,,,,733 73W 73C,,,"Direct",3678,3751,4547
+- -,STL,DTW,Southwest Airlines (WN),Southwest Airlines,439,01:22,,,,,73C,,,"Direct",3678,3645,4547
+- -,STL,ECP,Southwest Airlines (WN),Southwest Airlines,634,01:46,,,,,73W,,,"Direct",3678,7669,4547
+- -,STL,EWR,Southwest Airlines (WN),Southwest Airlines,869,02:14,,,,,73W,,,"Direct",3678,3494,4547
+- -,STL,FLL,Southwest Airlines (WN),Southwest Airlines,1057,02:36,,,,,733 73W,,,"Direct",3678,3533,4547
+- -,STL,GRR,Southwest Airlines (WN),Southwest Airlines,381,01:15,,,,,73C 73W,,,"Direct",3678,3685,4547
+- -,STL,HOU,Southwest Airlines (WN),Southwest Airlines,688,01:52,,,,,73W 733 73C,,,"Direct",3678,3566,4547
+- -,STL,LAS,Southwest Airlines (WN),Southwest Airlines,1367,03:14,,,,,738 73W 73C 73H 733,,,"Direct",3678,3877,4547
+- -,STL,LAX,Southwest Airlines (WN),Southwest Airlines,1587,03:40,,,,,73W,,,"Direct",3678,3484,4547
+- -,STL,LGA,Southwest Airlines (WN),Southwest Airlines,885,02:16,,,,,73W,,,"Direct",3678,3697,4547
+- -,STL,MCI,Southwest Airlines (WN),Southwest Airlines,236,00:58,,,,,73W 73C,,,"Direct",3678,3458,4547
+- -,STL,MCO,Southwest Airlines (WN),Southwest Airlines,881,02:15,,,,,73W 73H 733,,,"Direct",3678,3878,4547
+- -,STL,MDW,Southwest Airlines (WN),Southwest Airlines,250,01:00,,,,,73W 73H 73C,,,"Direct",3678,3747,4547
+- -,STL,MKE,Southwest Airlines (WN),Southwest Airlines,317,01:08,,,,,73W,,,"Direct",3678,3717,4547
+- -,STL,MSP,Southwest Airlines (WN),Southwest Airlines,448,01:23,,,,,73W,,,"Direct",3678,3858,4547
+- -,STL,MSY,Southwest Airlines (WN),Southwest Airlines,604,01:42,,,,,73W 73C,,,"Direct",3678,3861,4547
+- -,STL,OKC,Southwest Airlines (WN),Southwest Airlines,460,01:25,,,,,73C,,,"Direct",3678,3863,4547
+- -,STL,OMA,Southwest Airlines (WN),Southwest Airlines,341,01:10,,,,,733 73C 73W,,,"Direct",3678,3454,4547
+- -,STL,PHL,Southwest Airlines (WN),Southwest Airlines,811,02:07,,,,,73C 73W,,,"Direct",3678,3752,4547
+- -,STL,PHX,Southwest Airlines (WN),Southwest Airlines,1258,03:00,,,,,73W 733 73H,,,"Direct",3678,3462,4547
+- -,STL,RDU,Southwest Airlines (WN),Southwest Airlines,665,01:49,,,,,73W,,,"Direct",3678,3626,4547
+- -,STL,RSW,Southwest Airlines (WN),Southwest Airlines,979,02:27,,,,,73W 73C,,,"Direct",3678,3793,4547
+- -,STL,SAN,Southwest Airlines (WN),Southwest Airlines,1553,03:36,,,,,73W,,,"Direct",3678,3731,4547
+- -,STL,SAT,Southwest Airlines (WN),Southwest Airlines,786,02:04,,,,,73C 73W,,,"Direct",3678,3621,4547
+- -,STL,TPA,Southwest Airlines (WN),Southwest Airlines,869,02:14,,,,,73W 73C 73H,,,"Direct",3678,3646,4547
+- -,STL,TUL,Southwest Airlines (WN),Southwest Airlines,349,01:11,,,,,73W,,,"Direct",3678,3855,4547
+- -,TPA,ALB,Southwest Airlines (WN),Southwest Airlines,1130,02:45,,,,,73W,,,"Direct",3646,3864,4547
+- -,TPA,ATL,Southwest Airlines (WN),Southwest Airlines,406,01:18,,,,,73C 73W,,,"Direct",3646,3682,4547
+- -,TPA,AUS,Southwest Airlines (WN),Southwest Airlines,925,02:21,,,,,73C,,,"Direct",3646,3673,4547
+- -,TPA,BDL,Southwest Airlines (WN),Southwest Airlines,1111,02:43,,,,,733 73C,,,"Direct",3646,3825,4547
+- -,TPA,BHM,Southwest Airlines (WN),Southwest Airlines,459,01:25,,,,,73W,,,"Direct",3646,3811,4547
+- -,TPA,BNA,Southwest Airlines (WN),Southwest Airlines,612,01:43,,,,,73C 73W 733,,,"Direct",3646,3690,4547
+- -,TPA,BUF,Southwest Airlines (WN),Southwest Airlines,1054,02:36,,,,,73W,,,"Direct",3646,3820,4547
+- -,TPA,BWI,Southwest Airlines (WN),Southwest Airlines,843,02:11,,,,,73W 73H 738 73C,,,"Direct",3646,3849,4547
+- -,TPA,CAK,Southwest Airlines (WN),Southwest Airlines,895,02:17,,,,,717,,,"Codeshare",3646,4112,4547
+- -,TPA,CMH,Southwest Airlines (WN),Southwest Airlines,830,02:09,,,,,73W 733,,,"Direct",3646,3759,4547
+- -,TPA,DAY,Southwest Airlines (WN),Southwest Airlines,829,02:09,,,,,717,,,"Codeshare",3646,3627,4547
+- -,TPA,DEN,Southwest Airlines (WN),Southwest Airlines,1504,03:30,,,,,73W,,,"Direct",3646,3751,4547
+- -,TPA,EYW,Southwest Airlines (WN),Southwest Airlines,240,00:58,,,,,73W,,,"Direct",3646,3875,4547
+- -,TPA,FLL,Southwest Airlines (WN),Southwest Airlines,196,00:53,,,,,73W 73C,,,"Direct",3646,3533,4547
+- -,TPA,FNT,Southwest Airlines (WN),Southwest Airlines,1037,02:34,,,,,73W,,,"Direct",3646,4089,4547
+- -,TPA,GRR,Southwest Airlines (WN),Southwest Airlines,1042,02:35,,,,,73W,,,"Direct",3646,3685,4547
+- -,TPA,HOU,Southwest Airlines (WN),Southwest Airlines,779,02:03,,,,,738 73W 73H 73C,,,"Direct",3646,3566,4547
+- -,TPA,IND,Southwest Airlines (WN),Southwest Airlines,838,02:10,,,,,733 73C 73W,,,"Direct",3646,3585,4547
+- -,TPA,ISP,Southwest Airlines (WN),Southwest Airlines,1034,02:34,,,,,73W 73C,,,"Direct",3646,3857,4547
+- -,TPA,LAS,Southwest Airlines (WN),Southwest Airlines,1979,04:27,,,,,73H 73W,,,"Direct",3646,3877,4547
+- -,TPA,MCI,Southwest Airlines (WN),Southwest Airlines,1047,02:35,,,,,73C 733,,,"Direct",3646,3458,4547
+- -,TPA,MDW,Southwest Airlines (WN),Southwest Airlines,997,02:29,,,,,73H 73W,,,"Direct",3646,3747,4547
+- -,TPA,MEM,Southwest Airlines (WN),Southwest Airlines,655,01:48,,,,,73C 73W,,,"Direct",3646,3473,4547
+- -,TPA,MHT,Southwest Airlines (WN),Southwest Airlines,1204,02:54,,,,,73W 73H,,,"Direct",3646,4011,4547
+- -,TPA,MKE,Southwest Airlines (WN),Southwest Airlines,1076,02:39,,,,,73W 73C,,,"Direct",3646,3717,4547
+- -,TPA,MSY,Southwest Airlines (WN),Southwest Airlines,486,01:28,,,,,73W 733,,,"Direct",3646,3861,4547
+- -,TPA,PHL,Southwest Airlines (WN),Southwest Airlines,920,02:20,,,,,73W,,,"Direct",3646,3752,4547
+- -,TPA,PHX,Southwest Airlines (WN),Southwest Airlines,1784,04:04,,,,,73W,,,"Direct",3646,3462,4547
+- -,TPA,PIT,Southwest Airlines (WN),Southwest Airlines,874,02:14,,,,,73W 733,,,"Direct",3646,3570,4547
+- -,TPA,PVD,Southwest Airlines (WN),Southwest Airlines,1137,02:46,,,,,73W 73H,,,"Direct",3646,3641,4547
+- -,TPA,RDU,Southwest Airlines (WN),Southwest Airlines,588,01:40,,,,,73W,,,"Direct",3646,3626,4547
+- -,TPA,ROC,Southwest Airlines (WN),Southwest Airlines,1080,02:39,,,,,73W,,,"Direct",3646,3622,4547
+- -,TPA,SAT,Southwest Airlines (WN),Southwest Airlines,969,02:26,,,,,73W 73C,,,"Direct",3646,3621,4547
+- -,TPA,SDF,Southwest Airlines (WN),Southwest Airlines,728,01:57,,,,,73W,,,"Direct",3646,4014,4547
+- -,TPA,SJU,Southwest Airlines (WN),Southwest Airlines,1236,02:58,,,,,738 73W,,,"Direct",3646,2890,4547
+- -,TPA,STL,Southwest Airlines (WN),Southwest Airlines,869,02:14,,,,,73W 73C 73H,,,"Direct",3646,3678,4547
+- -,TUL,DAL,Southwest Airlines (WN),Southwest Airlines,237,00:58,,,,,73W 735,,,"Direct",3855,3502,4547
+- -,TUL,DEN,Southwest Airlines (WN),Southwest Airlines,540,01:34,,,,,73W,,,"Direct",3855,3751,4547
+- -,TUL,HOU,Southwest Airlines (WN),Southwest Airlines,453,01:24,,,,,73W,,,"Direct",3855,3566,4547
+- -,TUL,LAS,Southwest Airlines (WN),Southwest Airlines,1072,02:38,,,,,73W,,,"Direct",3855,3877,4547
+- -,TUL,MDW,Southwest Airlines (WN),Southwest Airlines,582,01:39,,,,,73W,,,"Direct",3855,3747,4547
+- -,TUL,PHX,Southwest Airlines (WN),Southwest Airlines,932,02:21,,,,,73W,,,"Direct",3855,3462,4547
+- -,TUL,STL,Southwest Airlines (WN),Southwest Airlines,349,01:11,,,,,73W,,,"Direct",3855,3678,4547
+- -,TUS,DEN,Southwest Airlines (WN),Southwest Airlines,638,01:46,,,,,73W 733,,,"Direct",3636,3751,4547
+- -,TUS,LAS,Southwest Airlines (WN),Southwest Airlines,364,01:13,,,,,73W 73C,,,"Direct",3636,3877,4547
+- -,TUS,LAX,Southwest Airlines (WN),Southwest Airlines,450,01:24,,,,,73C 73W 733 73H,,,"Direct",3636,3484,4547
+- -,TUS,MDW,Southwest Airlines (WN),Southwest Airlines,1436,03:22,,,,,73H 73W,,,"Direct",3636,3747,4547
+- -,TUS,SAN,Southwest Airlines (WN),Southwest Airlines,366,01:13,,,,,73W 73C 733,,,"Direct",3636,3731,4547

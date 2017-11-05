@@ -24,7 +24,7 @@ public class Graph {
 		this.nodeList[i].name = name;
 	}
 	
-	public void BFS(int s, int target){
+	public int BFS(int s, int target, boolean print){
 		boolean[] marked = new boolean[this.totalNode];
 		ArrayList<Integer> queue = new ArrayList<Integer>();
 		ArrayList<Integer> path = new ArrayList<Integer>();
@@ -60,12 +60,13 @@ public class Graph {
 			path.add(x);
 			temp = x;
 		}
+		if (!print) return path.size()-1;
 		for (int i = (path.size() - 1); i >= 0;i--) {
 			int x = path.get(i);
 			System.out.print(this.nodeList[x].name + " ");
 		}
 		System.out.println();
-		
+		return 0;
 	}
 	
 	public void printGraph(){

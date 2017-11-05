@@ -1,0 +1,211 @@
+﻿Date,From,To,Flight_Number,Airline,Distance,Duration,Seat,Seat_Type,Class,Reason,Plane,Registration,Trip,Note,From_OID,To_OID,Airline_OID,Plane_OID
+- -,ADD,BKK,Singapore Airlines (SQ),Singapore Airlines,4196,08:53,,,,,763,,,"Direct",1107,3885,4435
+- -,ADL,SIN,Singapore Airlines (SQ),Singapore Airlines,3354,07:12,,,,,333,,,"Direct",3341,3316,4435
+- -,AKL,SIN,Singapore Airlines (SQ),Singapore Airlines,5221,10:56,,,,,77W 772,,,"Direct",2006,3316,4435
+- -,AMD,SIN,Singapore Airlines (SQ),Singapore Airlines,2581,05:39,,,,,333,,,"Direct",2994,3316,4435
+- -,AMS,SIN,Singapore Airlines (SQ),Singapore Airlines,6529,13:33,,,,,772 77W,,,"Direct",580,3316,4435
+- -,BCN,GRU,Singapore Airlines (SQ),Singapore Airlines,5443,11:23,,,,,77W,,,"Direct",1218,2564,4435
+- -,BCN,MXP,Singapore Airlines (SQ),Singapore Airlines,447,01:23,,,,,77W,,,"Direct",1218,1524,4435
+- -,BCN,SIN,Singapore Airlines (SQ),Singapore Airlines,6768,14:02,,,,,77W,,,"Direct",1218,3316,4435
+- -,BDO,SIN,Singapore Airlines (SQ),Singapore Airlines,620,01:44,,,,,319,,,"Codeshare",3896,3316,4435
+- -,BKI,SIN,Singapore Airlines (SQ),Singapore Airlines,889,02:16,,,,,320 319,,,"Codeshare",3269,3316,4435
+- -,BKK,ADD,Singapore Airlines (SQ),Singapore Airlines,4196,08:53,,,,,763,,,"Direct",3885,1107,4435
+- -,BKK,SIN,Singapore Airlines (SQ),Singapore Airlines,879,02:15,,,,,772 333 763,,,"Direct",3885,3316,4435
+- -,BLR,SIN,Singapore Airlines (SQ),Singapore Airlines,1974,04:26,,,,,772,,,"Direct",3131,3316,4435
+- -,BNE,CHC,Singapore Airlines (SQ),Singapore Airlines,1551,03:36,,,,,320,,,"Codeshare",3320,2009,4435
+- -,BNE,CNJ,Singapore Airlines (SQ),Singapore Airlines,919,02:20,,,,,E90,,,"Direct",3320,6255,4435
+- -,BNE,SIN,Singapore Airlines (SQ),Singapore Airlines,3814,08:07,,,,,333,,,"Direct",3320,3316,4435
+- -,BOM,SIN,Singapore Airlines (SQ),Singapore Airlines,2435,05:22,,,,,77W 772,,,"Direct",2997,3316,4435
+- -,BPN,SIN,Singapore Airlines (SQ),Singapore Airlines,908,02:18,,,,,319 320,,,"Codeshare",3919,3316,4435
+- -,BWN,SIN,Singapore Airlines (SQ),Singapore Airlines,793,02:05,,,,,773 320,,,"Direct",3272,3316,4435
+- -,CAI,DXB,Singapore Airlines (SQ),Singapore Airlines,1500,03:30,,,,,333,,,"Direct",1128,2188,4435
+- -,CAN,SIN,Singapore Airlines (SQ),Singapore Airlines,1644,03:47,,,,,333,,,"Direct",3370,3316,4435
+- -,CCU,SIN,Singapore Airlines (SQ),Singapore Airlines,1803,04:06,,,,,333,,,"Direct",3043,3316,4435
+- -,CDG,SIN,Singapore Airlines (SQ),Singapore Airlines,6660,13:49,,,,,388,,,"Direct",1382,3316,4435
+- -,CEB,DVO,Singapore Airlines (SQ),Singapore Airlines,247,00:59,,,,,320,,,"Codeshare",4206,4090,4435
+- -,CEB,SIN,Singapore Airlines (SQ),Singapore Airlines,1504,03:30,,,,,320 738,,,"Codeshare",4206,3316,4435
+- -,CGK,SIN,Singapore Airlines (SQ),Singapore Airlines,547,01:35,,,,,772 773,,,"Direct",3275,3316,4435
+- -,CHC,SIN,Singapore Airlines (SQ),Singapore Airlines,5218,10:56,,,,,772,,,"Direct",2009,3316,4435
+- -,CJB,SIN,Singapore Airlines (SQ),Singapore Airlines,1964,04:25,,,,,320,,,"Codeshare",3135,3316,4435
+- -,CKG,SIN,Singapore Airlines (SQ),Singapore Airlines,1966,04:25,,,,,320 319,,,"Codeshare",3393,3316,4435
+- -,CMB,SIN,Singapore Airlines (SQ),Singapore Airlines,1707,03:54,,,,,333,,,"Direct",3024,3316,4435
+- -,CNJ,BNE,Singapore Airlines (SQ),Singapore Airlines,919,02:20,,,,,E90,,,"Direct",6255,3320,4435
+- -,CNX,SIN,Singapore Airlines (SQ),Singapore Airlines,1250,03:00,,,,,320,,,"Codeshare",3931,3316,4435
+- -,COK,SIN,Singapore Airlines (SQ),Singapore Airlines,1988,04:28,,,,,320 738 319,,,"Codeshare",3136,3316,4435
+- -,CPH,SIN,Singapore Airlines (SQ),Singapore Airlines,6190,12:52,,,,,772,,,"Direct",609,3316,4435
+- -,CPT,JNB,Singapore Airlines (SQ),Singapore Airlines,789,02:04,,,,,772,,,"Direct",797,813,4435
+- -,CSX,SIN,Singapore Airlines (SQ),Singapore Airlines,1950,04:24,,,,,320,,,"Codeshare",3371,3316,4435
+- -,CTU,SIN,Singapore Airlines (SQ),Singapore Airlines,2018,04:32,,,,,320 319,,,"Codeshare",3395,3316,4435
+- -,DAC,SIN,Singapore Airlines (SQ),Singapore Airlines,1799,04:05,,,,,333,,,"Direct",3076,3316,4435
+- -,DAD,REP,Singapore Airlines (SQ),Singapore Airlines,344,01:11,,,,,738,,,"Codeshare",3196,3035,4435
+- -,DAD,SIN,Singapore Airlines (SQ),Singapore Airlines,1054,02:36,,,,,738 320,,,"Codeshare",3196,3316,4435
+- -,DEL,SIN,Singapore Airlines (SQ),Singapore Airlines,2583,05:39,,,,,772 773,,,"Direct",3093,3316,4435
+- -,DME,IAH,Singapore Airlines (SQ),Singapore Airlines,5919,12:20,,,,,77W,,,"Direct",4029,3550,4435
+- -,DME,SIN,Singapore Airlines (SQ),Singapore Airlines,5217,10:56,,,,,77W,,,"Direct",4029,3316,4435
+- -,DPS,SIN,Singapore Airlines (SQ),Singapore Airlines,1038,02:34,,,,,772 738,,,"Direct",3940,3316,4435
+- -,DRW,SIN,Singapore Airlines (SQ),Singapore Airlines,2073,04:38,,,,,320,,,"Codeshare",3999,3316,4435
+- -,DVO,CEB,Singapore Airlines (SQ),Singapore Airlines,247,00:59,,,,,320,,,"Codeshare",4090,4206,4435
+- -,DVO,SIN,Singapore Airlines (SQ),Singapore Airlines,1542,03:35,,,,,320 738,,,"Codeshare",4090,3316,4435
+- -,DXB,CAI,Singapore Airlines (SQ),Singapore Airlines,1500,03:30,,,,,333,,,"Direct",2188,1128,4435
+- -,DXB,SIN,Singapore Airlines (SQ),Singapore Airlines,3630,07:45,,,,,77W 333,,,"Direct",2188,3316,4435
+- -,FCO,SIN,Singapore Airlines (SQ),Singapore Airlines,6243,12:59,,,,,772,,,"Direct",1555,3316,4435
+- -,FRA,JFK,Singapore Airlines (SQ),Singapore Airlines,3843,08:11,,,,,388,,,"Direct",340,3797,4435
+- -,FRA,LYS,Singapore Airlines (SQ),Singapore Airlines,338,01:10,,,,,32A 733 735,,,"Codeshare",340,1335,4435
+- -,FRA,SIN,Singapore Airlines (SQ),Singapore Airlines,6383,13:15,,,,,388 77W,,,"Direct",340,3316,4435
+- -,FUK,SIN,Singapore Airlines (SQ),Singapore Airlines,2807,06:06,,,,,333,,,"Direct",2305,3316,4435
+- -,GRU,BCN,Singapore Airlines (SQ),Singapore Airlines,5443,11:23,,,,,77W,,,"Direct",2564,1218,4435
+- -,HAN,SIN,Singapore Airlines (SQ),Singapore Airlines,1377,03:15,,,,,333,,,"Direct",3199,3316,4435
+- -,HKG,SFO,Singapore Airlines (SQ),Singapore Airlines,6910,14:19,,,,,77W,,,"Direct",3077,3469,4435
+- -,HKG,SIN,Singapore Airlines (SQ),Singapore Airlines,1593,03:41,,,,,77W 772 388,,,"Direct",3077,3316,4435
+- -,HKT,SIN,Singapore Airlines (SQ),Singapore Airlines,608,01:42,,,,,320 738 319,,,"Codeshare",3179,3316,4435
+- -,HND,SIN,Singapore Airlines (SQ),Singapore Airlines,3291,07:04,,,,,333 773,,,"Direct",2359,3316,4435
+- -,IAH,DME,Singapore Airlines (SQ),Singapore Airlines,5919,12:20,,,,,77W,,,"Direct",3550,4029,4435
+- -,ICN,SFO,Singapore Airlines (SQ),Singapore Airlines,5642,11:47,,,,,77W,,,"Direct",3930,3469,4435
+- -,ICN,SIN,Singapore Airlines (SQ),Singapore Airlines,2873,06:14,,,,,333 77W,,,"Direct",3930,3316,4435
+- -,IST,SIN,Singapore Airlines (SQ),Singapore Airlines,5383,11:15,,,,,772,,,"Direct",1701,3316,4435
+- -,JED,RUH,Singapore Airlines (SQ),Singapore Airlines,529,01:33,,,,,333,,,"Direct",2072,2082,4435
+- -,JFK,FRA,Singapore Airlines (SQ),Singapore Airlines,3843,08:11,,,,,388,,,"Direct",3797,340,4435
+- -,JNB,CPT,Singapore Airlines (SQ),Singapore Airlines,789,02:04,,,,,772,,,"Direct",813,797,4435
+- -,JNB,SIN,Singapore Airlines (SQ),Singapore Airlines,5375,11:15,,,,,772,,,"Direct",813,3316,4435
+- -,JOG,SIN,Singapore Airlines (SQ),Singapore Airlines,771,02:02,,,,,320,,,"Codeshare",3898,3316,4435
+- -,KCH,SIN,Singapore Airlines (SQ),Singapore Airlines,438,01:22,,,,,738 319,,,"Codeshare",3263,3316,4435
+- -,KIX,SIN,Singapore Airlines (SQ),Singapore Airlines,3044,06:35,,,,,333,,,"Direct",3992,3316,4435
+- -,KMG,SIN,Singapore Airlines (SQ),Singapore Airlines,1641,03:46,,,,,320 319,,,"Codeshare",3382,3316,4435
+- -,KTM,SIN,Singapore Airlines (SQ),Singapore Airlines,2197,04:53,,,,,320,,,"Codeshare",3125,3316,4435
+- -,KUL,SIN,Singapore Airlines (SQ),Singapore Airlines,184,00:52,,,,,333,,,"Direct",3304,3316,4435
+- -,LAX,NRT,Singapore Airlines (SQ),Singapore Airlines,5436,11:22,,,,,388,,,"Direct",3484,2279,4435
+- -,LAX,ORD,Singapore Airlines (SQ),Singapore Airlines,1740,03:58,,,,,320,,,"Codeshare",3484,3830,4435
+- -,LGK,SIN,Singapore Airlines (SQ),Singapore Airlines,452,01:24,,,,,320 319,,,"Codeshare",3305,3316,4435
+- -,LHR,SIN,Singapore Airlines (SQ),Singapore Airlines,6758,14:00,,,,,388 77W,,,"Direct",507,3316,4435
+- -,LOP,SIN,Singapore Airlines (SQ),Singapore Airlines,1096,02:41,,,,,319 320,,,"Codeshare",8401,3316,4435
+- -,MAA,SIN,Singapore Airlines (SQ),Singapore Airlines,1816,04:07,,,,,333,,,"Direct",3144,3316,4435
+- -,MAN,MUC,Singapore Airlines (SQ),Singapore Airlines,701,01:54,,,,,77W,,,"Direct",478,346,4435
+- -,MDC,SIN,Singapore Airlines (SQ),Singapore Airlines,1445,03:23,,,,,320,,,"Codeshare",3250,3316,4435
+- -,MEL,CHC,Singapore Airlines (SQ),Singapore Airlines,1498,03:29,,,,,320,,,"Codeshare",3339,2009,4435
+- -,MEL,SIN,Singapore Airlines (SQ),Singapore Airlines,3746,07:59,,,,,77W 773 388 333,,,"Direct",3339,3316,4435
+- -,MLE,SIN,Singapore Airlines (SQ),Singapore Airlines,2110,04:43,,,,,333,,,"Direct",3156,3316,4435
+- -,MNL,SIN,Singapore Airlines (SQ),Singapore Airlines,1474,03:26,,,,,772 333,,,"Direct",2397,3316,4435
+- -,MUC,MAN,Singapore Airlines (SQ),Singapore Airlines,701,01:54,,,,,77W,,,"Direct",346,478,4435
+- -,MUC,SIN,Singapore Airlines (SQ),Singapore Airlines,6246,12:59,,,,,77W,,,"Direct",346,3316,4435
+- -,MXP,BCN,Singapore Airlines (SQ),Singapore Airlines,447,01:23,,,,,77W,,,"Direct",1524,1218,4435
+- -,MXP,SIN,Singapore Airlines (SQ),Singapore Airlines,6402,13:18,,,,,77W,,,"Direct",1524,3316,4435
+- -,NGO,SIN,Singapore Airlines (SQ),Singapore Airlines,3130,06:45,,,,,333,,,"Direct",3942,3316,4435
+- -,NRT,LAX,Singapore Airlines (SQ),Singapore Airlines,5436,11:22,,,,,388,,,"Direct",2279,3484,4435
+- -,NRT,SIN,Singapore Airlines (SQ),Singapore Airlines,3327,07:09,,,,,77W 388,,,"Direct",2279,3316,4435
+- -,PEK,SIN,Singapore Airlines (SQ),Singapore Airlines,2788,06:04,,,,,773 333 772 77W,,,"Direct",3364,3316,4435
+- -,PEN,SIN,Singapore Airlines (SQ),Singapore Airlines,374,01:14,,,,,320 738 319,,,"Codeshare",3308,3316,4435
+- -,PER,SIN,Singapore Airlines (SQ),Singapore Airlines,2428,05:21,,,,,333 772,,,"Direct",3351,3316,4435
+- -,PKU,SIN,Singapore Airlines (SQ),Singapore Airlines,186,00:52,,,,,319,,,"Codeshare",3273,3316,4435
+- -,PLM,SIN,Singapore Airlines (SQ),Singapore Airlines,297,01:05,,,,,319,,,"Codeshare",3289,3316,4435
+- -,PNH,SIN,Singapore Airlines (SQ),Singapore Airlines,706,01:54,,,,,320,,,"Codeshare",3034,3316,4435
+- -,PVG,SIN,Singapore Airlines (SQ),Singapore Airlines,2363,05:13,,,,,388 772 77W,,,"Direct",3406,3316,4435
+- -,REP,DAD,Singapore Airlines (SQ),Singapore Airlines,344,01:11,,,,,738,,,"Codeshare",3035,3196,4435
+- -,REP,PNH,Singapore Airlines (SQ),Singapore Airlines,146,00:47,,,,,320,,,"Codeshare",3035,3034,4435
+- -,REP,SIN,Singapore Airlines (SQ),Singapore Airlines,832,02:09,,,,,738 320,,,"Codeshare",3035,3316,4435
+- -,RGN,SIN,Singapore Airlines (SQ),Singapore Airlines,1199,02:53,,,,,333,,,"Direct",3239,3316,4435
+- -,RUH,JED,Singapore Airlines (SQ),Singapore Airlines,529,01:33,,,,,333,,,"Direct",2082,2072,4435
+- -,RUH,SIN,Singapore Airlines (SQ),Singapore Airlines,4144,08:47,,,,,333,,,"Direct",2082,3316,4435
+- -,SFO,HKG,Singapore Airlines (SQ),Singapore Airlines,6910,14:19,,,,,77W,,,"Direct",3469,3077,4435
+- -,SFO,ICN,Singapore Airlines (SQ),Singapore Airlines,5642,11:47,,,,,77W,,,"Direct",3469,3930,4435
+- -,SGN,SIN,Singapore Airlines (SQ),Singapore Airlines,678,01:51,,,,,772 333,,,"Direct",3205,3316,4435
+- -,SIN,ADL,Singapore Airlines (SQ),Singapore Airlines,3354,07:12,,,,,333,,,"Direct",3316,3341,4435
+- -,SIN,AKL,Singapore Airlines (SQ),Singapore Airlines,5221,10:56,,,,,772 77W,,,"Direct",3316,2006,4435
+- -,SIN,AMD,Singapore Airlines (SQ),Singapore Airlines,2581,05:39,,,,,333,,,"Direct",3316,2994,4435
+- -,SIN,AMS,Singapore Airlines (SQ),Singapore Airlines,6529,13:33,,,,,77W 772,,,"Direct",3316,580,4435
+- -,SIN,BCN,Singapore Airlines (SQ),Singapore Airlines,6768,14:02,,,,,77W,,,"Direct",3316,1218,4435
+- -,SIN,BDO,Singapore Airlines (SQ),Singapore Airlines,620,01:44,,,,,319,,,"Codeshare",3316,3896,4435
+- -,SIN,BKI,Singapore Airlines (SQ),Singapore Airlines,889,02:16,,,,,320 319,,,"Codeshare",3316,3269,4435
+- -,SIN,BKK,Singapore Airlines (SQ),Singapore Airlines,879,02:15,,,,,772 333 763,,,"Direct",3316,3885,4435
+- -,SIN,BLR,Singapore Airlines (SQ),Singapore Airlines,1974,04:26,,,,,772,,,"Direct",3316,3131,4435
+- -,SIN,BNE,Singapore Airlines (SQ),Singapore Airlines,3814,08:07,,,,,333,,,"Direct",3316,3320,4435
+- -,SIN,BOM,Singapore Airlines (SQ),Singapore Airlines,2435,05:22,,,,,772 77W,,,"Direct",3316,2997,4435
+- -,SIN,BPN,Singapore Airlines (SQ),Singapore Airlines,908,02:18,,,,,319 320,,,"Codeshare",3316,3919,4435
+- -,SIN,BWN,Singapore Airlines (SQ),Singapore Airlines,793,02:05,,,,,773 320,,,"Direct",3316,3272,4435
+- -,SIN,CAN,Singapore Airlines (SQ),Singapore Airlines,1644,03:47,,,,,333,,,"Direct",3316,3370,4435
+- -,SIN,CCU,Singapore Airlines (SQ),Singapore Airlines,1803,04:06,,,,,333,,,"Direct",3316,3043,4435
+- -,SIN,CDG,Singapore Airlines (SQ),Singapore Airlines,6660,13:49,,,,,388,,,"Direct",3316,1382,4435
+- -,SIN,CEB,Singapore Airlines (SQ),Singapore Airlines,1504,03:30,,,,,320 738,,,"Codeshare",3316,4206,4435
+- -,SIN,CGK,Singapore Airlines (SQ),Singapore Airlines,547,01:35,,,,,773 772,,,"Direct",3316,3275,4435
+- -,SIN,CHC,Singapore Airlines (SQ),Singapore Airlines,5218,10:56,,,,,772,,,"Direct",3316,2009,4435
+- -,SIN,CJB,Singapore Airlines (SQ),Singapore Airlines,1964,04:25,,,,,320,,,"Codeshare",3316,3135,4435
+- -,SIN,CKG,Singapore Airlines (SQ),Singapore Airlines,1966,04:25,,,,,320 319,,,"Codeshare",3316,3393,4435
+- -,SIN,CMB,Singapore Airlines (SQ),Singapore Airlines,1707,03:54,,,,,333,,,"Direct",3316,3024,4435
+- -,SIN,CNX,Singapore Airlines (SQ),Singapore Airlines,1250,03:00,,,,,320,,,"Codeshare",3316,3931,4435
+- -,SIN,COK,Singapore Airlines (SQ),Singapore Airlines,1988,04:28,,,,,320 738 319,,,"Codeshare",3316,3136,4435
+- -,SIN,CPH,Singapore Airlines (SQ),Singapore Airlines,6190,12:52,,,,,772,,,"Direct",3316,609,4435
+- -,SIN,CSX,Singapore Airlines (SQ),Singapore Airlines,1950,04:24,,,,,320,,,"Codeshare",3316,3371,4435
+- -,SIN,CTU,Singapore Airlines (SQ),Singapore Airlines,2018,04:32,,,,,320 319,,,"Codeshare",3316,3395,4435
+- -,SIN,DAC,Singapore Airlines (SQ),Singapore Airlines,1799,04:05,,,,,333,,,"Direct",3316,3076,4435
+- -,SIN,DAD,Singapore Airlines (SQ),Singapore Airlines,1054,02:36,,,,,738 319 320,,,"Codeshare",3316,3196,4435
+- -,SIN,DEL,Singapore Airlines (SQ),Singapore Airlines,2583,05:39,,,,,772 773,,,"Direct",3316,3093,4435
+- -,SIN,DME,Singapore Airlines (SQ),Singapore Airlines,5217,10:56,,,,,77W,,,"Direct",3316,4029,4435
+- -,SIN,DPS,Singapore Airlines (SQ),Singapore Airlines,1038,02:34,,,,,772 738,,,"Direct",3316,3940,4435
+- -,SIN,DRW,Singapore Airlines (SQ),Singapore Airlines,2073,04:38,,,,,320,,,"Codeshare",3316,3999,4435
+- -,SIN,DVO,Singapore Airlines (SQ),Singapore Airlines,1542,03:35,,,,,320 738,,,"Codeshare",3316,4090,4435
+- -,SIN,DXB,Singapore Airlines (SQ),Singapore Airlines,3630,07:45,,,,,77W 333,,,"Direct",3316,2188,4435
+- -,SIN,FCO,Singapore Airlines (SQ),Singapore Airlines,6243,12:59,,,,,772,,,"Direct",3316,1555,4435
+- -,SIN,FRA,Singapore Airlines (SQ),Singapore Airlines,6383,13:15,,,,,77W 388,,,"Direct",3316,340,4435
+- -,SIN,FUK,Singapore Airlines (SQ),Singapore Airlines,2807,06:06,,,,,333,,,"Direct",3316,2305,4435
+- -,SIN,HAN,Singapore Airlines (SQ),Singapore Airlines,1377,03:15,,,,,333,,,"Direct",3316,3199,4435
+- -,SIN,HKG,Singapore Airlines (SQ),Singapore Airlines,1593,03:41,,,,,772 388 77W,,,"Direct",3316,3077,4435
+- -,SIN,HKT,Singapore Airlines (SQ),Singapore Airlines,608,01:42,,,,,320 738 319,,,"Codeshare",3316,3179,4435
+- -,SIN,HND,Singapore Airlines (SQ),Singapore Airlines,3291,07:04,,,,,333 773,,,"Direct",3316,2359,4435
+- -,SIN,ICN,Singapore Airlines (SQ),Singapore Airlines,2873,06:14,,,,,333 77W,,,"Direct",3316,3930,4435
+- -,SIN,IST,Singapore Airlines (SQ),Singapore Airlines,5383,11:15,,,,,772,,,"Direct",3316,1701,4435
+- -,SIN,JNB,Singapore Airlines (SQ),Singapore Airlines,5375,11:15,,,,,772,,,"Direct",3316,813,4435
+- -,SIN,JOG,Singapore Airlines (SQ),Singapore Airlines,771,02:02,,,,,320,,,"Codeshare",3316,3898,4435
+- -,SIN,KCH,Singapore Airlines (SQ),Singapore Airlines,438,01:22,,,,,738 319,,,"Codeshare",3316,3263,4435
+- -,SIN,KIX,Singapore Airlines (SQ),Singapore Airlines,3044,06:35,,,,,333,,,"Direct",3316,3992,4435
+- -,SIN,KMG,Singapore Airlines (SQ),Singapore Airlines,1641,03:46,,,,,320 319,,,"Codeshare",3316,3382,4435
+- -,SIN,KTM,Singapore Airlines (SQ),Singapore Airlines,2197,04:53,,,,,320,,,"Codeshare",3316,3125,4435
+- -,SIN,KUL,Singapore Airlines (SQ),Singapore Airlines,184,00:52,,,,,333,,,"Direct",3316,3304,4435
+- -,SIN,LGK,Singapore Airlines (SQ),Singapore Airlines,452,01:24,,,,,320 319,,,"Codeshare",3316,3305,4435
+- -,SIN,LHR,Singapore Airlines (SQ),Singapore Airlines,6758,14:00,,,,,77W 388,,,"Direct",3316,507,4435
+- -,SIN,LOP,Singapore Airlines (SQ),Singapore Airlines,1096,02:41,,,,,319 320,,,"Codeshare",3316,8401,4435
+- -,SIN,MAA,Singapore Airlines (SQ),Singapore Airlines,1816,04:07,,,,,333,,,"Direct",3316,3144,4435
+- -,SIN,MDC,Singapore Airlines (SQ),Singapore Airlines,1445,03:23,,,,,320,,,"Codeshare",3316,3250,4435
+- -,SIN,MEL,Singapore Airlines (SQ),Singapore Airlines,3746,07:59,,,,,333 77W 388 773,,,"Direct",3316,3339,4435
+- -,SIN,MLE,Singapore Airlines (SQ),Singapore Airlines,2110,04:43,,,,,333,,,"Direct",3316,3156,4435
+- -,SIN,MNL,Singapore Airlines (SQ),Singapore Airlines,1474,03:26,,,,,772 333,,,"Direct",3316,2397,4435
+- -,SIN,MUC,Singapore Airlines (SQ),Singapore Airlines,6246,12:59,,,,,77W,,,"Direct",3316,346,4435
+- -,SIN,MXP,Singapore Airlines (SQ),Singapore Airlines,6402,13:18,,,,,77W,,,"Direct",3316,1524,4435
+- -,SIN,NGO,Singapore Airlines (SQ),Singapore Airlines,3130,06:45,,,,,333,,,"Direct",3316,3942,4435
+- -,SIN,NRT,Singapore Airlines (SQ),Singapore Airlines,3327,07:09,,,,,388 77W,,,"Direct",3316,2279,4435
+- -,SIN,PEK,Singapore Airlines (SQ),Singapore Airlines,2788,06:04,,,,,772 77W 773 333,,,"Direct",3316,3364,4435
+- -,SIN,PEN,Singapore Airlines (SQ),Singapore Airlines,374,01:14,,,,,320 738 319,,,"Codeshare",3316,3308,4435
+- -,SIN,PER,Singapore Airlines (SQ),Singapore Airlines,2428,05:21,,,,,333 772,,,"Direct",3316,3351,4435
+- -,SIN,PKU,Singapore Airlines (SQ),Singapore Airlines,186,00:52,,,,,319,,,"Codeshare",3316,3273,4435
+- -,SIN,PLM,Singapore Airlines (SQ),Singapore Airlines,297,01:05,,,,,319,,,"Codeshare",3316,3289,4435
+- -,SIN,PNH,Singapore Airlines (SQ),Singapore Airlines,706,01:54,,,,,320,,,"Codeshare",3316,3034,4435
+- -,SIN,PVG,Singapore Airlines (SQ),Singapore Airlines,2363,05:13,,,,,772 77W 388,,,"Direct",3316,3406,4435
+- -,SIN,REP,Singapore Airlines (SQ),Singapore Airlines,832,02:09,,,,,738 320,,,"Codeshare",3316,3035,4435
+- -,SIN,RGN,Singapore Airlines (SQ),Singapore Airlines,1199,02:53,,,,,333,,,"Direct",3316,3239,4435
+- -,SIN,RUH,Singapore Airlines (SQ),Singapore Airlines,4144,08:47,,,,,333,,,"Direct",3316,2082,4435
+- -,SIN,SGN,Singapore Airlines (SQ),Singapore Airlines,678,01:51,,,,,772 333,,,"Direct",3316,3205,4435
+- -,SIN,SOC,Singapore Airlines (SQ),Singapore Airlines,769,02:02,,,,,320 319,,,"Codeshare",3316,3929,4435
+- -,SIN,SRG,Singapore Airlines (SQ),Singapore Airlines,723,01:56,,,,,319,,,"Codeshare",3316,3901,4435
+- -,SIN,SUB,Singapore Airlines (SQ),Singapore Airlines,854,02:12,,,,,333,,,"Direct",3316,3928,4435
+- -,SIN,SYD,Singapore Airlines (SQ),Singapore Airlines,3908,08:18,,,,,388 772 773,,,"Direct",3316,3361,4435
+- -,SIN,SZX,Singapore Airlines (SQ),Singapore Airlines,1610,03:43,,,,,738,,,"Direct",3316,3374,4435
+- -,SIN,TPE,Singapore Airlines (SQ),Singapore Airlines,2001,04:30,,,,,333 77W,,,"Direct",3316,2276,4435
+- -,SIN,TRV,Singapore Airlines (SQ),Singapore Airlines,1925,04:21,,,,,319 320,,,"Codeshare",3316,3153,4435
+- -,SIN,UPG,Singapore Airlines (SQ),Singapore Airlines,1161,02:49,,,,,319 320,,,"Codeshare",3316,3240,4435
+- -,SIN,USM,Singapore Airlines (SQ),Singapore Airlines,627,01:45,,,,,319,,,"Codeshare",3316,3177,4435
+- -,SIN,VTZ,Singapore Airlines (SQ),Singapore Airlines,1806,04:06,,,,,319,,,"Codeshare",3316,3066,4435
+- -,SIN,WUH,Singapore Airlines (SQ),Singapore Airlines,2139,04:46,,,,,319 320,,,"Codeshare",3316,3376,4435
+- -,SIN,XMN,Singapore Airlines (SQ),Singapore Airlines,1858,04:12,,,,,320,,,"Codeshare",3316,3383,4435
+- -,SIN,ZRH,Singapore Airlines (SQ),Singapore Airlines,6399,13:17,,,,,388,,,"Direct",3316,1678,4435
+- -,SJC,LAX,Singapore Airlines (SQ),Singapore Airlines,307,01:06,,,,,320,,,"Codeshare",3748,3484,4435
+- -,SOC,SIN,Singapore Airlines (SQ),Singapore Airlines,769,02:02,,,,,320 319,,,"Codeshare",3929,3316,4435
+- -,SRG,SIN,Singapore Airlines (SQ),Singapore Airlines,723,01:56,,,,,319,,,"Codeshare",3901,3316,4435
+- -,SUB,SIN,Singapore Airlines (SQ),Singapore Airlines,854,02:12,,,,,333,,,"Direct",3928,3316,4435
+- -,SYD,SIN,Singapore Airlines (SQ),Singapore Airlines,3908,08:18,,,,,773 388 772,,,"Direct",3361,3316,4435
+- -,SZX,SIN,Singapore Airlines (SQ),Singapore Airlines,1610,03:43,,,,,738,,,"Direct",3374,3316,4435
+- -,TPE,SIN,Singapore Airlines (SQ),Singapore Airlines,2001,04:30,,,,,77W 333,,,"Direct",2276,3316,4435
+- -,TRV,SIN,Singapore Airlines (SQ),Singapore Airlines,1925,04:21,,,,,319 320,,,"Codeshare",3153,3316,4435
+- -,UPG,SIN,Singapore Airlines (SQ),Singapore Airlines,1161,02:49,,,,,319 320,,,"Codeshare",3240,3316,4435
+- -,USM,SIN,Singapore Airlines (SQ),Singapore Airlines,627,01:45,,,,,319,,,"Codeshare",3177,3316,4435
+- -,VTZ,SIN,Singapore Airlines (SQ),Singapore Airlines,1806,04:06,,,,,319,,,"Codeshare",3066,3316,4435
+- -,WUH,SIN,Singapore Airlines (SQ),Singapore Airlines,2139,04:46,,,,,319 320,,,"Codeshare",3376,3316,4435
+- -,XMN,SIN,Singapore Airlines (SQ),Singapore Airlines,1858,04:12,,,,,320,,,"Codeshare",3383,3316,4435
+- -,ZRH,SIN,Singapore Airlines (SQ),Singapore Airlines,6399,13:17,,,,,388,,,"Direct",1678,3316,4435
