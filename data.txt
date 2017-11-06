@@ -1,0 +1,26 @@
+10000x
+
+AA
+CPU Time = 2493731961 ns
+Graph have 415 nodes and 2310 edges
+Average flight = 5.565200
+
+AC
+CPU Time = 434556943 ns
+Graph have 190 nodes and 720 edges
+Average flight = 3.632100
+
+SQ
+CPU Time = 118398232 ns
+Graph have 101 nodes and 214 edges
+Average flight = 2.260500
+
+WN
+CPU Time = 206582191 ns
+Graph have 93 nodes and 1150 edges
+Average flight = 3.288700
+
+AK
+CPU Time = 60401682 ns
+Graph have 58 nodes and 180 edges
+Average flight = 1.970300

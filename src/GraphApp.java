@@ -5,8 +5,8 @@ import java.io.*;
 public class GraphApp {
 	private static int size = 0;
 	private static int edgeSize = 0;
-	//AA AC SQ WN
-	private static String airlineCode = "AK";
+	//AA AC SQ WN AK
+	private static String airlineCode = "WN";
 	public static JSONObject airportsID = getFile("airports-name-"+airlineCode+".json");
 	public static JSONObject planeRoute = getFile("routes-"+airlineCode+".json");
 	
@@ -41,32 +41,60 @@ public class GraphApp {
 			System.out.println("CPU Time = "+(stop-start)+" ns");
 		}
 		else if (option == 3){
-			Random rand = new Random();
-			int totalFlight = 0;
-			System.out.println("Number of tests :");
-			int testCase = scan.nextInt();
-			start = System.nanoTime();
-			for (int i=0; i<testCase; i++){
-				totalFlight += gr.BFS(rand.nextInt(size), rand.nextInt(size), false);
+			String id[] = new String[]{
+					"1150", "2000", "3000", "4000", "5000", "6000", "7000", "8000"
+			};
+			for (String filename: id){
+				//System.out.println(airlineCode+"-"+Integer.toString(size)+"-"+filename+'.json');
+				planeRoute = getFile("airport-data//routes-"+airlineCode+"-"+Integer.toString(size)+"-"+filename+".json");
+				edgeSize = 0;
+				Graph graph = new Graph(size);
+				graph = getGraph();
+				Random rand = new Random();
+				int totalFlight = 0;
+				//System.out.println("Number of tests :");
+				//int testCase = scan.nextInt();
+				int testCase = 10000;
+				start = System.nanoTime();
+				for (int i=0; i<testCase; i++){
+					totalFlight += graph.BFS(rand.nextInt(size), rand.nextInt(size), false);
+				}
+				stop = System.nanoTime();
+				System.out.println(filename+", "+(stop-start)/testCase);
+				//System.out.printf("Graph have %d nodes and %d edges\n",size,edgeSize);
+				//System.out.printf("Average flight = %f", (double)totalFlight/testCase);
 			}
-			stop = System.nanoTime();
-			System.out.println("CPU Time = "+(stop-start)+" ns");
-			System.out.printf("Graph have %d nodes and %d edges\n",size,edgeSize);
-			System.out.printf("Average flight = %f", (double)totalFlight/testCase);
 		}
 //		gr.BFS(0, 8);
 //		System.out.println(getAirportName(3)+getRoute(3));
 		
 	}
 	
-	public static void test(){
-		int graphSize = 5;
+	public static void mainx(String[] args){
+		int graphSize = 100;
 		Graph g = new Graph(graphSize);
-		g.addEdge(0, 1);
-		g.addEdge(0, 2);
-		g.addEdge(1, 3);
-		g.addEdge(3, 4);
-		g.printGraph();
+		HashMap<Integer,ArrayList<Integer>> Edges = new HashMap<Integer,ArrayList<Integer>>();
+
+		for (int i=0; i<250; i++){
+			Random rand = new Random();
+			int a,b;
+			do{
+			a = rand.nextInt(graphSize);
+			b = rand.nextInt(graphSize);
+			if(Edges.get(a) == null){
+				ArrayList<Integer> al = new ArrayList<Integer>();
+				
+				Edges.put(a, al);
+				break;
+			}
+			} while (Edges.get(a).contains(b));
+			Edges.get(a).add(b);
+			System.out.print(a+"     ");
+			for(Integer qwe: Edges.get(a)){
+				System.out.print(qwe+" ");
+			}
+			System.out.println();
+		}
 		g.BFS(1,4, true);
 	}
 	

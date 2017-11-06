@@ -1,0 +1,24 @@
+AC-190-750
+CPU Time = 455031775 ns
+Graph have 190 nodes and 750 edges
+Average flight = 3.545100
+AC-190-1000
+CPU Time = 439906466 ns
+Graph have 190 nodes and 1000 edges
+Average flight = 3.205000
+AC-190-1250
+CPU Time = 446822405 ns
+Graph have 190 nodes and 1250 edges
+Average flight = 3.088800
+AC-190-1500
+CPU Time = 470511058 ns
+Graph have 190 nodes and 1500 edges
+Average flight = 2.956600
+AC-190-1750
+CPU Time = 483397558 ns
+Graph have 190 nodes and 1750 edges
+Average flight = 2.880500
+AC-190-2000
+CPU Time = 500248494 ns
+Graph have 190 nodes and 2000 edges
+Average flight = 2.825000
